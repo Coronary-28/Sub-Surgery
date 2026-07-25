@@ -1083,7 +1083,32 @@ function renderExam(){
 }
 function renderGrid(){ if(!state.currentExam) return; const grid=el('question-grid'); grid.innerHTML=''; state.currentExam.questions.forEach((q,idx)=>{ let cls='grid-btn'; if(idx===state.currentExam.currentIndex) cls+=' current'; else if(state.currentExam.answers[idx]!==null){ if(state.currentExam.mode==='training' && state.currentExam.firstAnswers[idx]!==null) cls+=isAnswerCorrect(q,state.currentExam.firstAnswers[idx])?' answered':' wrong'; else cls+=' answered'; } if(state.currentExam.direction==='oneway' && idx<state.currentExam.currentIndex) cls+=' disabled'; const btn=document.createElement('button'); btn.className=cls; btn.textContent=String(idx+1); btn.onclick=()=>navigateToQuestion(idx); grid.appendChild(btn); }); }
 function renderExamNav(){ if(!state.currentExam) return; const nav=el('exam-nav'); const idx=state.currentExam.currentIndex, last=state.currentExam.questions.length-1; let prevBtn='<span></span>', nextBtn='<span></span>'; if(state.currentExam.direction==='twoway' && idx>0) prevBtn='<button class="btn-secondary" onclick="prevQuestion()">Previous ←</button>'; if(state.currentExam.mode==='training'){ if(state.currentExam.showAnswer) nextBtn=idx<last?'<button class="btn-primary" onclick="nextQuestion()">Next →</button>':'<button class="btn-primary" onclick="finishExam()">Finish</button>'; else if(state.currentExam.answers[idx]!==null) nextBtn='<button class="btn-small" onclick="showAnswer()">Show Answer</button>'; } else if(state.currentExam.answers[idx]!==null) nextBtn=idx<last?'<button class="btn-primary" onclick="nextQuestion()">Next →</button>':'<button class="btn-primary" onclick="finishExam()">Finish</button>'; nav.innerHTML=prevBtn + nextBtn; }
-function selectOption(optionIndex){ if(!state.currentExam || state.currentExam.submitted) return; if(state.currentExam.mode==='training' && state.currentExam.showAnswer) return; const idx=state.currentExam.currentIndex; const q=state.currentExam.questions[idx]; state.currentExam.answers[idx]=optionIndex; if(state.currentExam.firstAnswers[idx]===null) state.currentExam.firstAnswers[idx]=optionIndex; const correct=isAnswerCorrect(q,optionIndex); if(state.currentExam.mode==='training'){ if(state.settings.feedbackEnabled) playEffectSound(correct?'right':'wrong'); if(correct){ state.currentExam.showAnswer=true; if(state.settings.animations!==false) showFireworks(48,12); } else { if(!state.wrongQuestions.includes(q.id)){ state.wrongQuestions.push(q.id); saveWrongQuestions(); } showToast(themeWrongMessage(),'error'); } saveExamState(); renderExam(); } else { saveExamState(); renderExam(); } }
+function selectOption(optionIndex){
+  if(!state.currentExam || state.currentExam.submitted) return;
+  if(state.currentExam.mode==='training' && state.currentExam.showAnswer) return;
+  const idx=state.currentExam.currentIndex;
+  const q=state.currentExam.questions[idx];
+  state.currentExam.answers[idx]=optionIndex;
+  if(state.currentExam.firstAnswers[idx]===null) state.currentExam.firstAnswers[idx]=optionIndex;
+  const correct=isAnswerCorrect(q,optionIndex);
+  if(state.currentExam.mode==='training'){
+    if(correct){
+      state.currentExam.showAnswer=true;
+    } else {
+      if(!state.wrongQuestions.includes(q.id)){ state.wrongQuestions.push(q.id); saveWrongQuestions(); }
+      showToast(themeWrongMessage(),'error');
+    }
+    saveExamState();
+    renderExam();
+    setTimeout(() => {
+      if(state.settings.feedbackEnabled !== false) playEffectSound(correct ? 'right' : 'wrong');
+      if(correct && state.settings.animations !== false) showFireworks(48, 12);
+    }, 50);
+  } else {
+    saveExamState();
+    renderExam();
+  }
+}
 function themeWrongMessage(){ switch(state.settings.theme){ case 'desert': return 'الجواب انحرف عن مسار القافلة.'; case 'space': return 'Trajectory mismatch. Try again.'; case 'pirates': return 'Wrong turn on the treasure map.'; case 'castle': return 'The dragon dodged that answer.'; case 'lab': return 'Experiment unstable. Re-check the sample.'; default: return 'إجابة خاطئة.'; } }
 function showAnswer(){ if(!state.currentExam) return; state.currentExam.showAnswer=true; const idx=state.currentExam.currentIndex; const q=state.currentExam.questions[idx]; const ans=state.currentExam.firstAnswers[idx]; if(ans!==null && !isAnswerCorrect(q,ans) && !state.wrongQuestions.includes(q.id)){ state.wrongQuestions.push(q.id); saveWrongQuestions(); } saveExamState(); renderExam(); }
 function nextQuestion(){ if(!state.currentExam) return; if(state.currentExam.currentIndex<state.currentExam.questions.length-1){ state.currentExam.currentIndex+=1; state.currentExam.showAnswer=false; saveExamState(); renderExam(); scrollQuestionIntoView(true); } }
