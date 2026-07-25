@@ -937,7 +937,7 @@
     renderExam();
   };
 
-  window.submitMultipleAnswer = function() {
+    window.submitMultipleAnswer = function() {
     if (!state.currentExam) return;
     const idx = state.currentExam.currentIndex;
     const q = state.currentExam.questions[idx];
@@ -949,8 +949,15 @@
     }
     if (window.isAnswerCorrect(q, ans)) {
       state.currentExam.showAnswer = true;
+      if (state.currentExam.mode === 'training') {
+        playRightSound();
+        triggerTrainingAnimation();
+      }
     } else {
       state.currentExam.showAnswer = false;
+      if (state.currentExam.mode === 'training') {
+        playWrongSound();
+      }
       if (!state.wrongQuestions.includes(q.id)) {
         state.wrongQuestions.push(q.id);
         saveWrongQuestions();
@@ -959,6 +966,7 @@
     saveExamState();
     renderExam();
   };
+
 
   window.submitExamFinish = function() {
     if(!state.currentExam) return;
@@ -1189,13 +1197,22 @@
     scrollQuestionIntoView(true);
   };
 
-  showAnswer = function(){
+    showAnswer = function(){
     if(!state.currentExam) return;
     state.currentExam.showAnswer = true;
     const idx = state.currentExam.currentIndex;
     const q = state.currentExam.questions[idx];
-    const ans = state.currentExam.firstAnswers[idx];
-    if(ans !== null && !window.isAnswerCorrect(q, ans) && !state.wrongQuestions.includes(q.id)){
+    const ans = state.currentExam.answers[idx] !== null ? state.currentExam.answers[idx] : state.currentExam.firstAnswers[idx];
+    const isCorrect = window.isAnswerCorrect(q, ans);
+    if (state.currentExam.mode === 'training') {
+      if (isCorrect) {
+        playRightSound();
+        triggerTrainingAnimation();
+      } else {
+        playWrongSound();
+      }
+    }
+    if(ans !== null && !isCorrect && !state.wrongQuestions.includes(q.id)){
       state.wrongQuestions.push(q.id);
       saveWrongQuestions();
     }
@@ -1319,7 +1336,86 @@
       secondsAudio.play().catch(()=>{});
     }catch(e){}
   }
+  async function prepareFeedbackAudio(type) {
+    const elementId = type === 'right' ? 'right-audio' : 'wrong-audio';
+    let audioEl = el(elementId);
+    if (!audioEl) {
+      audioEl = document.createElement('audio');
+      audioEl.id = elementId;
+      audioEl.preload = 'auto';
+      document.body.appendChild(audioEl);
+    }
+    if (!audioEl.dataset.currentSrc) {
+      const fileName = type === 'right' ? 'right.mp3' : 'wrong.mp3';
+      const candidates = [
+        fileName,
+        `audio/${fileName}`,
+        `assets/audio/${fileName}`,
+        `./audio/${fileName}`,
+        `./${fileName}`
+      ];
+      let src = null;
+      for (const candidate of candidates) {
+        try {
+          const u = encodeURI(candidate);
+          const r = await fetch(u, { method: 'HEAD' });
+          if (r.ok) {
+            src = u;
+            break;
+          }
+        } catch (e) {}
+      }
+      if (!src) src = fileName;
+      audioEl.src = src;
+      audioEl.dataset.currentSrc = src;
+      audioEl.load();
+    }
+    audioEl.volume = (state.settings.volume || 50) / 100;
+    return audioEl;
+  }
 
+  window.playRightSound = function() {
+    if (state.settings && state.settings.feedbackEnabled === false) return;
+    prepareFeedbackAudio('right').then(audioEl => {
+      if (!audioEl) return;
+      try {
+        audioEl.currentTime = 0;
+        audioEl.volume = (state.settings.volume || 50) / 100;
+        audioEl.play().catch(() => {});
+      } catch (e) {}
+    });
+  };
+
+  window.playWrongSound = function() {
+    if (state.settings && state.settings.feedbackEnabled === false) return;
+    prepareFeedbackAudio('wrong').then(audioEl => {
+      if (!audioEl) return;
+      try {
+        audioEl.currentTime = 0;
+        audioEl.volume = (state.settings.volume || 50) / 100;
+        audioEl.play().catch(() => {});
+      } catch (e) {}
+    });
+  };
+
+  window.triggerTrainingAnimation = function() {
+    if (state.settings && state.settings.animations === false) return;
+    if (typeof startFireworks === 'function') {
+      startFireworks();
+    } else if (typeof triggerAnimation === 'function') {
+      triggerAnimation();
+    } else if (typeof showFireworks === 'function') {
+      showFireworks();
+    } else if (typeof launchFireworks === 'function') {
+      launchFireworks();
+    } else {
+      const canvas = el('fireworks-canvas');
+      if (canvas) {
+        canvas.classList.remove('hidden');
+        setTimeout(() => canvas.classList.add('hidden'), 2500);
+      }
+    }
+  };
   const __origStartTimerPatch = typeof startTimer === 'function' ? startTimer : null;
   startTimer = function(){
     clearInterval(state.timerInterval);
