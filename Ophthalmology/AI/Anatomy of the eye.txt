@@ -1,0 +1,181 @@
+The cornea receives its nutrition and oxygen mainly through diffusion. Which of the following is the correct source for its oxygen supply?
+A) Limbal blood vessels
+B) Aqueous humour
+C) Tear film
+D) Vitreous body
+E) Ciliary body vasculature
+Correct Answer: C) Tear film
+Explanation: The cornea is avascular and depends entirely on diffusion for nourishment — oxygen comes from the tear film, glucose from the aqueous humour, and the limbal vessels contribute nutrients at the periphery only. This avascularity is essential for maintaining corneal transparency.
+###
+Arrange the five histological layers of the cornea in correct anterior-to-posterior order:
+A) Epithelium → Stroma → Bowman's layer → Descemet's membrane → Endothelium
+B) Epithelium → Bowman's layer → Stroma → Descemet's membrane → Endothelium
+C) Endothelium → Descemet's membrane → Stroma → Bowman's layer → Epithelium
+D) Epithelium → Descemet's membrane → Stroma → Bowman's layer → Endothelium
+E) Bowman's layer → Epithelium → Stroma → Endothelium → Descemet's membrane
+Correct Answer: B) Epithelium → Bowman's layer → Stroma → Descemet's membrane → Endothelium
+Explanation: The correct anterior-to-posterior sequence is epithelium (regenerates fast) → Bowman's layer (does not regenerate) → stroma (~90% of thickness) → Descemet's membrane (basement membrane) → endothelium (pump layer, does not regenerate).
+###
+A 32-year-old contact lens wearer with poor hygiene presents with a painful red eye. A corneal scrape grows an organism that rapidly progressed to perforation within 48 hours. Which corneal layer, if breached, is classically unable to regenerate and predisposes to permanent scarring?
+A) Epithelium
+B) Bowman's layer
+C) Stroma
+D) Descemet's membrane
+E) Tear film
+Correct Answer: B) Bowman's layer
+Explanation: Bowman's layer is tough but does not regenerate if damaged, unlike the epithelium which regenerates within days. This is why deep corneal injuries involving Bowman's layer or beyond tend to leave permanent scarring rather than healing cleanly.
+###
+The main route of aqueous humour outflow, accounting for approximately 90–96% of drainage, is:
+A) The uveoscleral pathway through the ciliary body face
+B) Direct absorption by the lens
+C) The trabecular meshwork and Schlemm's canal
+D) The vitreous cavity
+E) The central retinal vein
+Correct Answer: C) The trabecular meshwork and Schlemm's canal
+Explanation: Aqueous drains conventionally through the trabecular meshwork into Schlemm's canal and then into episcleral veins, accounting for the large majority of outflow; the uveoscleral route handles only about 4–10%. This conventional pathway is the main pharmacological target in glaucoma treatment.
+###
+All of the following statements about the sclera are true EXCEPT:
+A) It is continuous with the cornea at the limbus
+B) It is continuous with the dural sheath of the optic nerve posteriorly
+C) The four rectus muscles insert into it anterior to the equator
+D) It is the middle vascular coat of the eye
+E) It gives the globe its shape and protects intraocular contents
+Correct Answer: D) It is the middle vascular coat of the eye
+Explanation: The sclera is part of the outer fibrous coat (with the cornea), not the middle vascular coat — the middle vascular coat is the uveal tract (iris, ciliary body, choroid).
+###
+Which structure is responsible for producing the outer lipid layer of the tear film, and what is its main function?
+A) Lacrimal gland; provides 90% of tear thickness
+B) Goblet cells; wets the hydrophobic corneal epithelium
+C) Meibomian glands; retards evaporation of the aqueous layer
+D) Accessory lacrimal glands; delivers antibacterial proteins
+E) Conjunctival crypts; produces mucin
+Correct Answer: C) Meibomian glands; retards evaporation of the aqueous layer
+Explanation: The meibomian glands, located within the tarsal plates, secrete the outer lipid layer whose main job is to slow evaporation of the underlying aqueous layer. Dysfunction of these glands is a major cause of evaporative dry eye.
+###
+The ciliary body has two principal functions. Select the correct pair:
+A) Aqueous humour drainage and pupil constriction
+B) Aqueous humour production and accommodation
+C) Colour vision and dark adaptation
+D) Tear secretion and blinking
+E) Refraction and pigmentation of the iris
+Correct Answer: B) Aqueous humour production and accommodation
+Explanation: The ciliary epithelium (non-pigmented layer) produces aqueous humour, while the ciliary muscle mediates accommodation by relaxing the zonular fibres to allow the lens to become more spherical. Loss of this accommodative function with age is the basis of presbyopia.
+###
+Contraction of which iris muscle produces mydriasis (pupil dilation), and via which autonomic pathway?
+A) Sphincter pupillae; parasympathetic (CN III)
+B) Dilator pupillae; sympathetic
+C) Sphincter pupillae; sympathetic
+D) Ciliary muscle; parasympathetic
+E) Dilator pupillae; parasympathetic (CN III)
+Correct Answer: B) Dilator pupillae; sympathetic
+Explanation: The dilator pupillae consists of radial fibres under sympathetic control, producing mydriasis, whereas the sphincter pupillae is circular and parasympathetically innervated (CN III), producing miosis.
+###
+Which statement about the lens is correct?
+A) It is the eye's most powerful refractive structure
+B) It is vascularised to support its constant growth
+C) It contributes approximately one-third of the eye's total refractive power
+D) It stops growing once the eye reaches adult size
+E) It is fixed in position and cannot vary its power
+Correct Answer: C) It contributes approximately one-third of the eye's total refractive power
+Explanation: The lens contributes about one-third of the eye's ~60 D total refractive power, with the cornea providing the other two-thirds. Unlike the cornea, the lens is the only structure able to vary its power, and it is avascular, continuing to grow throughout life by laying down new fibres.
+###
+A patient has a dense mature cataract. Which of the following visual functions is expected to be relatively preserved, helping distinguish this from glaucoma?
+A) Peripheral visual field
+B) Central visual acuity
+C) Colour discrimination
+D) Contrast sensitivity
+E) Dark adaptation
+Correct Answer: A) Peripheral visual field
+Explanation: In lens or macular pathology such as cataract, central acuity is affected while the peripheral field is generally preserved — the opposite pattern to glaucoma, where the peripheral field is lost first and central acuity is preserved until late disease.
+###
+Cones, responsible for colour vision and fine visual acuity, are exclusively found at which retinal location?
+A) Optic disc
+B) Ora serrata
+C) Fovea centralis
+D) Peripheral retina
+E) Pars plana
+Correct Answer: C) Fovea centralis
+Explanation: Cones are concentrated at the macula and are exclusively present at its centre, the fovea centralis, which is the point of sharpest vision. Rods, by contrast, are far more numerous but absent from the very centre of the fovea, mediating dim-light and peripheral vision instead.
+###
+The optic disc corresponds to the physiological blind spot because:
+A) It contains only rods
+B) It contains no photoreceptors
+C) It is the thinnest part of the retina
+D) It lacks a blood supply
+E) It is where the vitreous attaches most firmly
+
+Correct Answer: B) It contains no photoreceptors
+Explanation: The optic disc is where retinal ganglion cell axons converge and exit the eye as the optic nerve; since it contains no photoreceptors, it corresponds to the physiological blind spot. This is distinct from the fovea, which has the highest photoreceptor density.
+###
+The vitreous body is firmly attached at all of the following sites EXCEPT:
+A) The vitreous base, just behind the ora serrata
+B) The optic disc margin
+C) The macula
+D) The lens equator
+E) None of the above — all are correct attachment sites
+Correct Answer: D) The lens equator
+Explanation: The vitreous is firmly attached at the vitreous base, the optic disc margin, and the macula — these are the sites that matter when the vitreous shrinks and pulls with age, leading to posterior vitreous detachment. It is not described as firmly attached at the lens equator.
+###
+A 68-year-old man develops sudden painless monocular vision loss. An embolus is suspected to have lodged in a branch of the ophthalmic artery. If the embolus blocks the central retinal artery rather than a posterior ciliary artery, which structure is primarily affected?
+A) The choroid
+B) The optic nerve head via ischaemic optic neuropathy
+C) The retina
+D) The ciliary body
+E) The sclera
+Correct Answer: C) The retina
+Explanation: The central retinal artery supplies the retina, so its occlusion causes central retinal artery occlusion (CRAO), while blockage of a posterior ciliary artery instead causes ischaemic optic neuropathy by affecting the optic nerve head and choroid. Both vessels arise from the ophthalmic artery, itself one of the first branches of the internal carotid artery.
+###
+Which of the following best describes the anterior chamber and drainage angle?
+A) The space between the lens and vitreous, containing vitreous gel
+B) The space between the cornea and iris, filled with aqueous humour, with the drainage angle at the periphery
+C) The space posterior to the iris, filled with vitreous
+D) A space found only in angle-closure glaucoma
+E) The space between the retina and choroid
+Correct Answer: B) The space between the cornea and iris/lens, filled with aqueous humour, with the drainage angle at the periphery
+Explanation: The anterior chamber lies between the cornea anteriorly and the iris posteriorly, filled with aqueous humour, and the drainage angle at its periphery contains the trabecular meshwork.
+###
+The conjunctiva contains goblet cells whose function is to:
+A) Produce the outer lipid layer of the tear film
+B) Secrete the mucin layer of the tear film
+C) Produce aqueous humour
+D) Regenerate the corneal epithelium
+E) Provide sensory innervation to the ocular surface
+Correct Answer: B) Secrete the mucin layer of the tear film
+Explanation: Goblet cells within the conjunctiva secrete mucin, which allows the aqueous tear layer to wet the otherwise hydrophobic corneal epithelium evenly. The conjunctiva itself has bulbar and palpebral parts meeting at the fornices.
+###
+Which of the following is the correct pairing of a uveal tract structure with its principal role?
+A) Iris — aqueous humour production
+B) Choroid — supplies the outer retina via the choriocapillaris
+C) Ciliary body — colour vision
+D) Sclera — accommodation
+E) Cornea — pupillary constriction
+Correct Answer: B) Choroid — supplies the outer retina via the choriocapillaris
+Explanation: The choroid is the posterior, vascular part of the uveal tract, and its capillary layer (the choriocapillaris) supplies the outer retina, including the photoreceptors. New vessel growth from the choroid through Bruch's membrane is also the underlying mechanism of wet age-related macular degeneration.
+###
+A patient has an intraocular pressure of 24 mmHg on tonometry. Which of the following is the accepted normal range for IOP, against which this value should be judged?
+A) 5–10 mmHg
+B) 10–21 mmHg
+C) 21–30 mmHg
+D) 15–25 mmHg
+E) 0–5 mmHg
+Correct Answer: B) 10–21 mmHg
+Explanation: The normal intraocular pressure range is 10–21 mmHg, set by the balance between aqueous production by the ciliary body and its drainage through the trabecular and uveoscleral routes. A reading of 24 mmHg is therefore above the normal range and warrants further glaucoma work-up.
+###
+~Choose the correct answers~
+Select all correct statements regarding the three concentric layers of the globe:
+A) The outer fibrous coat is composed of the cornea and sclera
+B) The middle vascular coat (uveal tract) includes the iris, ciliary body, and choroid
+C) The inner neural coat is the retina
+D) The lens forms part of the outer fibrous coat
+E) The globe wall is composed of these three concentric layers
+Correct Answer: A) The outer fibrous coat is composed of the cornea and sclera / B) The middle vascular coat (uveal tract) includes the iris, ciliary body, and choroid / C) The inner neural coat is the retina / E) The globe wall is composed of these three concentric layers
+Explanation: A, B, C, and E are all true — the globe wall consists of an outer fibrous coat (cornea + sclera), a middle vascular coat (uveal tract: iris + ciliary body + choroid), and an inner neural coat (retina). D is false because the lens is one of the three transparent refracting media inside the globe (with aqueous humour and vitreous), not part of the wall itself.
+###
+Regarding the refractive power of the eye, which statement is correct?
+A) The lens contributes roughly two-thirds and the cornea one-third of total refractive power
+B) The cornea contributes roughly two-thirds and the lens one-third of total refractive power
+C) The vitreous is the eye's most powerful refractive structure
+D) The sclera contributes significantly to refraction
+E) Refractive power is equally divided among the cornea, lens, and vitreous
+Correct Answer: B) The cornea contributes roughly two-thirds and the lens one-third of total refractive power
+Explanation: The cornea provides about two-thirds of the eye's total refractive power (~43 D of the ~60 D total), while the lens contributes the remaining third — though only the lens can vary its own power for accommodation. This distribution is a frequently tested high-yield fact in ophthalmic optics.
