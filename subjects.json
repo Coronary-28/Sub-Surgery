@@ -827,14 +827,14 @@
     ],
     "ai": [
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye",
-        "name": "Anatomy of the eye",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai",
+        "name": "Anatomy of the Eye - AI",
         "type": "ai",
         "subjectName": "Ophthalmology",
-        "path": "Ophthalmology/AI/Anatomy of the eye.txt",
+        "path": "Ophthalmology/AI/Anatomy of the Eye - AI.txt",
         "questions": [
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye__1__gqlknr",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__1__gqlknr",
             "number": "1",
             "text": "The cornea receives its nutrition and oxygen mainly through diffusion. Which of the following is the correct source for its oxygen supply?",
             "options": [
@@ -862,12 +862,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the eye",
-            "groupName": "Anatomy of the eye",
+            "lectureName": "Anatomy of the Eye - AI",
+            "groupName": "Anatomy of the Eye - AI",
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye__2__o7g3u6",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__2__o7g3u6",
             "number": "2",
             "text": "Arrange the five histological layers of the cornea in correct anterior-to-posterior order:",
             "options": [
@@ -895,12 +895,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the eye",
-            "groupName": "Anatomy of the eye",
+            "lectureName": "Anatomy of the Eye - AI",
+            "groupName": "Anatomy of the Eye - AI",
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye__3__cfx4d3",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__3__cfx4d3",
             "number": "3",
             "text": "A 32-year-old contact lens wearer with poor hygiene presents with a painful red eye. A corneal scrape grows an organism that rapidly progressed to perforation within 48 hours. Which corneal layer, if breached, is classically unable to regenerate and predisposes to permanent scarring?",
             "options": [
@@ -928,12 +928,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the eye",
-            "groupName": "Anatomy of the eye",
+            "lectureName": "Anatomy of the Eye - AI",
+            "groupName": "Anatomy of the Eye - AI",
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye__4__byvm7s",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__4__byvm7s",
             "number": "4",
             "text": "The main route of aqueous humour outflow, accounting for approximately 90–96% of drainage, is:",
             "options": [
@@ -961,12 +961,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the eye",
-            "groupName": "Anatomy of the eye",
+            "lectureName": "Anatomy of the Eye - AI",
+            "groupName": "Anatomy of the Eye - AI",
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye__5__n5ujbn",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__5__n5ujbn",
             "number": "5",
             "text": "All of the following statements about the sclera are true EXCEPT:",
             "options": [
@@ -994,12 +994,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the eye",
-            "groupName": "Anatomy of the eye",
+            "lectureName": "Anatomy of the Eye - AI",
+            "groupName": "Anatomy of the Eye - AI",
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye__6__lrm1t4",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__6__lrm1t4",
             "number": "6",
             "text": "Which structure is responsible for producing the outer lipid layer of the tear film, and what is its main function?",
             "options": [
@@ -1027,12 +1027,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the eye",
-            "groupName": "Anatomy of the eye",
+            "lectureName": "Anatomy of the Eye - AI",
+            "groupName": "Anatomy of the Eye - AI",
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye__7__1ztxvo",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__7__1ztxvo",
             "number": "7",
             "text": "The ciliary body has two principal functions. Select the correct pair:",
             "options": [
@@ -1060,12 +1060,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the eye",
-            "groupName": "Anatomy of the eye",
+            "lectureName": "Anatomy of the Eye - AI",
+            "groupName": "Anatomy of the Eye - AI",
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye__8__cesdgv",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__8__cesdgv",
             "number": "8",
             "text": "Contraction of which iris muscle produces mydriasis (pupil dilation), and via which autonomic pathway?",
             "options": [
@@ -1093,12 +1093,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the eye",
-            "groupName": "Anatomy of the eye",
+            "lectureName": "Anatomy of the Eye - AI",
+            "groupName": "Anatomy of the Eye - AI",
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye__9__ek1lj3",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__9__ek1lj3",
             "number": "9",
             "text": "Which statement about the lens is correct?",
             "options": [
@@ -1126,12 +1126,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the eye",
-            "groupName": "Anatomy of the eye",
+            "lectureName": "Anatomy of the Eye - AI",
+            "groupName": "Anatomy of the Eye - AI",
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye__10__2h3u8j",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__10__2h3u8j",
             "number": "10",
             "text": "A patient has a dense mature cataract. Which of the following visual functions is expected to be relatively preserved, helping distinguish this from glaucoma?",
             "options": [
@@ -1159,12 +1159,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the eye",
-            "groupName": "Anatomy of the eye",
+            "lectureName": "Anatomy of the Eye - AI",
+            "groupName": "Anatomy of the Eye - AI",
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye__11__uxu9ln",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__11__uxu9ln",
             "number": "11",
             "text": "Cones, responsible for colour vision and fine visual acuity, are exclusively found at which retinal location?",
             "options": [
@@ -1192,12 +1192,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the eye",
-            "groupName": "Anatomy of the eye",
+            "lectureName": "Anatomy of the Eye - AI",
+            "groupName": "Anatomy of the Eye - AI",
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye__12__hv7zyh",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__12__hv7zyh",
             "number": "12",
             "text": "The optic disc corresponds to the physiological blind spot because:",
             "options": [
@@ -1225,12 +1225,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the eye",
-            "groupName": "Anatomy of the eye",
+            "lectureName": "Anatomy of the Eye - AI",
+            "groupName": "Anatomy of the Eye - AI",
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye__13__ajuba3",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__13__ajuba3",
             "number": "13",
             "text": "The vitreous body is firmly attached at all of the following sites EXCEPT:",
             "options": [
@@ -1258,12 +1258,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the eye",
-            "groupName": "Anatomy of the eye",
+            "lectureName": "Anatomy of the Eye - AI",
+            "groupName": "Anatomy of the Eye - AI",
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye__14__lq89tq",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__14__lq89tq",
             "number": "14",
             "text": "A 68-year-old man develops sudden painless monocular vision loss. An embolus is suspected to have lodged in a branch of the ophthalmic artery. If the embolus blocks the central retinal artery rather than a posterior ciliary artery, which structure is primarily affected?",
             "options": [
@@ -1291,12 +1291,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the eye",
-            "groupName": "Anatomy of the eye",
+            "lectureName": "Anatomy of the Eye - AI",
+            "groupName": "Anatomy of the Eye - AI",
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye__15__12aij3",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__15__12aij3",
             "number": "15",
             "text": "Which of the following best describes the anterior chamber and drainage angle?",
             "options": [
@@ -1324,12 +1324,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the eye",
-            "groupName": "Anatomy of the eye",
+            "lectureName": "Anatomy of the Eye - AI",
+            "groupName": "Anatomy of the Eye - AI",
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye__16__tinoux",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__16__tinoux",
             "number": "16",
             "text": "The conjunctiva contains goblet cells whose function is to:",
             "options": [
@@ -1357,12 +1357,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the eye",
-            "groupName": "Anatomy of the eye",
+            "lectureName": "Anatomy of the Eye - AI",
+            "groupName": "Anatomy of the Eye - AI",
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye__17__9wq294",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__17__9wq294",
             "number": "17",
             "text": "Which of the following is the correct pairing of a uveal tract structure with its principal role?",
             "options": [
@@ -1390,12 +1390,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the eye",
-            "groupName": "Anatomy of the eye",
+            "lectureName": "Anatomy of the Eye - AI",
+            "groupName": "Anatomy of the Eye - AI",
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye__18__hmneq4",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__18__hmneq4",
             "number": "18",
             "text": "A patient has an intraocular pressure of 24 mmHg on tonometry. Which of the following is the accepted normal range for IOP, against which this value should be judged?",
             "options": [
@@ -1423,12 +1423,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the eye",
-            "groupName": "Anatomy of the eye",
+            "lectureName": "Anatomy of the Eye - AI",
+            "groupName": "Anatomy of the Eye - AI",
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye__19__dha38",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__19__dha38",
             "number": "19",
             "text": "Select all correct statements regarding the three concentric layers of the globe:",
             "options": [
@@ -1461,12 +1461,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the eye",
-            "groupName": "Anatomy of the eye",
+            "lectureName": "Anatomy of the Eye - AI",
+            "groupName": "Anatomy of the Eye - AI",
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye__20__8scc8w",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__20__8scc8w",
             "number": "20",
             "text": "Regarding the refractive power of the eye, which statement is correct?",
             "options": [
@@ -1494,8 +1494,8 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the eye",
-            "groupName": "Anatomy of the eye",
+            "lectureName": "Anatomy of the Eye - AI",
+            "groupName": "Anatomy of the Eye - AI",
             "sourceType": "ai"
           }
         ]
@@ -2307,7 +2307,7 @@
         "sourceType": "lecture"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye__1__gqlknr",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__1__gqlknr",
         "number": "1",
         "text": "The cornea receives its nutrition and oxygen mainly through diffusion. Which of the following is the correct source for its oxygen supply?",
         "options": [
@@ -2335,12 +2335,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the eye",
-        "groupName": "Anatomy of the eye",
+        "lectureName": "Anatomy of the Eye - AI",
+        "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye__2__o7g3u6",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__2__o7g3u6",
         "number": "2",
         "text": "Arrange the five histological layers of the cornea in correct anterior-to-posterior order:",
         "options": [
@@ -2368,12 +2368,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the eye",
-        "groupName": "Anatomy of the eye",
+        "lectureName": "Anatomy of the Eye - AI",
+        "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye__3__cfx4d3",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__3__cfx4d3",
         "number": "3",
         "text": "A 32-year-old contact lens wearer with poor hygiene presents with a painful red eye. A corneal scrape grows an organism that rapidly progressed to perforation within 48 hours. Which corneal layer, if breached, is classically unable to regenerate and predisposes to permanent scarring?",
         "options": [
@@ -2401,12 +2401,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the eye",
-        "groupName": "Anatomy of the eye",
+        "lectureName": "Anatomy of the Eye - AI",
+        "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye__4__byvm7s",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__4__byvm7s",
         "number": "4",
         "text": "The main route of aqueous humour outflow, accounting for approximately 90–96% of drainage, is:",
         "options": [
@@ -2434,12 +2434,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the eye",
-        "groupName": "Anatomy of the eye",
+        "lectureName": "Anatomy of the Eye - AI",
+        "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye__5__n5ujbn",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__5__n5ujbn",
         "number": "5",
         "text": "All of the following statements about the sclera are true EXCEPT:",
         "options": [
@@ -2467,12 +2467,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the eye",
-        "groupName": "Anatomy of the eye",
+        "lectureName": "Anatomy of the Eye - AI",
+        "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye__6__lrm1t4",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__6__lrm1t4",
         "number": "6",
         "text": "Which structure is responsible for producing the outer lipid layer of the tear film, and what is its main function?",
         "options": [
@@ -2500,12 +2500,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the eye",
-        "groupName": "Anatomy of the eye",
+        "lectureName": "Anatomy of the Eye - AI",
+        "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye__7__1ztxvo",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__7__1ztxvo",
         "number": "7",
         "text": "The ciliary body has two principal functions. Select the correct pair:",
         "options": [
@@ -2533,12 +2533,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the eye",
-        "groupName": "Anatomy of the eye",
+        "lectureName": "Anatomy of the Eye - AI",
+        "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye__8__cesdgv",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__8__cesdgv",
         "number": "8",
         "text": "Contraction of which iris muscle produces mydriasis (pupil dilation), and via which autonomic pathway?",
         "options": [
@@ -2566,12 +2566,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the eye",
-        "groupName": "Anatomy of the eye",
+        "lectureName": "Anatomy of the Eye - AI",
+        "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye__9__ek1lj3",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__9__ek1lj3",
         "number": "9",
         "text": "Which statement about the lens is correct?",
         "options": [
@@ -2599,12 +2599,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the eye",
-        "groupName": "Anatomy of the eye",
+        "lectureName": "Anatomy of the Eye - AI",
+        "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye__10__2h3u8j",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__10__2h3u8j",
         "number": "10",
         "text": "A patient has a dense mature cataract. Which of the following visual functions is expected to be relatively preserved, helping distinguish this from glaucoma?",
         "options": [
@@ -2632,12 +2632,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the eye",
-        "groupName": "Anatomy of the eye",
+        "lectureName": "Anatomy of the Eye - AI",
+        "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye__11__uxu9ln",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__11__uxu9ln",
         "number": "11",
         "text": "Cones, responsible for colour vision and fine visual acuity, are exclusively found at which retinal location?",
         "options": [
@@ -2665,12 +2665,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the eye",
-        "groupName": "Anatomy of the eye",
+        "lectureName": "Anatomy of the Eye - AI",
+        "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye__12__hv7zyh",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__12__hv7zyh",
         "number": "12",
         "text": "The optic disc corresponds to the physiological blind spot because:",
         "options": [
@@ -2698,12 +2698,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the eye",
-        "groupName": "Anatomy of the eye",
+        "lectureName": "Anatomy of the Eye - AI",
+        "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye__13__ajuba3",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__13__ajuba3",
         "number": "13",
         "text": "The vitreous body is firmly attached at all of the following sites EXCEPT:",
         "options": [
@@ -2731,12 +2731,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the eye",
-        "groupName": "Anatomy of the eye",
+        "lectureName": "Anatomy of the Eye - AI",
+        "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye__14__lq89tq",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__14__lq89tq",
         "number": "14",
         "text": "A 68-year-old man develops sudden painless monocular vision loss. An embolus is suspected to have lodged in a branch of the ophthalmic artery. If the embolus blocks the central retinal artery rather than a posterior ciliary artery, which structure is primarily affected?",
         "options": [
@@ -2764,12 +2764,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the eye",
-        "groupName": "Anatomy of the eye",
+        "lectureName": "Anatomy of the Eye - AI",
+        "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye__15__12aij3",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__15__12aij3",
         "number": "15",
         "text": "Which of the following best describes the anterior chamber and drainage angle?",
         "options": [
@@ -2797,12 +2797,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the eye",
-        "groupName": "Anatomy of the eye",
+        "lectureName": "Anatomy of the Eye - AI",
+        "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye__16__tinoux",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__16__tinoux",
         "number": "16",
         "text": "The conjunctiva contains goblet cells whose function is to:",
         "options": [
@@ -2830,12 +2830,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the eye",
-        "groupName": "Anatomy of the eye",
+        "lectureName": "Anatomy of the Eye - AI",
+        "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye__17__9wq294",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__17__9wq294",
         "number": "17",
         "text": "Which of the following is the correct pairing of a uveal tract structure with its principal role?",
         "options": [
@@ -2863,12 +2863,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the eye",
-        "groupName": "Anatomy of the eye",
+        "lectureName": "Anatomy of the Eye - AI",
+        "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye__18__hmneq4",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__18__hmneq4",
         "number": "18",
         "text": "A patient has an intraocular pressure of 24 mmHg on tonometry. Which of the following is the accepted normal range for IOP, against which this value should be judged?",
         "options": [
@@ -2896,12 +2896,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the eye",
-        "groupName": "Anatomy of the eye",
+        "lectureName": "Anatomy of the Eye - AI",
+        "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye__19__dha38",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__19__dha38",
         "number": "19",
         "text": "Select all correct statements regarding the three concentric layers of the globe:",
         "options": [
@@ -2934,12 +2934,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the eye",
-        "groupName": "Anatomy of the eye",
+        "lectureName": "Anatomy of the Eye - AI",
+        "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye__20__8scc8w",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__20__8scc8w",
         "number": "20",
         "text": "Regarding the refractive power of the eye, which statement is correct?",
         "options": [
@@ -2967,8 +2967,8 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the eye",
-        "groupName": "Anatomy of the eye",
+        "lectureName": "Anatomy of the Eye - AI",
+        "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
       }
     ],
