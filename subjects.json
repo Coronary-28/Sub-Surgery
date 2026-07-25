@@ -4,14 +4,14 @@
     "name": "Ophthalmology",
     "lectures": [
       {
-        "id": "ophthalmology__lecture__1-anatomy-of-the-eye",
-        "name": "1. Anatomy of the Eye",
+        "id": "ophthalmology__lecture__anatomy-of-the-eye",
+        "name": "Anatomy of the Eye",
         "type": "lecture",
         "subjectName": "Ophthalmology",
-        "path": "Ophthalmology/1. Anatomy of the Eye.txt",
+        "path": "Ophthalmology/Anatomy of the Eye.txt",
         "questions": [
           {
-            "id": "ophthalmology__lecture__1-anatomy-of-the-eye__1__7uuhl",
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__1__7uuhl",
             "number": "1",
             "text": "The tear film:",
             "options": [
@@ -39,12 +39,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "1. Anatomy of the Eye",
-            "groupName": "1. Anatomy of the Eye",
+            "lectureName": "Anatomy of the Eye",
+            "groupName": "Anatomy of the Eye",
             "sourceType": "lecture"
           },
           {
-            "id": "ophthalmology__lecture__1-anatomy-of-the-eye__2__jjtnet",
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__2__jjtnet",
             "number": "2",
             "text": "Aqueous humour is formed by:",
             "options": [
@@ -72,12 +72,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "1. Anatomy of the Eye",
-            "groupName": "1. Anatomy of the Eye",
+            "lectureName": "Anatomy of the Eye",
+            "groupName": "Anatomy of the Eye",
             "sourceType": "lecture"
           },
           {
-            "id": "ophthalmology__lecture__1-anatomy-of-the-eye__3__9o0vv3",
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__3__9o0vv3",
             "number": "3",
             "text": "All of the following statements about the tear film are true EXCEPT:",
             "options": [
@@ -105,12 +105,12 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "1. Anatomy of the Eye",
-            "groupName": "1. Anatomy of the Eye",
+            "lectureName": "Anatomy of the Eye",
+            "groupName": "Anatomy of the Eye",
             "sourceType": "lecture"
           },
           {
-            "id": "ophthalmology__lecture__1-anatomy-of-the-eye__4__3fde3b",
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__4__3fde3b",
             "number": "4",
             "text": "Choose the correct answer about the retina:",
             "options": [
@@ -138,8 +138,351 @@
             "pageNumber": "",
             "subjectName": "Ophthalmology",
             "subjectId": "ophthalmology",
-            "lectureName": "1. Anatomy of the Eye",
-            "groupName": "1. Anatomy of the Eye",
+            "lectureName": "Anatomy of the Eye",
+            "groupName": "Anatomy of the Eye",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__5__137uvl",
+            "number": "5",
+            "text": "Most of the thickness of the cornea is formed by:",
+            "options": [
+              "Epithelial layer",
+              "Substantia propria (stroma)",
+              "Descemet's membrane",
+              "Endothelium"
+            ],
+            "originalOptions": [
+              "Epithelial layer",
+              "Substantia propria (stroma)",
+              "Descemet's membrane",
+              "Endothelium"
+            ],
+            "correctAnswer": "B) Substantia propria (stroma)",
+            "correctAnswerText": "Substantia propria (stroma)",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The stroma (substantia propria) makes up about 90% of corneal thickness. It consists of organized collagen fibers that give the cornea its transparency and structural strength.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Anatomy of the Eye",
+            "groupName": "Anatomy of the Eye",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__6__d06497",
+            "number": "6",
+            "text": "Cornea is supplied by nerve fibers derived from:",
+            "options": [
+              "Trochlear nerve",
+              "Optic nerve",
+              "Trigeminal nerve",
+              "Oculomotor nerve"
+            ],
+            "originalOptions": [
+              "Trochlear nerve",
+              "Optic nerve",
+              "Trigeminal nerve",
+              "Oculomotor nerve"
+            ],
+            "correctAnswer": "C) Trigeminal nerve",
+            "correctAnswerText": "Trigeminal nerve",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The cornea is one of the most densely innervated tissues in the body, supplied sensorially by the ophthalmic division (V1) of the trigeminal nerve — which is why corneal inflammation or ulceration is extremely painful.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Anatomy of the Eye",
+            "groupName": "Anatomy of the Eye",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__7__9yoi0z",
+            "number": "7",
+            "text": "Which of the following is not a source of nutrients to the cornea?",
+            "options": [
+              "Air",
+              "Aqueous humour",
+              "Perilimbal capillaries",
+              "Vitreous humour"
+            ],
+            "originalOptions": [
+              "Air",
+              "Aqueous humour",
+              "Perilimbal capillaries",
+              "Vitreous humour"
+            ],
+            "correctAnswer": "D) Vitreous humour",
+            "correctAnswerText": "Vitreous humour",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The cornea is avascular and is nourished by atmospheric oxygen, the aqueous humour, and the perilimbal capillary network. The vitreous humour is not a source of corneal nutrition.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Anatomy of the Eye",
+            "groupName": "Anatomy of the Eye",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__8__2y266n",
+            "number": "8",
+            "text": "All of the following are avascular EXCEPT:",
+            "options": [
+              "Cornea",
+              "Sclera",
+              "Vitreous",
+              "Lens",
+              "None of the above — all are avascular"
+            ],
+            "originalOptions": [
+              "Cornea",
+              "Sclera",
+              "Vitreous",
+              "Lens",
+              "None of the above — all are avascular"
+            ],
+            "correctAnswer": "B) Sclera",
+            "correctAnswerText": "Sclera",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The cornea and lens are explicitly avascular, nourished only by diffusion, and the vitreous is a clear gel with no vessels of its own. The sclera, in contrast, is a vascularised collagenous coat — it receives blood supply (e.g. via episcleral vessels) unlike the other three purely avascular, diffusion-dependent ocular structures.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Anatomy of the Eye",
+            "groupName": "Anatomy of the Eye",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__9__5v6phf",
+            "number": "9",
+            "text": "All of the following are part of the uvea except:",
+            "options": [
+              "Pars plicata",
+              "Pars plana",
+              "Choroid",
+              "Schwalbe's line"
+            ],
+            "originalOptions": [
+              "Pars plicata",
+              "Pars plana",
+              "Choroid",
+              "Schwalbe's line"
+            ],
+            "correctAnswer": "D) Schwalbe's line",
+            "correctAnswerText": "Schwalbe's line",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The uvea consists of the iris, ciliary body (which has two parts: pars plicata and pars plana), and the choroid. Schwalbe's line is an anatomical landmark at the anterior chamber angle (the termination of Descemet's membrane) and is not part of the uveal tract.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Anatomy of the Eye",
+            "groupName": "Anatomy of the Eye",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__10__besi9b",
+            "number": "10",
+            "text": "The following is a part of uvea except:",
+            "options": [
+              "Bowman's membrane",
+              "Iris",
+              "Ciliary body",
+              "Choroid"
+            ],
+            "originalOptions": [
+              "Bowman's membrane",
+              "Iris",
+              "Ciliary body",
+              "Choroid"
+            ],
+            "correctAnswer": "A) Bowman's membrane",
+            "correctAnswerText": "Bowman's membrane",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Bowman's membrane is a layer of the cornea and has no relation to the uveal tract.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Anatomy of the Eye",
+            "groupName": "Anatomy of the Eye",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__11__wlcxvv",
+            "number": "11",
+            "text": "Optic disc diameter is:",
+            "options": [
+              "1 mm",
+              "1.5 mm",
+              "2 mm",
+              "3 mm"
+            ],
+            "originalOptions": [
+              "1 mm",
+              "1.5 mm",
+              "2 mm",
+              "3 mm"
+            ],
+            "correctAnswer": "B) 1.5 mm",
+            "correctAnswerText": "1.5 mm",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The optic disc diameter is used as a standard unit of measurement (Disc Diameter, DD) to describe the size and location of fundus lesions.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Anatomy of the Eye",
+            "groupName": "Anatomy of the Eye",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__12__jjtnet",
+            "number": "12",
+            "text": "Aqueous humour is formed by:",
+            "options": [
+              "Epithelium of ciliary body",
+              "Posterior surface of iris",
+              "Lens",
+              "Pars plana"
+            ],
+            "originalOptions": [
+              "Epithelium of ciliary body",
+              "Posterior surface of iris",
+              "Lens",
+              "Pars plana"
+            ],
+            "correctAnswer": "A) Epithelium of ciliary body",
+            "correctAnswerText": "Epithelium of ciliary body",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Aqueous humour is secreted by the non-pigmented ciliary epithelium via both active secretion and ultrafiltration.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Anatomy of the Eye",
+            "groupName": "Anatomy of the Eye",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__13__jrjt3c",
+            "number": "13",
+            "text": "Aqueous humor is secreted by:",
+            "options": [
+              "Circulus iridis minor",
+              "Ciliary muscle",
+              "Ciliary processes",
+              "Iris crypts"
+            ],
+            "originalOptions": [
+              "Circulus iridis minor",
+              "Ciliary muscle",
+              "Ciliary processes",
+              "Iris crypts"
+            ],
+            "correctAnswer": "C) Ciliary processes",
+            "correctAnswerText": "Ciliary processes",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The ciliary processes are the precise anatomical site of aqueous humour secretion within the ciliary body.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Anatomy of the Eye",
+            "groupName": "Anatomy of the Eye",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__14__8go7y9",
+            "number": "14",
+            "text": "Corneal ulceration/anaesthesia is caused by injury to the ___ cranial nerve:",
+            "options": [
+              "Third",
+              "Fourth",
+              "Sixth",
+              "Fifth"
+            ],
+            "originalOptions": [
+              "Third",
+              "Fourth",
+              "Sixth",
+              "Fifth"
+            ],
+            "correctAnswer": "D) Fifth",
+            "correctAnswerText": "Fifth",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Loss of corneal sensation (from trigeminal nerve injury) abolishes the protective blink reflex, leaving the",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Anatomy of the Eye",
+            "groupName": "Anatomy of the Eye",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__15__tariax",
+            "number": "15",
+            "text": "Number of layers in the neurosensory retina is:",
+            "options": [
+              "9",
+              "10",
+              "11",
+              "12"
+            ],
+            "originalOptions": [
+              "9",
+              "10",
+              "11",
+              "12"
+            ],
+            "correctAnswer": "A) 9",
+            "correctAnswerText": "9",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The neurosensory retina classically consists of 9 layers, from the photoreceptors to the nerve fiber layer. The retinal pigment epithelium (RPE) is anatomically and functionally a separate, tenth layer.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Anatomy of the Eye",
+            "groupName": "Anatomy of the Eye",
             "sourceType": "lecture"
           }
         ]
@@ -149,7 +492,7 @@
     "years": [],
     "allQuestions": [
       {
-        "id": "ophthalmology__lecture__1-anatomy-of-the-eye__1__7uuhl",
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__1__7uuhl",
         "number": "1",
         "text": "The tear film:",
         "options": [
@@ -177,12 +520,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "1. Anatomy of the Eye",
-        "groupName": "1. Anatomy of the Eye",
+        "lectureName": "Anatomy of the Eye",
+        "groupName": "Anatomy of the Eye",
         "sourceType": "lecture"
       },
       {
-        "id": "ophthalmology__lecture__1-anatomy-of-the-eye__2__jjtnet",
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__2__jjtnet",
         "number": "2",
         "text": "Aqueous humour is formed by:",
         "options": [
@@ -210,12 +553,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "1. Anatomy of the Eye",
-        "groupName": "1. Anatomy of the Eye",
+        "lectureName": "Anatomy of the Eye",
+        "groupName": "Anatomy of the Eye",
         "sourceType": "lecture"
       },
       {
-        "id": "ophthalmology__lecture__1-anatomy-of-the-eye__3__9o0vv3",
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__3__9o0vv3",
         "number": "3",
         "text": "All of the following statements about the tear film are true EXCEPT:",
         "options": [
@@ -243,12 +586,12 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "1. Anatomy of the Eye",
-        "groupName": "1. Anatomy of the Eye",
+        "lectureName": "Anatomy of the Eye",
+        "groupName": "Anatomy of the Eye",
         "sourceType": "lecture"
       },
       {
-        "id": "ophthalmology__lecture__1-anatomy-of-the-eye__4__3fde3b",
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__4__3fde3b",
         "number": "4",
         "text": "Choose the correct answer about the retina:",
         "options": [
@@ -276,12 +619,355 @@
         "pageNumber": "",
         "subjectName": "Ophthalmology",
         "subjectId": "ophthalmology",
-        "lectureName": "1. Anatomy of the Eye",
-        "groupName": "1. Anatomy of the Eye",
+        "lectureName": "Anatomy of the Eye",
+        "groupName": "Anatomy of the Eye",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__5__137uvl",
+        "number": "5",
+        "text": "Most of the thickness of the cornea is formed by:",
+        "options": [
+          "Epithelial layer",
+          "Substantia propria (stroma)",
+          "Descemet's membrane",
+          "Endothelium"
+        ],
+        "originalOptions": [
+          "Epithelial layer",
+          "Substantia propria (stroma)",
+          "Descemet's membrane",
+          "Endothelium"
+        ],
+        "correctAnswer": "B) Substantia propria (stroma)",
+        "correctAnswerText": "Substantia propria (stroma)",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "The stroma (substantia propria) makes up about 90% of corneal thickness. It consists of organized collagen fibers that give the cornea its transparency and structural strength.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Anatomy of the Eye",
+        "groupName": "Anatomy of the Eye",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__6__d06497",
+        "number": "6",
+        "text": "Cornea is supplied by nerve fibers derived from:",
+        "options": [
+          "Trochlear nerve",
+          "Optic nerve",
+          "Trigeminal nerve",
+          "Oculomotor nerve"
+        ],
+        "originalOptions": [
+          "Trochlear nerve",
+          "Optic nerve",
+          "Trigeminal nerve",
+          "Oculomotor nerve"
+        ],
+        "correctAnswer": "C) Trigeminal nerve",
+        "correctAnswerText": "Trigeminal nerve",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "The cornea is one of the most densely innervated tissues in the body, supplied sensorially by the ophthalmic division (V1) of the trigeminal nerve — which is why corneal inflammation or ulceration is extremely painful.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Anatomy of the Eye",
+        "groupName": "Anatomy of the Eye",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__7__9yoi0z",
+        "number": "7",
+        "text": "Which of the following is not a source of nutrients to the cornea?",
+        "options": [
+          "Air",
+          "Aqueous humour",
+          "Perilimbal capillaries",
+          "Vitreous humour"
+        ],
+        "originalOptions": [
+          "Air",
+          "Aqueous humour",
+          "Perilimbal capillaries",
+          "Vitreous humour"
+        ],
+        "correctAnswer": "D) Vitreous humour",
+        "correctAnswerText": "Vitreous humour",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "The cornea is avascular and is nourished by atmospheric oxygen, the aqueous humour, and the perilimbal capillary network. The vitreous humour is not a source of corneal nutrition.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Anatomy of the Eye",
+        "groupName": "Anatomy of the Eye",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__8__2y266n",
+        "number": "8",
+        "text": "All of the following are avascular EXCEPT:",
+        "options": [
+          "Cornea",
+          "Sclera",
+          "Vitreous",
+          "Lens",
+          "None of the above — all are avascular"
+        ],
+        "originalOptions": [
+          "Cornea",
+          "Sclera",
+          "Vitreous",
+          "Lens",
+          "None of the above — all are avascular"
+        ],
+        "correctAnswer": "B) Sclera",
+        "correctAnswerText": "Sclera",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "The cornea and lens are explicitly avascular, nourished only by diffusion, and the vitreous is a clear gel with no vessels of its own. The sclera, in contrast, is a vascularised collagenous coat — it receives blood supply (e.g. via episcleral vessels) unlike the other three purely avascular, diffusion-dependent ocular structures.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Anatomy of the Eye",
+        "groupName": "Anatomy of the Eye",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__9__5v6phf",
+        "number": "9",
+        "text": "All of the following are part of the uvea except:",
+        "options": [
+          "Pars plicata",
+          "Pars plana",
+          "Choroid",
+          "Schwalbe's line"
+        ],
+        "originalOptions": [
+          "Pars plicata",
+          "Pars plana",
+          "Choroid",
+          "Schwalbe's line"
+        ],
+        "correctAnswer": "D) Schwalbe's line",
+        "correctAnswerText": "Schwalbe's line",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "The uvea consists of the iris, ciliary body (which has two parts: pars plicata and pars plana), and the choroid. Schwalbe's line is an anatomical landmark at the anterior chamber angle (the termination of Descemet's membrane) and is not part of the uveal tract.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Anatomy of the Eye",
+        "groupName": "Anatomy of the Eye",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__10__besi9b",
+        "number": "10",
+        "text": "The following is a part of uvea except:",
+        "options": [
+          "Bowman's membrane",
+          "Iris",
+          "Ciliary body",
+          "Choroid"
+        ],
+        "originalOptions": [
+          "Bowman's membrane",
+          "Iris",
+          "Ciliary body",
+          "Choroid"
+        ],
+        "correctAnswer": "A) Bowman's membrane",
+        "correctAnswerText": "Bowman's membrane",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Bowman's membrane is a layer of the cornea and has no relation to the uveal tract.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Anatomy of the Eye",
+        "groupName": "Anatomy of the Eye",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__11__wlcxvv",
+        "number": "11",
+        "text": "Optic disc diameter is:",
+        "options": [
+          "1 mm",
+          "1.5 mm",
+          "2 mm",
+          "3 mm"
+        ],
+        "originalOptions": [
+          "1 mm",
+          "1.5 mm",
+          "2 mm",
+          "3 mm"
+        ],
+        "correctAnswer": "B) 1.5 mm",
+        "correctAnswerText": "1.5 mm",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "The optic disc diameter is used as a standard unit of measurement (Disc Diameter, DD) to describe the size and location of fundus lesions.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Anatomy of the Eye",
+        "groupName": "Anatomy of the Eye",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__12__jjtnet",
+        "number": "12",
+        "text": "Aqueous humour is formed by:",
+        "options": [
+          "Epithelium of ciliary body",
+          "Posterior surface of iris",
+          "Lens",
+          "Pars plana"
+        ],
+        "originalOptions": [
+          "Epithelium of ciliary body",
+          "Posterior surface of iris",
+          "Lens",
+          "Pars plana"
+        ],
+        "correctAnswer": "A) Epithelium of ciliary body",
+        "correctAnswerText": "Epithelium of ciliary body",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Aqueous humour is secreted by the non-pigmented ciliary epithelium via both active secretion and ultrafiltration.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Anatomy of the Eye",
+        "groupName": "Anatomy of the Eye",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__13__jrjt3c",
+        "number": "13",
+        "text": "Aqueous humor is secreted by:",
+        "options": [
+          "Circulus iridis minor",
+          "Ciliary muscle",
+          "Ciliary processes",
+          "Iris crypts"
+        ],
+        "originalOptions": [
+          "Circulus iridis minor",
+          "Ciliary muscle",
+          "Ciliary processes",
+          "Iris crypts"
+        ],
+        "correctAnswer": "C) Ciliary processes",
+        "correctAnswerText": "Ciliary processes",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "The ciliary processes are the precise anatomical site of aqueous humour secretion within the ciliary body.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Anatomy of the Eye",
+        "groupName": "Anatomy of the Eye",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__14__8go7y9",
+        "number": "14",
+        "text": "Corneal ulceration/anaesthesia is caused by injury to the ___ cranial nerve:",
+        "options": [
+          "Third",
+          "Fourth",
+          "Sixth",
+          "Fifth"
+        ],
+        "originalOptions": [
+          "Third",
+          "Fourth",
+          "Sixth",
+          "Fifth"
+        ],
+        "correctAnswer": "D) Fifth",
+        "correctAnswerText": "Fifth",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Loss of corneal sensation (from trigeminal nerve injury) abolishes the protective blink reflex, leaving the",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Anatomy of the Eye",
+        "groupName": "Anatomy of the Eye",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__15__tariax",
+        "number": "15",
+        "text": "Number of layers in the neurosensory retina is:",
+        "options": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "originalOptions": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "correctAnswer": "A) 9",
+        "correctAnswerText": "9",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "The neurosensory retina classically consists of 9 layers, from the photoreceptors to the nerve fiber layer. The retinal pigment epithelium (RPE) is anatomically and functionally a separate, tenth layer.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Anatomy of the Eye",
+        "groupName": "Anatomy of the Eye",
         "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 4,
+    "totalQuestions": 15,
     "totalLectures": 1,
     "hasAiFolder": false
   }
