@@ -34,7 +34,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "The tear film is trilaminar (lipid, aqueous, mucin), with the inner mucin layer directly wetting the hydrophobic corneal epithelium — making C correct and B wrong (three layers, not four). A is wrong because the tear film is only a few micrometres thick, not 100 µm. D is wrong because the tear-air interface is actually a major refractive surface of the eye, so the tear film is optically important, not irrelevant.",
+            "explanation": "The tear film is trilaminar (lipid, aqueous, mucin), with the inner mucin layer directly wetting the hydrophobic corneal epithelium — making C correct and B wrong (three layers, not four). A is wrong because the tear film average thickness is only 3 µm (ranging from 2 to 5.5 µm), not 100 µm. D is wrong because the tear-air interface is actually a major refractive surface of the eye, so the tear film is optically important, not irrelevant.",
             "batchName": "",
             "pageNumber": "",
             "subjectName": "Ophthalmology",
@@ -81,18 +81,18 @@
             "number": "3",
             "text": "All of the following statements about the tear film are true EXCEPT:",
             "options": [
-              "The meibomian glands produce the outer lipid layer",
+              "Lysozyme and lactoferrin in the aqueous layer provide antibacterial protection",
               "The meibomian glands produce the aqueous layer of the tear film",
-              "The main and accessory lacrimal glands produce the aqueous layer",
+              "The tear film keeps the corneal surface smooth, clear, and lubricated",
               "Conjunctival goblet cells produce the inner mucin layer",
-              "The lipid layer retards evaporation of the aqueous layer"
+              "The mucin layer allows the aqueous layer to wet the hydrophobic corneal epithelium evenly"
             ],
             "originalOptions": [
-              "The meibomian glands produce the outer lipid layer",
+              "Lysozyme and lactoferrin in the aqueous layer provide antibacterial protection",
               "The meibomian glands produce the aqueous layer of the tear film",
-              "The main and accessory lacrimal glands produce the aqueous layer",
+              "The tear film keeps the corneal surface smooth, clear, and lubricated",
               "Conjunctival goblet cells produce the inner mucin layer",
-              "The lipid layer retards evaporation of the aqueous layer"
+              "The mucin layer allows the aqueous layer to wet the hydrophobic corneal epithelium evenly"
             ],
             "correctAnswer": "B) The meibomian glands produce the aqueous layer of the tear film",
             "correctAnswerText": "The meibomian glands produce the aqueous layer of the tear film",
@@ -100,7 +100,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "The meibomian glands, located in the tarsal plates, secrete the outer lipid layer of the tear film, not the aqueous layer — the aqueous layer (about 90% of tear thickness) comes from the main and accessory lacrimal glands. A, C, D, and E are all correct descriptions of tear film anatomy, making B the false statement and the correct answer to this EXCEPT question.",
+            "explanation": "The meibomian glands, located in the tarsal plates, secrete the outer lipid layer of the tear film, not the aqueous layer — the aqueous layer (about 90% of tear thickness) comes from the main and accessory lacrimal glands, and also carries antibacterial proteins like lysozyme and lactoferrin. A, C, D, and E are all correct descriptions of tear film anatomy.",
             "batchName": "",
             "pageNumber": "",
             "subjectName": "Ophthalmology",
@@ -172,7 +172,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "C",
-        "explanation": "The tear film is trilaminar (lipid, aqueous, mucin), with the inner mucin layer directly wetting the hydrophobic corneal epithelium — making C correct and B wrong (three layers, not four). A is wrong because the tear film is only a few micrometres thick, not 100 µm. D is wrong because the tear-air interface is actually a major refractive surface of the eye, so the tear film is optically important, not irrelevant.",
+        "explanation": "The tear film is trilaminar (lipid, aqueous, mucin), with the inner mucin layer directly wetting the hydrophobic corneal epithelium — making C correct and B wrong (three layers, not four). A is wrong because the tear film average thickness is only 3 µm (ranging from 2 to 5.5 µm), not 100 µm. D is wrong because the tear-air interface is actually a major refractive surface of the eye, so the tear film is optically important, not irrelevant.",
         "batchName": "",
         "pageNumber": "",
         "subjectName": "Ophthalmology",
@@ -219,18 +219,18 @@
         "number": "3",
         "text": "All of the following statements about the tear film are true EXCEPT:",
         "options": [
-          "The meibomian glands produce the outer lipid layer",
+          "Lysozyme and lactoferrin in the aqueous layer provide antibacterial protection",
           "The meibomian glands produce the aqueous layer of the tear film",
-          "The main and accessory lacrimal glands produce the aqueous layer",
+          "The tear film keeps the corneal surface smooth, clear, and lubricated",
           "Conjunctival goblet cells produce the inner mucin layer",
-          "The lipid layer retards evaporation of the aqueous layer"
+          "The mucin layer allows the aqueous layer to wet the hydrophobic corneal epithelium evenly"
         ],
         "originalOptions": [
-          "The meibomian glands produce the outer lipid layer",
+          "Lysozyme and lactoferrin in the aqueous layer provide antibacterial protection",
           "The meibomian glands produce the aqueous layer of the tear film",
-          "The main and accessory lacrimal glands produce the aqueous layer",
+          "The tear film keeps the corneal surface smooth, clear, and lubricated",
           "Conjunctival goblet cells produce the inner mucin layer",
-          "The lipid layer retards evaporation of the aqueous layer"
+          "The mucin layer allows the aqueous layer to wet the hydrophobic corneal epithelium evenly"
         ],
         "correctAnswer": "B) The meibomian glands produce the aqueous layer of the tear film",
         "correctAnswerText": "The meibomian glands produce the aqueous layer of the tear film",
@@ -238,7 +238,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "B",
-        "explanation": "The meibomian glands, located in the tarsal plates, secrete the outer lipid layer of the tear film, not the aqueous layer — the aqueous layer (about 90% of tear thickness) comes from the main and accessory lacrimal glands. A, C, D, and E are all correct descriptions of tear film anatomy, making B the false statement and the correct answer to this EXCEPT question.",
+        "explanation": "The meibomian glands, located in the tarsal plates, secrete the outer lipid layer of the tear film, not the aqueous layer — the aqueous layer (about 90% of tear thickness) comes from the main and accessory lacrimal glands, and also carries antibacterial proteins like lysozyme and lactoferrin. A, C, D, and E are all correct descriptions of tear film anatomy.",
         "batchName": "",
         "pageNumber": "",
         "subjectName": "Ophthalmology",
