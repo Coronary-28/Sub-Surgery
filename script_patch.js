@@ -902,7 +902,7 @@
     return ans === q.correctIndex;
   };
 
-  window.selectOption = function(index) {
+    window.selectOption = function(index) {
   if (!state.currentExam) return;
   const idx = state.currentExam.currentIndex;
   const q = state.currentExam.questions[idx];
@@ -939,8 +939,8 @@
     const ans = state.currentExam.answers[idx];
     const isCorrect = window.isAnswerCorrect ? window.isAnswerCorrect(q, ans) : false;
     if (ans !== null && isCorrect) {
-      // إجابة صحيحة: صوت و أنيميشن
-      if (typeof window.playRightSound === 'function') {
+      // إجابة صحيحة: أنيميشن (وصوت فقط إذا لم يكن السؤال متعدد الخيارات)
+      if (!q.isMultiple && typeof window.playRightSound === 'function') {
         window.playRightSound();
       }
       if (typeof window.triggerTrainingAnimation === 'function') {
@@ -949,8 +949,8 @@
       // إظهار الإجابة الصحيحة تلقائياً
       state.currentExam.showAnswer = true;
     } else if (ans !== null && !isCorrect) {
-      // إجابة خاطئة: صوت خطأ
-      if (typeof window.playWrongSound === 'function') {
+      // إجابة خاطئة: (صوت خطأ فقط إذا لم يكن السؤال متعدد الخيارات)
+      if (!q.isMultiple && typeof window.playWrongSound === 'function') {
         window.playWrongSound();
       }
       if (!state.wrongQuestions.includes(q.id)) {
@@ -964,7 +964,7 @@
   renderExam();
 };
 
-    window.submitMultipleAnswer = function() {
+        window.submitMultipleAnswer = function() {
     if (!state.currentExam) return;
     const idx = state.currentExam.currentIndex;
     const q = state.currentExam.questions[idx];
@@ -977,13 +977,17 @@
     if (window.isAnswerCorrect(q, ans)) {
       state.currentExam.showAnswer = true;
       if (state.currentExam.mode === 'training') {
-        playRightSound();
+        if (!q.isMultiple) {
+            playRightSound();
+        }
         triggerTrainingAnimation();
       }
     } else {
       state.currentExam.showAnswer = false;
       if (state.currentExam.mode === 'training') {
-        playWrongSound();
+        if (!q.isMultiple) {
+            playWrongSound();
+        }
       }
       if (!state.wrongQuestions.includes(q.id)) {
         state.wrongQuestions.push(q.id);
@@ -1224,7 +1228,7 @@
     scrollQuestionIntoView(true);
   };
 
-    showAnswer = function(){
+      window.showAnswer = function(){
     if(!state.currentExam) return;
     state.currentExam.showAnswer = true;
     const idx = state.currentExam.currentIndex;
@@ -1233,10 +1237,14 @@
     const isCorrect = window.isAnswerCorrect(q, ans);
     if (state.currentExam.mode === 'training') {
       if (isCorrect) {
-        playRightSound();
+        if (!q.isMultiple) {
+          playRightSound();
+        }
         triggerTrainingAnimation();
       } else {
-        playWrongSound();
+        if (!q.isMultiple) {
+          playWrongSound();
+        }
       }
     }
     if(ans !== null && !isCorrect && !state.wrongQuestions.includes(q.id)){
