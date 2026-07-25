@@ -1,0 +1,36 @@
+The tear film:
+A) Is 100 µm thick
+B) Is composed of four layers
+C) The mucin layer is in contact with the cornea
+D) Is not important in the refraction of light entering the eye
+E) None of the above
+Correct Answer: C) The mucin layer is in contact with the cornea
+Explanation: The tear film is trilaminar (lipid, aqueous, mucin), with the inner mucin layer directly wetting the hydrophobic corneal epithelium — making C correct and B wrong (three layers, not four). A is wrong because the tear film is only a few micrometres thick, not 100 µm. D is wrong because the tear-air interface is actually a major refractive surface of the eye, so the tear film is optically important, not irrelevant.
+###
+Aqueous humour is formed by:
+A) Epithelium of ciliary body
+B) Posterior surface of iris
+C) Lens
+D) Pars plana
+E) Trabecular meshwork
+Correct Answer: A) Epithelium of ciliary body
+Explanation: B and C are wrong because the iris and lens play no role in aqueous production — the iris only regulates pupil size, and the lens is purely refractive. D is a plausible-sounding distractor since the pars plana is part of the ciliary body region, but production occurs at the ciliary processes (pars plicata), not the pars plana. E is wrong because the trabecular meshwork is a drainage structure, not a secretory one.
+###
+All of the following statements about the tear film are true EXCEPT:
+A) The meibomian glands produce the outer lipid layer
+B) The meibomian glands produce the aqueous layer of the tear film
+C) The main and accessory lacrimal glands produce the aqueous layer
+D) Conjunctival goblet cells produce the inner mucin layer
+E) The lipid layer retards evaporation of the aqueous layer
+Correct Answer: B) The meibomian glands produce the aqueous layer of the tear film
+Explanation: The meibomian glands, located in the tarsal plates, secrete the outer lipid layer of the tear film, not the aqueous layer — the aqueous layer (about 90% of tear thickness) comes from the main and accessory lacrimal glands. A, C, D, and E are all correct descriptions of tear film anatomy, making B the false statement and the correct answer to this EXCEPT question.
+###
+Choose the correct answer about the retina:
+A) Is 7 layers
+B) Has ganglion cells whose axons form the optic nerve
+C) Has three types of rods responsible for colour vision
+D) The neuroretina is firmly attached to the RPE
+E) The RPE delivers vitamin K for rhodopsin production
+Correct Answer: B) Has ganglion cells whose axons form the optic nerve
+Explanation: The retinal ganglion cell axons converge at the optic disc and exit the eye as the optic nerve — this is why the optic disc, lacking photoreceptors, corresponds to the physiological blind spot. A is wrong because the retina has 10 histological layers, not 7. C is wrong on two counts: colour vision is mediated by cones (not rods), and there are three types of cones (not rods). D is wrong because the neurosensory retina is only loosely apposed to the RPE (not firmly attached) — this is exactly why retinal detachment can occur. E is wrong because the RPE recycles vitamin A (not vitamin K) for the visual cycle and rhodopsin regeneration.
+###
