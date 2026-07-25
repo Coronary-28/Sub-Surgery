@@ -227,6 +227,116 @@
             "lectureName": "Anatomy of the Eye - Book questions",
             "groupName": "Anatomy of the Eye - Book questions",
             "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__anatomy-of-the-eye-book-questions__7__skxed2",
+            "number": "7",
+            "text": "Select all the correct statements regarding the Iridocorneal Angle:",
+            "options": [
+              "Is the site of aqueous production.",
+              "Lies between the cornea and the ciliary body.",
+              "In primary open-angle glaucoma, there is a reduction in the number of cells covering the trabecular meshwork.",
+              "Fluid passes through the trabecular meshwork to Schlemm’s canal."
+            ],
+            "originalOptions": [
+              "Is the site of aqueous production.",
+              "Lies between the cornea and the ciliary body.",
+              "In primary open-angle glaucoma, there is a reduction in the number of cells covering the trabecular meshwork.",
+              "Fluid passes through the trabecular meshwork to Schlemm’s canal."
+            ],
+            "correctAnswer": "B) Lies between the cornea and the ciliary body. / C) In primary open-angle glaucoma, there is a reduction in the number of cells covering the trabecular meshwork. / D) Fluid passes through the trabecular meshwork to Schlemm’s canal.",
+            "correctAnswerText": "B) Lies between the cornea and the ciliary body. / C) In primary open-angle glaucoma, there is a reduction in the number of cells covering the trabecular meshwork. / D) Fluid passes through the trabecular meshwork to Schlemm’s canal.",
+            "correctIndex": -1,
+            "correctIndices": [
+              1,
+              2,
+              3
+            ],
+            "isMultiple": true,
+            "correctAnswerLetter": "",
+            "explanation": "A) False. It is the site of aqueous drainage. B) True. C) True. This may reduce aqueous drainage. D) True. Flow depends on the pressure gradient between the anterior chamber and Schlemm’s canal and there is also an active component.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Anatomy of the Eye - Book questions",
+            "groupName": "Anatomy of the Eye - Book questions",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__anatomy-of-the-eye-book-questions__8__dzseb",
+            "number": "8",
+            "text": "Select all the correct statements regarding the Optic Nerve:",
+            "options": [
+              "Axons leave the eyeball through the cribriform plate.",
+              "Is not bathed in CSF until it enters the cranial cavity.",
+              "Anteriorly is supplied by blood from the ciliary arteries.",
+              "Axons are not myelinated in the retrobulbar part of the nerve.",
+              "Is formed by axons of the nerve fibre layer of the retina."
+            ],
+            "originalOptions": [
+              "Axons leave the eyeball through the cribriform plate.",
+              "Is not bathed in CSF until it enters the cranial cavity.",
+              "Anteriorly is supplied by blood from the ciliary arteries.",
+              "Axons are not myelinated in the retrobulbar part of the nerve.",
+              "Is formed by axons of the nerve fibre layer of the retina."
+            ],
+            "correctAnswer": "A) Axons leave the eyeball through the cribriform plate. / C) Anteriorly is supplied by blood from the ciliary arteries. / D) Axons are not myelinated in the retrobulbar part of the nerve. / E) Is formed by axons of the nerve fibre layer of the retina.",
+            "correctAnswerText": "A) Axons leave the eyeball through the cribriform plate. / C) Anteriorly is supplied by blood from the ciliary arteries. / D) Axons are not myelinated in the retrobulbar part of the nerve. / E) Is formed by axons of the nerve fibre layer of the retina.",
+            "correctIndex": -1,
+            "correctIndices": [
+              0,
+              2,
+              3,
+              4
+            ],
+            "isMultiple": true,
+            "correctAnswerLetter": "",
+            "explanation": "A) True. This sieve-like structure provides support for the optic nerve as it leaves the eye. B) False. In the orbit, outside its pial sheath, the optic nerve is surrounded by cerebrospinal fluid within the subarachnoid space. This is in continuity with that in the intracranial cavity. C) True. The supply to the anterior part of the optic nerve differs from the supply to the anteriorlayers of the retina. D) True. This is a most important blood supply for the anterior optic nerve. E) False. They are usually not myelinated within the eye. F) True. It is made up from retinal ganglion cell axons.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Anatomy of the Eye - Book questions",
+            "groupName": "Anatomy of the Eye - Book questions",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__anatomy-of-the-eye-book-questions__9__u960s5",
+            "number": "9",
+            "text": "Select all the correct statements regarding the Third, Fourth and Sixth Cranial Nerves:",
+            "options": [
+              "All originate in the midbrain.",
+              "A nuclear third nerve palsy will cause a contralateral palsy of the superior rectus.",
+              "The fourth nerve supplies the lateral rectus.",
+              "The sixth nerve has a long intracranial course.",
+              "The third nerve may be affected by aneurysms of the posterior communicating artery."
+            ],
+            "originalOptions": [
+              "All originate in the midbrain.",
+              "A nuclear third nerve palsy will cause a contralateral palsy of the superior rectus.",
+              "The fourth nerve supplies the lateral rectus.",
+              "The sixth nerve has a long intracranial course.",
+              "The third nerve may be affected by aneurysms of the posterior communicating artery."
+            ],
+            "correctAnswer": "B) A nuclear third nerve palsy will cause a contralateral palsy of the superior rectus. / D) The sixth nerve has a long intracranial course. / E) The third nerve may be affected by aneurysms of the posterior communicating artery.",
+            "correctAnswerText": "B) A nuclear third nerve palsy will cause a contralateral palsy of the superior rectus. / D) The sixth nerve has a long intracranial course. / E) The third nerve may be affected by aneurysms of the posterior communicating artery.",
+            "correctIndex": -1,
+            "correctIndices": [
+              1,
+              3,
+              4
+            ],
+            "isMultiple": true,
+            "correctAnswerLetter": "",
+            "explanation": "A) False. The nuclei of the sixth and seventh nerves lie in the pons. B) True. The superior rectus is innervated by the contralateral nucleus. C) False. It supplies the superior oblique. D) True. This makes the sixth nerve susceptible to trauma, which may cause lateral rectus palsy. E) True. It passes lateral to the artery.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Anatomy of the Eye - Book questions",
+            "groupName": "Anatomy of the Eye - Book questions",
+            "sourceType": "lecture"
           }
         ]
       },
@@ -937,6 +1047,116 @@
         "sourceType": "lecture"
       },
       {
+        "id": "ophthalmology__lecture__anatomy-of-the-eye-book-questions__7__skxed2",
+        "number": "7",
+        "text": "Select all the correct statements regarding the Iridocorneal Angle:",
+        "options": [
+          "Is the site of aqueous production.",
+          "Lies between the cornea and the ciliary body.",
+          "In primary open-angle glaucoma, there is a reduction in the number of cells covering the trabecular meshwork.",
+          "Fluid passes through the trabecular meshwork to Schlemm’s canal."
+        ],
+        "originalOptions": [
+          "Is the site of aqueous production.",
+          "Lies between the cornea and the ciliary body.",
+          "In primary open-angle glaucoma, there is a reduction in the number of cells covering the trabecular meshwork.",
+          "Fluid passes through the trabecular meshwork to Schlemm’s canal."
+        ],
+        "correctAnswer": "B) Lies between the cornea and the ciliary body. / C) In primary open-angle glaucoma, there is a reduction in the number of cells covering the trabecular meshwork. / D) Fluid passes through the trabecular meshwork to Schlemm’s canal.",
+        "correctAnswerText": "B) Lies between the cornea and the ciliary body. / C) In primary open-angle glaucoma, there is a reduction in the number of cells covering the trabecular meshwork. / D) Fluid passes through the trabecular meshwork to Schlemm’s canal.",
+        "correctIndex": -1,
+        "correctIndices": [
+          1,
+          2,
+          3
+        ],
+        "isMultiple": true,
+        "correctAnswerLetter": "",
+        "explanation": "A) False. It is the site of aqueous drainage. B) True. C) True. This may reduce aqueous drainage. D) True. Flow depends on the pressure gradient between the anterior chamber and Schlemm’s canal and there is also an active component.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Anatomy of the Eye - Book questions",
+        "groupName": "Anatomy of the Eye - Book questions",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__anatomy-of-the-eye-book-questions__8__dzseb",
+        "number": "8",
+        "text": "Select all the correct statements regarding the Optic Nerve:",
+        "options": [
+          "Axons leave the eyeball through the cribriform plate.",
+          "Is not bathed in CSF until it enters the cranial cavity.",
+          "Anteriorly is supplied by blood from the ciliary arteries.",
+          "Axons are not myelinated in the retrobulbar part of the nerve.",
+          "Is formed by axons of the nerve fibre layer of the retina."
+        ],
+        "originalOptions": [
+          "Axons leave the eyeball through the cribriform plate.",
+          "Is not bathed in CSF until it enters the cranial cavity.",
+          "Anteriorly is supplied by blood from the ciliary arteries.",
+          "Axons are not myelinated in the retrobulbar part of the nerve.",
+          "Is formed by axons of the nerve fibre layer of the retina."
+        ],
+        "correctAnswer": "A) Axons leave the eyeball through the cribriform plate. / C) Anteriorly is supplied by blood from the ciliary arteries. / D) Axons are not myelinated in the retrobulbar part of the nerve. / E) Is formed by axons of the nerve fibre layer of the retina.",
+        "correctAnswerText": "A) Axons leave the eyeball through the cribriform plate. / C) Anteriorly is supplied by blood from the ciliary arteries. / D) Axons are not myelinated in the retrobulbar part of the nerve. / E) Is formed by axons of the nerve fibre layer of the retina.",
+        "correctIndex": -1,
+        "correctIndices": [
+          0,
+          2,
+          3,
+          4
+        ],
+        "isMultiple": true,
+        "correctAnswerLetter": "",
+        "explanation": "A) True. This sieve-like structure provides support for the optic nerve as it leaves the eye. B) False. In the orbit, outside its pial sheath, the optic nerve is surrounded by cerebrospinal fluid within the subarachnoid space. This is in continuity with that in the intracranial cavity. C) True. The supply to the anterior part of the optic nerve differs from the supply to the anteriorlayers of the retina. D) True. This is a most important blood supply for the anterior optic nerve. E) False. They are usually not myelinated within the eye. F) True. It is made up from retinal ganglion cell axons.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Anatomy of the Eye - Book questions",
+        "groupName": "Anatomy of the Eye - Book questions",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__anatomy-of-the-eye-book-questions__9__u960s5",
+        "number": "9",
+        "text": "Select all the correct statements regarding the Third, Fourth and Sixth Cranial Nerves:",
+        "options": [
+          "All originate in the midbrain.",
+          "A nuclear third nerve palsy will cause a contralateral palsy of the superior rectus.",
+          "The fourth nerve supplies the lateral rectus.",
+          "The sixth nerve has a long intracranial course.",
+          "The third nerve may be affected by aneurysms of the posterior communicating artery."
+        ],
+        "originalOptions": [
+          "All originate in the midbrain.",
+          "A nuclear third nerve palsy will cause a contralateral palsy of the superior rectus.",
+          "The fourth nerve supplies the lateral rectus.",
+          "The sixth nerve has a long intracranial course.",
+          "The third nerve may be affected by aneurysms of the posterior communicating artery."
+        ],
+        "correctAnswer": "B) A nuclear third nerve palsy will cause a contralateral palsy of the superior rectus. / D) The sixth nerve has a long intracranial course. / E) The third nerve may be affected by aneurysms of the posterior communicating artery.",
+        "correctAnswerText": "B) A nuclear third nerve palsy will cause a contralateral palsy of the superior rectus. / D) The sixth nerve has a long intracranial course. / E) The third nerve may be affected by aneurysms of the posterior communicating artery.",
+        "correctIndex": -1,
+        "correctIndices": [
+          1,
+          3,
+          4
+        ],
+        "isMultiple": true,
+        "correctAnswerLetter": "",
+        "explanation": "A) False. The nuclei of the sixth and seventh nerves lie in the pons. B) True. The superior rectus is innervated by the contralateral nucleus. C) False. It supplies the superior oblique. D) True. This makes the sixth nerve susceptible to trauma, which may cause lateral rectus palsy. E) True. It passes lateral to the artery.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Anatomy of the Eye - Book questions",
+        "groupName": "Anatomy of the Eye - Book questions",
+        "sourceType": "lecture"
+      },
+      {
         "id": "ophthalmology__lecture__anatomy-of-the-eye__1__7uuhl",
         "number": "1",
         "text": "The tear film:",
@@ -1412,7 +1632,7 @@
         "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 21,
+    "totalQuestions": 24,
     "totalLectures": 2,
     "hasAiFolder": false
   }
