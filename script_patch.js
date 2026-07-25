@@ -903,39 +903,66 @@
   };
 
   window.selectOption = function(index) {
-    if (!state.currentExam) return;
-    const idx = state.currentExam.currentIndex;
-    const q = state.currentExam.questions[idx];
+  if (!state.currentExam) return;
+  const idx = state.currentExam.currentIndex;
+  const q = state.currentExam.questions[idx];
 
-    if (state.currentExam.mode === 'training' && state.currentExam.showAnswer) return;
+  if (state.currentExam.mode === 'training' && state.currentExam.showAnswer) return;
 
-    if (q.isMultiple) {
-      if (!Array.isArray(state.currentExam.answers[idx])) {
-        state.currentExam.answers[idx] = [];
-      }
-      const currentAns = state.currentExam.answers[idx];
-      const pos = currentAns.indexOf(index);
-      if (pos !== -1) {
-        currentAns.splice(pos, 1);
-      } else {
-        currentAns.push(index);
-      }
-      if (currentAns.length === 0) {
-        state.currentExam.answers[idx] = null;
-      }
+  if (q.isMultiple) {
+    if (!Array.isArray(state.currentExam.answers[idx])) {
+      state.currentExam.answers[idx] = [];
+    }
+    const currentAns = state.currentExam.answers[idx];
+    const pos = currentAns.indexOf(index);
+    if (pos !== -1) {
+      currentAns.splice(pos, 1);
     } else {
-      state.currentExam.answers[idx] = index;
+      currentAns.push(index);
     }
+    if (currentAns.length === 0) {
+      state.currentExam.answers[idx] = null;
+    }
+  } else {
+    state.currentExam.answers[idx] = index;
+  }
 
-    if (state.currentExam.mode !== 'training' || !q.isMultiple) {
-      if (state.currentExam.firstAnswers[idx] === null) {
-        const ans = state.currentExam.answers[idx];
-        state.currentExam.firstAnswers[idx] = Array.isArray(ans) ? [...ans] : ans;
+  if (state.currentExam.mode !== 'training' || !q.isMultiple) {
+    if (state.currentExam.firstAnswers[idx] === null) {
+      const ans = state.currentExam.answers[idx];
+      state.currentExam.firstAnswers[idx] = Array.isArray(ans) ? [...ans] : ans;
+    }
+  }
+
+  // تشغيل الصوت والأنيميشن في وضع التدريب
+  if (state.currentExam.mode === 'training') {
+    const ans = state.currentExam.answers[idx];
+    const isCorrect = window.isAnswerCorrect ? window.isAnswerCorrect(q, ans) : false;
+    if (ans !== null && isCorrect) {
+      // إجابة صحيحة: صوت و أنيميشن
+      if (typeof window.playRightSound === 'function') {
+        window.playRightSound();
+      }
+      if (typeof window.triggerTrainingAnimation === 'function') {
+        window.triggerTrainingAnimation();
+      }
+      // إظهار الإجابة الصحيحة تلقائياً
+      state.currentExam.showAnswer = true;
+    } else if (ans !== null && !isCorrect) {
+      // إجابة خاطئة: صوت خطأ
+      if (typeof window.playWrongSound === 'function') {
+        window.playWrongSound();
+      }
+      if (!state.wrongQuestions.includes(q.id)) {
+        state.wrongQuestions.push(q.id);
+        saveWrongQuestions();
       }
     }
-    saveExamState();
-    renderExam();
-  };
+  }
+
+  saveExamState();
+  renderExam();
+};
 
     window.submitMultipleAnswer = function() {
     if (!state.currentExam) return;
@@ -2290,5 +2317,3 @@ document.addEventListener('DOMContentLoaded', function(){
 document.addEventListener('DOMContentLoaded', function(){
   refreshFavoriteButtonsUI();
 });
-
-
