@@ -581,14 +581,14 @@
               "Sclera",
               "Vitreous",
               "Lens",
-              "All of the above — all are vascular"
+              "All of the above are vascular"
             ],
             "originalOptions": [
               "Cornea",
               "Sclera",
               "Vitreous",
               "Lens",
-              "All of the above — all are vascular"
+              "All of the above are vascular"
             ],
             "correctAnswer": "B) Sclera",
             "correctAnswerText": "Sclera",
@@ -596,7 +596,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "The cornea and lens are explicitly avascular, nourished only by diffusion, and the vitreous is a clear gel with no vessels of its own. The sclera, in contrast, is a hypovascular collagenous coat. While it has a very limited internal blood supply, it is pierced by blood vessels and intimately connected to the overlying vascularised episclera, making it the only structure listed that is not completely avascular.",
+            "explanation": "The cornea and lens are explicitly avascular, nourished only by diffusion, and the vitreous is a clear gel with no vessels of its own. The sclera is a hypovascular collagenous coat. While it has a very limited internal blood supply, it is pierced by blood vessels and intimately connected to the overlying vascularised episclera, making it the only structure listed that is not completely avascular. Note: if option E had instead read \"All of the above are avascular,\" E would be the more correct choice, since the sclera is technically hypovascular rather than completely avascular.",
             "batchName": "",
             "pageNumber": "",
             "subjectName": "Ophthalmology",
@@ -814,6 +814,138 @@
             "isMultiple": false,
             "correctAnswerLetter": "A",
             "explanation": "The neurosensory retina classically consists of 9 layers, from the photoreceptors to the nerve fiber layer. The retinal pigment epithelium (RPE) is anatomically and functionally a separate, tenth layer.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Anatomy of the Eye",
+            "groupName": "Anatomy of the Eye",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__16__j442ux",
+            "number": "16",
+            "text": "During accommodation for near vision, which of the following changes occurs?",
+            "options": [
+              "The ciliary muscle relaxes and the lens flattens",
+              "The ciliary muscle contracts and the lens becomes thicker",
+              "The zonular fibres tighten and the lens flattens",
+              "The pupil dilates and the lens flattens",
+              "The cornea steepens while the lens remains unchanged"
+            ],
+            "originalOptions": [
+              "The ciliary muscle relaxes and the lens flattens",
+              "The ciliary muscle contracts and the lens becomes thicker",
+              "The zonular fibres tighten and the lens flattens",
+              "The pupil dilates and the lens flattens",
+              "The cornea steepens while the lens remains unchanged"
+            ],
+            "correctAnswer": "B) The ciliary muscle contracts and the lens becomes thicker",
+            "correctAnswerText": "The ciliary muscle contracts and the lens becomes thicker",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Ciliary muscle contraction relaxes the zonular fibres, allowing the lens to become more spherical (thicker) for near focus.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Anatomy of the Eye",
+            "groupName": "Anatomy of the Eye",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__17__mzewz3",
+            "number": "17",
+            "text": "Which ocular structure has no photoreceptors ?",
+            "options": [
+              "Fovea centralis",
+              "Macula",
+              "Optic disc",
+              "Ora serrata",
+              "Pars plana"
+            ],
+            "originalOptions": [
+              "Fovea centralis",
+              "Macula",
+              "Optic disc",
+              "Ora serrata",
+              "Pars plana"
+            ],
+            "correctAnswer": "C) Optic disc",
+            "correctAnswerText": "Optic disc",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "The optic disc is where ganglion cell axons converge to exit as the optic nerve, and it contains no photoreceptors — hence the blind spot. The fovea, in contrast, has the highest photoreceptor (cone) density.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Anatomy of the Eye",
+            "groupName": "Anatomy of the Eye",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__18__ukspfi",
+            "number": "18",
+            "text": "All of the following are parts of the uvea EXCEPT:",
+            "options": [
+              "Iris",
+              "Ciliary body",
+              "Choroid",
+              "Retina",
+              "None of the above — all are part of the uvea"
+            ],
+            "originalOptions": [
+              "Iris",
+              "Ciliary body",
+              "Choroid",
+              "Retina",
+              "None of the above — all are part of the uvea"
+            ],
+            "correctAnswer": "D) Retina",
+            "correctAnswerText": "Retina",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The uveal tract comprises the iris, ciliary body, and choroid — the middle vascular coat. The retina is the inner neural coat, a separate layer of the globe wall.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Anatomy of the Eye",
+            "groupName": "Anatomy of the Eye",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__19__sjhsuy",
+            "number": "19",
+            "text": "Improvement of vision with a pinhole test suggests which underlying cause of reduced visual acuity?",
+            "options": [
+              "A refractive error",
+              "Advanced cataract",
+              "Open-angle glaucoma",
+              "Macular degeneration",
+              "Optic neuritis"
+            ],
+            "originalOptions": [
+              "A refractive error",
+              "Advanced cataract",
+              "Open-angle glaucoma",
+              "Macular degeneration",
+              "Optic neuritis"
+            ],
+            "correctAnswer": "A) A refractive error",
+            "correctAnswerText": "A refractive error",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "A pinhole eliminates the effect of uncorrected refractive error by narrowing the bundle of light rays reaching the retina, improving focus. Vision that does not improve with a pinhole points instead toward organic pathology like dense cataract or macular/optic nerve disease.",
             "batchName": "",
             "pageNumber": "",
             "subjectName": "Ophthalmology",
@@ -2065,14 +2197,14 @@
           "Sclera",
           "Vitreous",
           "Lens",
-          "All of the above — all are vascular"
+          "All of the above are vascular"
         ],
         "originalOptions": [
           "Cornea",
           "Sclera",
           "Vitreous",
           "Lens",
-          "All of the above — all are vascular"
+          "All of the above are vascular"
         ],
         "correctAnswer": "B) Sclera",
         "correctAnswerText": "Sclera",
@@ -2080,7 +2212,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "B",
-        "explanation": "The cornea and lens are explicitly avascular, nourished only by diffusion, and the vitreous is a clear gel with no vessels of its own. The sclera, in contrast, is a hypovascular collagenous coat. While it has a very limited internal blood supply, it is pierced by blood vessels and intimately connected to the overlying vascularised episclera, making it the only structure listed that is not completely avascular.",
+        "explanation": "The cornea and lens are explicitly avascular, nourished only by diffusion, and the vitreous is a clear gel with no vessels of its own. The sclera is a hypovascular collagenous coat. While it has a very limited internal blood supply, it is pierced by blood vessels and intimately connected to the overlying vascularised episclera, making it the only structure listed that is not completely avascular. Note: if option E had instead read \"All of the above are avascular,\" E would be the more correct choice, since the sclera is technically hypovascular rather than completely avascular.",
         "batchName": "",
         "pageNumber": "",
         "subjectName": "Ophthalmology",
@@ -2298,6 +2430,138 @@
         "isMultiple": false,
         "correctAnswerLetter": "A",
         "explanation": "The neurosensory retina classically consists of 9 layers, from the photoreceptors to the nerve fiber layer. The retinal pigment epithelium (RPE) is anatomically and functionally a separate, tenth layer.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Anatomy of the Eye",
+        "groupName": "Anatomy of the Eye",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__16__j442ux",
+        "number": "16",
+        "text": "During accommodation for near vision, which of the following changes occurs?",
+        "options": [
+          "The ciliary muscle relaxes and the lens flattens",
+          "The ciliary muscle contracts and the lens becomes thicker",
+          "The zonular fibres tighten and the lens flattens",
+          "The pupil dilates and the lens flattens",
+          "The cornea steepens while the lens remains unchanged"
+        ],
+        "originalOptions": [
+          "The ciliary muscle relaxes and the lens flattens",
+          "The ciliary muscle contracts and the lens becomes thicker",
+          "The zonular fibres tighten and the lens flattens",
+          "The pupil dilates and the lens flattens",
+          "The cornea steepens while the lens remains unchanged"
+        ],
+        "correctAnswer": "B) The ciliary muscle contracts and the lens becomes thicker",
+        "correctAnswerText": "The ciliary muscle contracts and the lens becomes thicker",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Ciliary muscle contraction relaxes the zonular fibres, allowing the lens to become more spherical (thicker) for near focus.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Anatomy of the Eye",
+        "groupName": "Anatomy of the Eye",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__17__mzewz3",
+        "number": "17",
+        "text": "Which ocular structure has no photoreceptors ?",
+        "options": [
+          "Fovea centralis",
+          "Macula",
+          "Optic disc",
+          "Ora serrata",
+          "Pars plana"
+        ],
+        "originalOptions": [
+          "Fovea centralis",
+          "Macula",
+          "Optic disc",
+          "Ora serrata",
+          "Pars plana"
+        ],
+        "correctAnswer": "C) Optic disc",
+        "correctAnswerText": "Optic disc",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "The optic disc is where ganglion cell axons converge to exit as the optic nerve, and it contains no photoreceptors — hence the blind spot. The fovea, in contrast, has the highest photoreceptor (cone) density.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Anatomy of the Eye",
+        "groupName": "Anatomy of the Eye",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__18__ukspfi",
+        "number": "18",
+        "text": "All of the following are parts of the uvea EXCEPT:",
+        "options": [
+          "Iris",
+          "Ciliary body",
+          "Choroid",
+          "Retina",
+          "None of the above — all are part of the uvea"
+        ],
+        "originalOptions": [
+          "Iris",
+          "Ciliary body",
+          "Choroid",
+          "Retina",
+          "None of the above — all are part of the uvea"
+        ],
+        "correctAnswer": "D) Retina",
+        "correctAnswerText": "Retina",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "The uveal tract comprises the iris, ciliary body, and choroid — the middle vascular coat. The retina is the inner neural coat, a separate layer of the globe wall.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Anatomy of the Eye",
+        "groupName": "Anatomy of the Eye",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__19__sjhsuy",
+        "number": "19",
+        "text": "Improvement of vision with a pinhole test suggests which underlying cause of reduced visual acuity?",
+        "options": [
+          "A refractive error",
+          "Advanced cataract",
+          "Open-angle glaucoma",
+          "Macular degeneration",
+          "Optic neuritis"
+        ],
+        "originalOptions": [
+          "A refractive error",
+          "Advanced cataract",
+          "Open-angle glaucoma",
+          "Macular degeneration",
+          "Optic neuritis"
+        ],
+        "correctAnswer": "A) A refractive error",
+        "correctAnswerText": "A refractive error",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "A pinhole eliminates the effect of uncorrected refractive error by narrowing the bundle of light rays reaching the retina, improving focus. Vision that does not improve with a pinhole points instead toward organic pathology like dense cataract or macular/optic nerve disease.",
         "batchName": "",
         "pageNumber": "",
         "subjectName": "Ophthalmology",
@@ -2972,7 +3236,7 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 44,
+    "totalQuestions": 48,
     "totalLectures": 3,
     "hasAiFolder": true
   }
