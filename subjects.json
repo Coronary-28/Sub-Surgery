@@ -966,41 +966,8 @@
         "path": "Ophthalmology/AI/Anatomy of the Eye - AI.txt",
         "questions": [
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__1__gqlknr",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__1__o7g3u6",
             "number": "1",
-            "text": "The cornea receives its nutrition and oxygen mainly through diffusion. Which of the following is the correct source for its oxygen supply?",
-            "options": [
-              "Limbal blood vessels",
-              "Aqueous humour",
-              "Tear film",
-              "Vitreous body",
-              "Ciliary body vasculature"
-            ],
-            "originalOptions": [
-              "Limbal blood vessels",
-              "Aqueous humour",
-              "Tear film",
-              "Vitreous body",
-              "Ciliary body vasculature"
-            ],
-            "correctAnswer": "C) Tear film",
-            "correctAnswerText": "Tear film",
-            "correctIndex": 2,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "C",
-            "explanation": "The cornea is avascular and depends entirely on diffusion for nourishment — oxygen comes from the tear film, glucose from the aqueous humour, and the limbal vessels contribute nutrients at the periphery only. This avascularity is essential for maintaining corneal transparency.",
-            "batchName": "",
-            "pageNumber": "",
-            "subjectName": "Ophthalmology",
-            "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the Eye - AI",
-            "groupName": "Anatomy of the Eye - AI",
-            "sourceType": "ai"
-          },
-          {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__2__o7g3u6",
-            "number": "2",
             "text": "Arrange the five histological layers of the cornea in correct anterior-to-posterior order:",
             "options": [
               "Epithelium → Stroma → Bowman's layer → Descemet's membrane → Endothelium",
@@ -1032,41 +999,8 @@
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__3__cfx4d3",
-            "number": "3",
-            "text": "A 32-year-old contact lens wearer with poor hygiene presents with a painful red eye. A corneal scrape grows an organism that rapidly progressed to perforation within 48 hours. Which corneal layer, if breached, is classically unable to regenerate and predisposes to permanent scarring?",
-            "options": [
-              "Epithelium",
-              "Bowman's layer",
-              "Stroma",
-              "Descemet's membrane",
-              "Tear film"
-            ],
-            "originalOptions": [
-              "Epithelium",
-              "Bowman's layer",
-              "Stroma",
-              "Descemet's membrane",
-              "Tear film"
-            ],
-            "correctAnswer": "B) Bowman's layer",
-            "correctAnswerText": "Bowman's layer",
-            "correctIndex": 1,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "B",
-            "explanation": "Bowman's layer is tough but does not regenerate if damaged, unlike the epithelium which regenerates within days. This is why deep corneal injuries involving Bowman's layer or beyond tend to leave permanent scarring rather than healing cleanly.",
-            "batchName": "",
-            "pageNumber": "",
-            "subjectName": "Ophthalmology",
-            "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the Eye - AI",
-            "groupName": "Anatomy of the Eye - AI",
-            "sourceType": "ai"
-          },
-          {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__4__byvm7s",
-            "number": "4",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__2__byvm7s",
+            "number": "2",
             "text": "The main route of aqueous humour outflow, accounting for approximately 90–96% of drainage, is:",
             "options": [
               "The uveoscleral pathway through the ciliary body face",
@@ -1098,41 +1032,8 @@
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__5__n5ujbn",
-            "number": "5",
-            "text": "All of the following statements about the sclera are true EXCEPT:",
-            "options": [
-              "It is continuous with the cornea at the limbus",
-              "It is continuous with the dural sheath of the optic nerve posteriorly",
-              "The four rectus muscles insert into it anterior to the equator",
-              "It is the middle vascular coat of the eye",
-              "It gives the globe its shape and protects intraocular contents"
-            ],
-            "originalOptions": [
-              "It is continuous with the cornea at the limbus",
-              "It is continuous with the dural sheath of the optic nerve posteriorly",
-              "The four rectus muscles insert into it anterior to the equator",
-              "It is the middle vascular coat of the eye",
-              "It gives the globe its shape and protects intraocular contents"
-            ],
-            "correctAnswer": "D) It is the middle vascular coat of the eye",
-            "correctAnswerText": "It is the middle vascular coat of the eye",
-            "correctIndex": 3,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "D",
-            "explanation": "The sclera is part of the outer fibrous coat (with the cornea), not the middle vascular coat — the middle vascular coat is the uveal tract (iris, ciliary body, choroid).",
-            "batchName": "",
-            "pageNumber": "",
-            "subjectName": "Ophthalmology",
-            "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the Eye - AI",
-            "groupName": "Anatomy of the Eye - AI",
-            "sourceType": "ai"
-          },
-          {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__6__lrm1t4",
-            "number": "6",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__3__lrm1t4",
+            "number": "3",
             "text": "Which structure is responsible for producing the outer lipid layer of the tear film, and what is its main function?",
             "options": [
               "Lacrimal gland; provides 90% of tear thickness",
@@ -1164,41 +1065,8 @@
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__7__1ztxvo",
-            "number": "7",
-            "text": "The ciliary body has two principal functions. Select the correct pair:",
-            "options": [
-              "Aqueous humour drainage and pupil constriction",
-              "Aqueous humour production and accommodation",
-              "Colour vision and dark adaptation",
-              "Tear secretion and blinking",
-              "Refraction and pigmentation of the iris"
-            ],
-            "originalOptions": [
-              "Aqueous humour drainage and pupil constriction",
-              "Aqueous humour production and accommodation",
-              "Colour vision and dark adaptation",
-              "Tear secretion and blinking",
-              "Refraction and pigmentation of the iris"
-            ],
-            "correctAnswer": "B) Aqueous humour production and accommodation",
-            "correctAnswerText": "Aqueous humour production and accommodation",
-            "correctIndex": 1,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "B",
-            "explanation": "The ciliary epithelium (non-pigmented layer) produces aqueous humour, while the ciliary muscle mediates accommodation by relaxing the zonular fibres to allow the lens to become more spherical. Loss of this accommodative function with age is the basis of presbyopia.",
-            "batchName": "",
-            "pageNumber": "",
-            "subjectName": "Ophthalmology",
-            "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the Eye - AI",
-            "groupName": "Anatomy of the Eye - AI",
-            "sourceType": "ai"
-          },
-          {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__8__cesdgv",
-            "number": "8",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__4__cesdgv",
+            "number": "4",
             "text": "Contraction of which iris muscle produces mydriasis (pupil dilation), and via which autonomic pathway?",
             "options": [
               "Sphincter pupillae; parasympathetic (CN III)",
@@ -1230,74 +1098,8 @@
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__9__ek1lj3",
-            "number": "9",
-            "text": "Which statement about the lens is correct?",
-            "options": [
-              "It is the eye's most powerful refractive structure",
-              "It is vascularised to support its constant growth",
-              "It contributes approximately one-third of the eye's total refractive power",
-              "It stops growing once the eye reaches adult size",
-              "It is fixed in position and cannot vary its power"
-            ],
-            "originalOptions": [
-              "It is the eye's most powerful refractive structure",
-              "It is vascularised to support its constant growth",
-              "It contributes approximately one-third of the eye's total refractive power",
-              "It stops growing once the eye reaches adult size",
-              "It is fixed in position and cannot vary its power"
-            ],
-            "correctAnswer": "C) It contributes approximately one-third of the eye's total refractive power",
-            "correctAnswerText": "It contributes approximately one-third of the eye's total refractive power",
-            "correctIndex": 2,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "C",
-            "explanation": "The lens contributes about one-third of the eye's ~60 D total refractive power, with the cornea providing the other two-thirds. Unlike the cornea, the lens is the only structure able to vary its power, and it is avascular, continuing to grow throughout life by laying down new fibres.",
-            "batchName": "",
-            "pageNumber": "",
-            "subjectName": "Ophthalmology",
-            "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the Eye - AI",
-            "groupName": "Anatomy of the Eye - AI",
-            "sourceType": "ai"
-          },
-          {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__10__2h3u8j",
-            "number": "10",
-            "text": "A patient has a dense mature cataract. Which of the following visual functions is expected to be relatively preserved, helping distinguish this from glaucoma?",
-            "options": [
-              "Peripheral visual field",
-              "Central visual acuity",
-              "Colour discrimination",
-              "Contrast sensitivity",
-              "Dark adaptation"
-            ],
-            "originalOptions": [
-              "Peripheral visual field",
-              "Central visual acuity",
-              "Colour discrimination",
-              "Contrast sensitivity",
-              "Dark adaptation"
-            ],
-            "correctAnswer": "A) Peripheral visual field",
-            "correctAnswerText": "Peripheral visual field",
-            "correctIndex": 0,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "A",
-            "explanation": "In lens or macular pathology such as cataract, central acuity is affected while the peripheral field is generally preserved — the opposite pattern to glaucoma, where the peripheral field is lost first and central acuity is preserved until late disease.",
-            "batchName": "",
-            "pageNumber": "",
-            "subjectName": "Ophthalmology",
-            "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the Eye - AI",
-            "groupName": "Anatomy of the Eye - AI",
-            "sourceType": "ai"
-          },
-          {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__11__uxu9ln",
-            "number": "11",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__5__uxu9ln",
+            "number": "5",
             "text": "Cones, responsible for colour vision and fine visual acuity, are exclusively found at which retinal location?",
             "options": [
               "Optic disc",
@@ -1329,8 +1131,8 @@
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__12__hv7zyh",
-            "number": "12",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__6__hv7zyh",
+            "number": "6",
             "text": "The optic disc corresponds to the physiological blind spot because:",
             "options": [
               "It contains only rods",
@@ -1362,8 +1164,8 @@
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__13__ajuba3",
-            "number": "13",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__7__ajuba3",
+            "number": "7",
             "text": "The vitreous body is firmly attached at all of the following sites EXCEPT:",
             "options": [
               "The vitreous base, just behind the ora serrata",
@@ -1385,7 +1187,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "D",
-            "explanation": "The vitreous is firmly attached at the vitreous base, the optic disc margin, and the macula — these are the sites that matter when the vitreous shrinks and pulls with age, leading to posterior vitreous detachment. It is not described as firmly attached at the lens equator.",
+            "explanation": "The vitreous body is attached to the vitreous base (peripheral retina/pars plana), the optic disc margin, and the macula. While its attachment to the macula and retinal vessels is relatively less firm than at the base or disc, it remains a critical attachment site. These locations are clinically significant because they experience traction and pulling when the vitreous shrinks with age. The lens equator is not a vitreous attachment site.",
             "batchName": "",
             "pageNumber": "",
             "subjectName": "Ophthalmology",
@@ -1395,74 +1197,8 @@
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__14__lq89tq",
-            "number": "14",
-            "text": "A 68-year-old man develops sudden painless monocular vision loss. An embolus is suspected to have lodged in a branch of the ophthalmic artery. If the embolus blocks the central retinal artery rather than a posterior ciliary artery, which structure is primarily affected?",
-            "options": [
-              "The choroid",
-              "The optic nerve head via ischaemic optic neuropathy",
-              "The retina",
-              "The ciliary body",
-              "The sclera"
-            ],
-            "originalOptions": [
-              "The choroid",
-              "The optic nerve head via ischaemic optic neuropathy",
-              "The retina",
-              "The ciliary body",
-              "The sclera"
-            ],
-            "correctAnswer": "C) The retina",
-            "correctAnswerText": "The retina",
-            "correctIndex": 2,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "C",
-            "explanation": "The central retinal artery supplies the retina, so its occlusion causes central retinal artery occlusion (CRAO), while blockage of a posterior ciliary artery instead causes ischaemic optic neuropathy by affecting the optic nerve head and choroid. Both vessels arise from the ophthalmic artery, itself one of the first branches of the internal carotid artery.",
-            "batchName": "",
-            "pageNumber": "",
-            "subjectName": "Ophthalmology",
-            "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the Eye - AI",
-            "groupName": "Anatomy of the Eye - AI",
-            "sourceType": "ai"
-          },
-          {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__15__12aij3",
-            "number": "15",
-            "text": "Which of the following best describes the anterior chamber and drainage angle?",
-            "options": [
-              "The space between the lens and vitreous, containing vitreous gel",
-              "The space between the cornea and iris, filled with aqueous humour, with the drainage angle at the periphery",
-              "The space posterior to the iris, filled with vitreous",
-              "A space found only in angle-closure glaucoma",
-              "The space between the retina and choroid"
-            ],
-            "originalOptions": [
-              "The space between the lens and vitreous, containing vitreous gel",
-              "The space between the cornea and iris, filled with aqueous humour, with the drainage angle at the periphery",
-              "The space posterior to the iris, filled with vitreous",
-              "A space found only in angle-closure glaucoma",
-              "The space between the retina and choroid"
-            ],
-            "correctAnswer": "B) The space between the cornea and iris/lens, filled with aqueous humour, with the drainage angle at the periphery",
-            "correctAnswerText": "The space between the cornea and iris, filled with aqueous humour, with the drainage angle at the periphery",
-            "correctIndex": 1,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "B",
-            "explanation": "The anterior chamber lies between the cornea anteriorly and the iris posteriorly, filled with aqueous humour, and the drainage angle at its periphery contains the trabecular meshwork.",
-            "batchName": "",
-            "pageNumber": "",
-            "subjectName": "Ophthalmology",
-            "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the Eye - AI",
-            "groupName": "Anatomy of the Eye - AI",
-            "sourceType": "ai"
-          },
-          {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__16__tinoux",
-            "number": "16",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__8__tinoux",
+            "number": "8",
             "text": "The conjunctiva contains goblet cells whose function is to:",
             "options": [
               "Produce the outer lipid layer of the tear film",
@@ -1494,8 +1230,8 @@
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__17__9wq294",
-            "number": "17",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__9__9wq294",
+            "number": "9",
             "text": "Which of the following is the correct pairing of a uveal tract structure with its principal role?",
             "options": [
               "Iris — aqueous humour production",
@@ -1527,41 +1263,8 @@
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__18__hmneq4",
-            "number": "18",
-            "text": "A patient has an intraocular pressure of 24 mmHg on tonometry. Which of the following is the accepted normal range for IOP, against which this value should be judged?",
-            "options": [
-              "5–10 mmHg",
-              "10–21 mmHg",
-              "21–30 mmHg",
-              "15–25 mmHg",
-              "0–5 mmHg"
-            ],
-            "originalOptions": [
-              "5–10 mmHg",
-              "10–21 mmHg",
-              "21–30 mmHg",
-              "15–25 mmHg",
-              "0–5 mmHg"
-            ],
-            "correctAnswer": "B) 10–21 mmHg",
-            "correctAnswerText": "10–21 mmHg",
-            "correctIndex": 1,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "B",
-            "explanation": "The normal intraocular pressure range is 10–21 mmHg, set by the balance between aqueous production by the ciliary body and its drainage through the trabecular and uveoscleral routes. A reading of 24 mmHg is therefore above the normal range and warrants further glaucoma work-up.",
-            "batchName": "",
-            "pageNumber": "",
-            "subjectName": "Ophthalmology",
-            "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the Eye - AI",
-            "groupName": "Anatomy of the Eye - AI",
-            "sourceType": "ai"
-          },
-          {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__19__dha38",
-            "number": "19",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__10__dha38",
+            "number": "10",
             "text": "Select all correct statements regarding the three concentric layers of the globe:",
             "options": [
               "The outer fibrous coat is composed of the cornea and sclera",
@@ -1589,39 +1292,6 @@
             "isMultiple": true,
             "correctAnswerLetter": "",
             "explanation": "A, B, C, and E are all true — the globe wall consists of an outer fibrous coat (cornea + sclera), a middle vascular coat (uveal tract: iris + ciliary body + choroid), and an inner neural coat (retina). D is false because the lens is one of the three transparent refracting media inside the globe (with aqueous humour and vitreous), not part of the wall itself.",
-            "batchName": "",
-            "pageNumber": "",
-            "subjectName": "Ophthalmology",
-            "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the Eye - AI",
-            "groupName": "Anatomy of the Eye - AI",
-            "sourceType": "ai"
-          },
-          {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__20__8scc8w",
-            "number": "20",
-            "text": "Regarding the refractive power of the eye, which statement is correct?",
-            "options": [
-              "The lens contributes roughly two-thirds and the cornea one-third of total refractive power",
-              "The cornea contributes roughly two-thirds and the lens one-third of total refractive power",
-              "The vitreous is the eye's most powerful refractive structure",
-              "The sclera contributes significantly to refraction",
-              "Refractive power is equally divided among the cornea, lens, and vitreous"
-            ],
-            "originalOptions": [
-              "The lens contributes roughly two-thirds and the cornea one-third of total refractive power",
-              "The cornea contributes roughly two-thirds and the lens one-third of total refractive power",
-              "The vitreous is the eye's most powerful refractive structure",
-              "The sclera contributes significantly to refraction",
-              "Refractive power is equally divided among the cornea, lens, and vitreous"
-            ],
-            "correctAnswer": "B) The cornea contributes roughly two-thirds and the lens one-third of total refractive power",
-            "correctAnswerText": "The cornea contributes roughly two-thirds and the lens one-third of total refractive power",
-            "correctIndex": 1,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "B",
-            "explanation": "The cornea provides about two-thirds of the eye's total refractive power (~43 D of the ~60 D total), while the lens contributes the remaining third — though only the lens can vary its own power for accommodation. This distribution is a frequently tested high-yield fact in ophthalmic optics.",
             "batchName": "",
             "pageNumber": "",
             "subjectName": "Ophthalmology",
@@ -2571,41 +2241,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__1__gqlknr",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__1__o7g3u6",
         "number": "1",
-        "text": "The cornea receives its nutrition and oxygen mainly through diffusion. Which of the following is the correct source for its oxygen supply?",
-        "options": [
-          "Limbal blood vessels",
-          "Aqueous humour",
-          "Tear film",
-          "Vitreous body",
-          "Ciliary body vasculature"
-        ],
-        "originalOptions": [
-          "Limbal blood vessels",
-          "Aqueous humour",
-          "Tear film",
-          "Vitreous body",
-          "Ciliary body vasculature"
-        ],
-        "correctAnswer": "C) Tear film",
-        "correctAnswerText": "Tear film",
-        "correctIndex": 2,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "C",
-        "explanation": "The cornea is avascular and depends entirely on diffusion for nourishment — oxygen comes from the tear film, glucose from the aqueous humour, and the limbal vessels contribute nutrients at the periphery only. This avascularity is essential for maintaining corneal transparency.",
-        "batchName": "",
-        "pageNumber": "",
-        "subjectName": "Ophthalmology",
-        "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the Eye - AI",
-        "groupName": "Anatomy of the Eye - AI",
-        "sourceType": "ai"
-      },
-      {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__2__o7g3u6",
-        "number": "2",
         "text": "Arrange the five histological layers of the cornea in correct anterior-to-posterior order:",
         "options": [
           "Epithelium → Stroma → Bowman's layer → Descemet's membrane → Endothelium",
@@ -2637,41 +2274,8 @@
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__3__cfx4d3",
-        "number": "3",
-        "text": "A 32-year-old contact lens wearer with poor hygiene presents with a painful red eye. A corneal scrape grows an organism that rapidly progressed to perforation within 48 hours. Which corneal layer, if breached, is classically unable to regenerate and predisposes to permanent scarring?",
-        "options": [
-          "Epithelium",
-          "Bowman's layer",
-          "Stroma",
-          "Descemet's membrane",
-          "Tear film"
-        ],
-        "originalOptions": [
-          "Epithelium",
-          "Bowman's layer",
-          "Stroma",
-          "Descemet's membrane",
-          "Tear film"
-        ],
-        "correctAnswer": "B) Bowman's layer",
-        "correctAnswerText": "Bowman's layer",
-        "correctIndex": 1,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "B",
-        "explanation": "Bowman's layer is tough but does not regenerate if damaged, unlike the epithelium which regenerates within days. This is why deep corneal injuries involving Bowman's layer or beyond tend to leave permanent scarring rather than healing cleanly.",
-        "batchName": "",
-        "pageNumber": "",
-        "subjectName": "Ophthalmology",
-        "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the Eye - AI",
-        "groupName": "Anatomy of the Eye - AI",
-        "sourceType": "ai"
-      },
-      {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__4__byvm7s",
-        "number": "4",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__2__byvm7s",
+        "number": "2",
         "text": "The main route of aqueous humour outflow, accounting for approximately 90–96% of drainage, is:",
         "options": [
           "The uveoscleral pathway through the ciliary body face",
@@ -2703,41 +2307,8 @@
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__5__n5ujbn",
-        "number": "5",
-        "text": "All of the following statements about the sclera are true EXCEPT:",
-        "options": [
-          "It is continuous with the cornea at the limbus",
-          "It is continuous with the dural sheath of the optic nerve posteriorly",
-          "The four rectus muscles insert into it anterior to the equator",
-          "It is the middle vascular coat of the eye",
-          "It gives the globe its shape and protects intraocular contents"
-        ],
-        "originalOptions": [
-          "It is continuous with the cornea at the limbus",
-          "It is continuous with the dural sheath of the optic nerve posteriorly",
-          "The four rectus muscles insert into it anterior to the equator",
-          "It is the middle vascular coat of the eye",
-          "It gives the globe its shape and protects intraocular contents"
-        ],
-        "correctAnswer": "D) It is the middle vascular coat of the eye",
-        "correctAnswerText": "It is the middle vascular coat of the eye",
-        "correctIndex": 3,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "D",
-        "explanation": "The sclera is part of the outer fibrous coat (with the cornea), not the middle vascular coat — the middle vascular coat is the uveal tract (iris, ciliary body, choroid).",
-        "batchName": "",
-        "pageNumber": "",
-        "subjectName": "Ophthalmology",
-        "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the Eye - AI",
-        "groupName": "Anatomy of the Eye - AI",
-        "sourceType": "ai"
-      },
-      {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__6__lrm1t4",
-        "number": "6",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__3__lrm1t4",
+        "number": "3",
         "text": "Which structure is responsible for producing the outer lipid layer of the tear film, and what is its main function?",
         "options": [
           "Lacrimal gland; provides 90% of tear thickness",
@@ -2769,41 +2340,8 @@
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__7__1ztxvo",
-        "number": "7",
-        "text": "The ciliary body has two principal functions. Select the correct pair:",
-        "options": [
-          "Aqueous humour drainage and pupil constriction",
-          "Aqueous humour production and accommodation",
-          "Colour vision and dark adaptation",
-          "Tear secretion and blinking",
-          "Refraction and pigmentation of the iris"
-        ],
-        "originalOptions": [
-          "Aqueous humour drainage and pupil constriction",
-          "Aqueous humour production and accommodation",
-          "Colour vision and dark adaptation",
-          "Tear secretion and blinking",
-          "Refraction and pigmentation of the iris"
-        ],
-        "correctAnswer": "B) Aqueous humour production and accommodation",
-        "correctAnswerText": "Aqueous humour production and accommodation",
-        "correctIndex": 1,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "B",
-        "explanation": "The ciliary epithelium (non-pigmented layer) produces aqueous humour, while the ciliary muscle mediates accommodation by relaxing the zonular fibres to allow the lens to become more spherical. Loss of this accommodative function with age is the basis of presbyopia.",
-        "batchName": "",
-        "pageNumber": "",
-        "subjectName": "Ophthalmology",
-        "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the Eye - AI",
-        "groupName": "Anatomy of the Eye - AI",
-        "sourceType": "ai"
-      },
-      {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__8__cesdgv",
-        "number": "8",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__4__cesdgv",
+        "number": "4",
         "text": "Contraction of which iris muscle produces mydriasis (pupil dilation), and via which autonomic pathway?",
         "options": [
           "Sphincter pupillae; parasympathetic (CN III)",
@@ -2835,74 +2373,8 @@
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__9__ek1lj3",
-        "number": "9",
-        "text": "Which statement about the lens is correct?",
-        "options": [
-          "It is the eye's most powerful refractive structure",
-          "It is vascularised to support its constant growth",
-          "It contributes approximately one-third of the eye's total refractive power",
-          "It stops growing once the eye reaches adult size",
-          "It is fixed in position and cannot vary its power"
-        ],
-        "originalOptions": [
-          "It is the eye's most powerful refractive structure",
-          "It is vascularised to support its constant growth",
-          "It contributes approximately one-third of the eye's total refractive power",
-          "It stops growing once the eye reaches adult size",
-          "It is fixed in position and cannot vary its power"
-        ],
-        "correctAnswer": "C) It contributes approximately one-third of the eye's total refractive power",
-        "correctAnswerText": "It contributes approximately one-third of the eye's total refractive power",
-        "correctIndex": 2,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "C",
-        "explanation": "The lens contributes about one-third of the eye's ~60 D total refractive power, with the cornea providing the other two-thirds. Unlike the cornea, the lens is the only structure able to vary its power, and it is avascular, continuing to grow throughout life by laying down new fibres.",
-        "batchName": "",
-        "pageNumber": "",
-        "subjectName": "Ophthalmology",
-        "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the Eye - AI",
-        "groupName": "Anatomy of the Eye - AI",
-        "sourceType": "ai"
-      },
-      {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__10__2h3u8j",
-        "number": "10",
-        "text": "A patient has a dense mature cataract. Which of the following visual functions is expected to be relatively preserved, helping distinguish this from glaucoma?",
-        "options": [
-          "Peripheral visual field",
-          "Central visual acuity",
-          "Colour discrimination",
-          "Contrast sensitivity",
-          "Dark adaptation"
-        ],
-        "originalOptions": [
-          "Peripheral visual field",
-          "Central visual acuity",
-          "Colour discrimination",
-          "Contrast sensitivity",
-          "Dark adaptation"
-        ],
-        "correctAnswer": "A) Peripheral visual field",
-        "correctAnswerText": "Peripheral visual field",
-        "correctIndex": 0,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "A",
-        "explanation": "In lens or macular pathology such as cataract, central acuity is affected while the peripheral field is generally preserved — the opposite pattern to glaucoma, where the peripheral field is lost first and central acuity is preserved until late disease.",
-        "batchName": "",
-        "pageNumber": "",
-        "subjectName": "Ophthalmology",
-        "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the Eye - AI",
-        "groupName": "Anatomy of the Eye - AI",
-        "sourceType": "ai"
-      },
-      {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__11__uxu9ln",
-        "number": "11",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__5__uxu9ln",
+        "number": "5",
         "text": "Cones, responsible for colour vision and fine visual acuity, are exclusively found at which retinal location?",
         "options": [
           "Optic disc",
@@ -2934,8 +2406,8 @@
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__12__hv7zyh",
-        "number": "12",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__6__hv7zyh",
+        "number": "6",
         "text": "The optic disc corresponds to the physiological blind spot because:",
         "options": [
           "It contains only rods",
@@ -2967,8 +2439,8 @@
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__13__ajuba3",
-        "number": "13",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__7__ajuba3",
+        "number": "7",
         "text": "The vitreous body is firmly attached at all of the following sites EXCEPT:",
         "options": [
           "The vitreous base, just behind the ora serrata",
@@ -2990,7 +2462,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "D",
-        "explanation": "The vitreous is firmly attached at the vitreous base, the optic disc margin, and the macula — these are the sites that matter when the vitreous shrinks and pulls with age, leading to posterior vitreous detachment. It is not described as firmly attached at the lens equator.",
+        "explanation": "The vitreous body is attached to the vitreous base (peripheral retina/pars plana), the optic disc margin, and the macula. While its attachment to the macula and retinal vessels is relatively less firm than at the base or disc, it remains a critical attachment site. These locations are clinically significant because they experience traction and pulling when the vitreous shrinks with age. The lens equator is not a vitreous attachment site.",
         "batchName": "",
         "pageNumber": "",
         "subjectName": "Ophthalmology",
@@ -3000,74 +2472,8 @@
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__14__lq89tq",
-        "number": "14",
-        "text": "A 68-year-old man develops sudden painless monocular vision loss. An embolus is suspected to have lodged in a branch of the ophthalmic artery. If the embolus blocks the central retinal artery rather than a posterior ciliary artery, which structure is primarily affected?",
-        "options": [
-          "The choroid",
-          "The optic nerve head via ischaemic optic neuropathy",
-          "The retina",
-          "The ciliary body",
-          "The sclera"
-        ],
-        "originalOptions": [
-          "The choroid",
-          "The optic nerve head via ischaemic optic neuropathy",
-          "The retina",
-          "The ciliary body",
-          "The sclera"
-        ],
-        "correctAnswer": "C) The retina",
-        "correctAnswerText": "The retina",
-        "correctIndex": 2,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "C",
-        "explanation": "The central retinal artery supplies the retina, so its occlusion causes central retinal artery occlusion (CRAO), while blockage of a posterior ciliary artery instead causes ischaemic optic neuropathy by affecting the optic nerve head and choroid. Both vessels arise from the ophthalmic artery, itself one of the first branches of the internal carotid artery.",
-        "batchName": "",
-        "pageNumber": "",
-        "subjectName": "Ophthalmology",
-        "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the Eye - AI",
-        "groupName": "Anatomy of the Eye - AI",
-        "sourceType": "ai"
-      },
-      {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__15__12aij3",
-        "number": "15",
-        "text": "Which of the following best describes the anterior chamber and drainage angle?",
-        "options": [
-          "The space between the lens and vitreous, containing vitreous gel",
-          "The space between the cornea and iris, filled with aqueous humour, with the drainage angle at the periphery",
-          "The space posterior to the iris, filled with vitreous",
-          "A space found only in angle-closure glaucoma",
-          "The space between the retina and choroid"
-        ],
-        "originalOptions": [
-          "The space between the lens and vitreous, containing vitreous gel",
-          "The space between the cornea and iris, filled with aqueous humour, with the drainage angle at the periphery",
-          "The space posterior to the iris, filled with vitreous",
-          "A space found only in angle-closure glaucoma",
-          "The space between the retina and choroid"
-        ],
-        "correctAnswer": "B) The space between the cornea and iris/lens, filled with aqueous humour, with the drainage angle at the periphery",
-        "correctAnswerText": "The space between the cornea and iris, filled with aqueous humour, with the drainage angle at the periphery",
-        "correctIndex": 1,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "B",
-        "explanation": "The anterior chamber lies between the cornea anteriorly and the iris posteriorly, filled with aqueous humour, and the drainage angle at its periphery contains the trabecular meshwork.",
-        "batchName": "",
-        "pageNumber": "",
-        "subjectName": "Ophthalmology",
-        "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the Eye - AI",
-        "groupName": "Anatomy of the Eye - AI",
-        "sourceType": "ai"
-      },
-      {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__16__tinoux",
-        "number": "16",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__8__tinoux",
+        "number": "8",
         "text": "The conjunctiva contains goblet cells whose function is to:",
         "options": [
           "Produce the outer lipid layer of the tear film",
@@ -3099,8 +2505,8 @@
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__17__9wq294",
-        "number": "17",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__9__9wq294",
+        "number": "9",
         "text": "Which of the following is the correct pairing of a uveal tract structure with its principal role?",
         "options": [
           "Iris — aqueous humour production",
@@ -3132,41 +2538,8 @@
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__18__hmneq4",
-        "number": "18",
-        "text": "A patient has an intraocular pressure of 24 mmHg on tonometry. Which of the following is the accepted normal range for IOP, against which this value should be judged?",
-        "options": [
-          "5–10 mmHg",
-          "10–21 mmHg",
-          "21–30 mmHg",
-          "15–25 mmHg",
-          "0–5 mmHg"
-        ],
-        "originalOptions": [
-          "5–10 mmHg",
-          "10–21 mmHg",
-          "21–30 mmHg",
-          "15–25 mmHg",
-          "0–5 mmHg"
-        ],
-        "correctAnswer": "B) 10–21 mmHg",
-        "correctAnswerText": "10–21 mmHg",
-        "correctIndex": 1,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "B",
-        "explanation": "The normal intraocular pressure range is 10–21 mmHg, set by the balance between aqueous production by the ciliary body and its drainage through the trabecular and uveoscleral routes. A reading of 24 mmHg is therefore above the normal range and warrants further glaucoma work-up.",
-        "batchName": "",
-        "pageNumber": "",
-        "subjectName": "Ophthalmology",
-        "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the Eye - AI",
-        "groupName": "Anatomy of the Eye - AI",
-        "sourceType": "ai"
-      },
-      {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__19__dha38",
-        "number": "19",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__10__dha38",
+        "number": "10",
         "text": "Select all correct statements regarding the three concentric layers of the globe:",
         "options": [
           "The outer fibrous coat is composed of the cornea and sclera",
@@ -3201,42 +2574,9 @@
         "lectureName": "Anatomy of the Eye - AI",
         "groupName": "Anatomy of the Eye - AI",
         "sourceType": "ai"
-      },
-      {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__20__8scc8w",
-        "number": "20",
-        "text": "Regarding the refractive power of the eye, which statement is correct?",
-        "options": [
-          "The lens contributes roughly two-thirds and the cornea one-third of total refractive power",
-          "The cornea contributes roughly two-thirds and the lens one-third of total refractive power",
-          "The vitreous is the eye's most powerful refractive structure",
-          "The sclera contributes significantly to refraction",
-          "Refractive power is equally divided among the cornea, lens, and vitreous"
-        ],
-        "originalOptions": [
-          "The lens contributes roughly two-thirds and the cornea one-third of total refractive power",
-          "The cornea contributes roughly two-thirds and the lens one-third of total refractive power",
-          "The vitreous is the eye's most powerful refractive structure",
-          "The sclera contributes significantly to refraction",
-          "Refractive power is equally divided among the cornea, lens, and vitreous"
-        ],
-        "correctAnswer": "B) The cornea contributes roughly two-thirds and the lens one-third of total refractive power",
-        "correctAnswerText": "The cornea contributes roughly two-thirds and the lens one-third of total refractive power",
-        "correctIndex": 1,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "B",
-        "explanation": "The cornea provides about two-thirds of the eye's total refractive power (~43 D of the ~60 D total), while the lens contributes the remaining third — though only the lens can vary its own power for accommodation. This distribution is a frequently tested high-yield fact in ophthalmic optics.",
-        "batchName": "",
-        "pageNumber": "",
-        "subjectName": "Ophthalmology",
-        "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the Eye - AI",
-        "groupName": "Anatomy of the Eye - AI",
-        "sourceType": "ai"
       }
     ],
-    "totalQuestions": 48,
+    "totalQuestions": 38,
     "totalLectures": 3,
     "hasAiFolder": true
   }
