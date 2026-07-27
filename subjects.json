@@ -581,14 +581,14 @@
               "Sclera",
               "Vitreous",
               "Lens",
-              "None of the above — all are avascular"
+              "All of the above — all are vascular"
             ],
             "originalOptions": [
               "Cornea",
               "Sclera",
               "Vitreous",
               "Lens",
-              "None of the above — all are avascular"
+              "All of the above — all are vascular"
             ],
             "correctAnswer": "B) Sclera",
             "correctAnswerText": "Sclera",
@@ -596,7 +596,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "B",
-            "explanation": "The cornea and lens are explicitly avascular, nourished only by diffusion, and the vitreous is a clear gel with no vessels of its own. The sclera, in contrast, is a vascularised collagenous coat — it receives blood supply (e.g. via episcleral vessels) unlike the other three purely avascular, diffusion-dependent ocular structures.",
+            "explanation": "The cornea and lens are explicitly avascular, nourished only by diffusion, and the vitreous is a clear gel with no vessels of its own. The sclera, in contrast, is a hypovascular collagenous coat. While it has a very limited internal blood supply, it is pierced by blood vessels and intimately connected to the overlying vascularised episclera, making it the only structure listed that is not completely avascular.",
             "batchName": "",
             "pageNumber": "",
             "subjectName": "Ophthalmology",
@@ -2065,14 +2065,14 @@
           "Sclera",
           "Vitreous",
           "Lens",
-          "None of the above — all are avascular"
+          "All of the above — all are vascular"
         ],
         "originalOptions": [
           "Cornea",
           "Sclera",
           "Vitreous",
           "Lens",
-          "None of the above — all are avascular"
+          "All of the above — all are vascular"
         ],
         "correctAnswer": "B) Sclera",
         "correctAnswerText": "Sclera",
@@ -2080,7 +2080,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "B",
-        "explanation": "The cornea and lens are explicitly avascular, nourished only by diffusion, and the vitreous is a clear gel with no vessels of its own. The sclera, in contrast, is a vascularised collagenous coat — it receives blood supply (e.g. via episcleral vessels) unlike the other three purely avascular, diffusion-dependent ocular structures.",
+        "explanation": "The cornea and lens are explicitly avascular, nourished only by diffusion, and the vitreous is a clear gel with no vessels of its own. The sclera, in contrast, is a hypovascular collagenous coat. While it has a very limited internal blood supply, it is pierced by blood vessels and intimately connected to the overlying vascularised episclera, making it the only structure listed that is not completely avascular.",
         "batchName": "",
         "pageNumber": "",
         "subjectName": "Ophthalmology",
