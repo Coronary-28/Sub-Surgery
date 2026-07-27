@@ -1065,9 +1065,9 @@
             "sourceType": "ai"
           },
           {
-            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__4__cesdgv",
+            "id": "ophthalmology__ai__anatomy-of-the-eye-ai__4__kx10b6",
             "number": "4",
-            "text": "Contraction of which iris muscle produces mydriasis (pupil dilation), and via which autonomic pathway?",
+            "text": "Contraction of which iris muscle produces mydriasis, and via which autonomic pathway?",
             "options": [
               "Sphincter pupillae; parasympathetic (CN III)",
               "Dilator pupillae; sympathetic",
@@ -2340,9 +2340,9 @@
         "sourceType": "ai"
       },
       {
-        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__4__cesdgv",
+        "id": "ophthalmology__ai__anatomy-of-the-eye-ai__4__kx10b6",
         "number": "4",
-        "text": "Contraction of which iris muscle produces mydriasis (pupil dilation), and via which autonomic pathway?",
+        "text": "Contraction of which iris muscle produces mydriasis, and via which autonomic pathway?",
         "options": [
           "Sphincter pupillae; parasympathetic (CN III)",
           "Dilator pupillae; sympathetic",
