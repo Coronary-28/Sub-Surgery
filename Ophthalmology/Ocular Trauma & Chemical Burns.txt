@@ -7,7 +7,7 @@ E) CT scan is the investigation of choice
 Correct Answer: D) The squint decreases when the patient looks upward
 Explanation: Entrapment classically limits elevation, so the diplopia/squint worsens (not decreases) on upgaze. A, B, C, and E are all accurate — infraorbital nerve runs through the floor, and CT with coronal cuts is the imaging of choice.
 ###
-What is the diagnosis shown in the image? [img : hyphema.png ]
+What is the diagnosis shown in the image? [img: hyphema.png ]
 A) Hypopyon
 B) Hyphema
 C) Vitreous haemorrhage
