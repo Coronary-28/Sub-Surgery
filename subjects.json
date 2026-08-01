@@ -997,9 +997,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__2__mdd94t",
+            "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__2__qtzk3l",
             "number": "2",
-            "text": "What is the diagnosis shown in the image? [img : hyphema.png ]",
+            "text": "What is the diagnosis shown in the image? [img: hyphema.png ]",
             "options": [
               "Hypopyon",
               "Hyphema",
@@ -2799,9 +2799,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__2__mdd94t",
+        "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__2__qtzk3l",
         "number": "2",
-        "text": "What is the diagnosis shown in the image? [img : hyphema.png ]",
+        "text": "What is the diagnosis shown in the image? [img: hyphema.png ]",
         "options": [
           "Hypopyon",
           "Hyphema",
