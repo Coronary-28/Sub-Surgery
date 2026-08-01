@@ -1635,6 +1635,351 @@
             "lectureName": "Ocular Trauma & Chemical Burns",
             "groupName": "Ocular Trauma & Chemical Burns",
             "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__17__5daqw8",
+            "number": "17",
+            "text": "Hyphema is blood in the:",
+            "options": [
+              "Anterior chamber",
+              "Posterior chamber",
+              "Cornea",
+              "Conjunctiva"
+            ],
+            "originalOptions": [
+              "Anterior chamber",
+              "Posterior chamber",
+              "Cornea",
+              "Conjunctiva"
+            ],
+            "correctAnswer": "A) Anterior chamber",
+            "correctAnswerText": "Anterior chamber",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Hyphema refers to blood accumulation in the anterior chamber of the eye, usually resulting from severe trauma that tears iris or ciliary body vessels.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Ocular Trauma & Chemical Burns",
+            "groupName": "Ocular Trauma & Chemical Burns",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__18__9wbchy",
+            "number": "18",
+            "text": "Most important complication of traumatic hyphema is:",
+            "options": [
+              "Iridocyclitis",
+              "Iridodialysis",
+              "Blood staining of cornea",
+              "Siderosis bulbi"
+            ],
+            "originalOptions": [
+              "Iridocyclitis",
+              "Iridodialysis",
+              "Blood staining of cornea",
+              "Siderosis bulbi"
+            ],
+            "correctAnswer": "C) Blood staining of cornea",
+            "correctAnswerText": "Blood staining of cornea",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "If intraocular pressure rises while blood remains in the anterior chamber for a prolonged period, hemoglobin deposits within the corneal tissue (blood staining), causing permanent opacification that may later require corneal transplantation.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Ocular Trauma & Chemical Burns",
+            "groupName": "Ocular Trauma & Chemical Burns",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__19__h6rzrg",
+            "number": "19",
+            "text": "Which of the following is not seen in blunt trauma to the eye?",
+            "options": [
+              "Hyphema",
+              "Iridodialysis",
+              "Retinal haemorrhage",
+              "Double perforation"
+            ],
+            "originalOptions": [
+              "Hyphema",
+              "Iridodialysis",
+              "Retinal haemorrhage",
+              "Double perforation"
+            ],
+            "correctAnswer": "D) Double perforation",
+            "correctAnswerText": "Double perforation",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Blunt trauma causes closed injuries (contusions, internal tears), not double perforation, which is characteristic of penetrating injuries.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Ocular Trauma & Chemical Burns",
+            "groupName": "Ocular Trauma & Chemical Burns",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__20__a22g99",
+            "number": "20",
+            "text": "Blow-out fracture of orbit commonly produces:",
+            "options": [
+              "Deviation of septum",
+              "Retinal haemorrhage",
+              "Fracture of nasal bones",
+              "Fracture of floor of orbit"
+            ],
+            "originalOptions": [
+              "Deviation of septum",
+              "Retinal haemorrhage",
+              "Fracture of nasal bones",
+              "Fracture of floor of orbit"
+            ],
+            "correctAnswer": "D) Fracture of floor of orbit",
+            "correctAnswerText": "Fracture of floor of orbit",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "An orbital blow-out fracture occurs when blunt force increases intraorbital pressure, causing the thinnest walls of the orbit to break while the rim remains intact. The orbital floor is the most common site for this fracture, often leading to the herniation or entrapment of orbital contents into the maxillary sinus.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Ocular Trauma & Chemical Burns",
+            "groupName": "Ocular Trauma & Chemical Burns",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__21__fa290j",
+            "number": "21",
+            "text": "The sure sign of scleral rupture is:",
+            "options": [
+              "Shallow anterior chamber",
+              "Decreased visual acuity",
+              "Prolapsed intraocular contents",
+              "Hypotony",
+              "Hyphema"
+            ],
+            "originalOptions": [
+              "Shallow anterior chamber",
+              "Decreased visual acuity",
+              "Prolapsed intraocular contents",
+              "Hypotony",
+              "Hyphema"
+            ],
+            "correctAnswer": "C) Prolapsed intraocular contents",
+            "correctAnswerText": "Prolapsed intraocular contents",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Visible prolapse of intraocular contents (such as uveal tissue or vitreous) through the site of rupture is the definitive, conclusive sign of scleral rupture, while the other signs are supportive but not conclusive on their own.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Ocular Trauma & Chemical Burns",
+            "groupName": "Ocular Trauma & Chemical Burns",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__22__6qsmfz",
+            "number": "22",
+            "text": "A patient received a tennis ball hit to his eye which used to have 6/6 vision. External eye examination showed no abnormalities, vision is HM, and red reflex is normal. Possible diagnosis is:",
+            "options": [
+              "Commotio retinae",
+              "Traumatic cataract",
+              "Vitreous hemorrhage",
+              "Secondary glaucoma"
+            ],
+            "originalOptions": [
+              "Commotio retinae",
+              "Traumatic cataract",
+              "Vitreous hemorrhage",
+              "Secondary glaucoma"
+            ],
+            "correctAnswer": "A) Commotio retinae",
+            "correctAnswerText": "Commotio retinae",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Severe blunt trauma from a large spherical object (a tennis ball) causes retinal concussion (Berlin's edema) despite an externally normal anterior segment and a normal red reflex (since the vitreous and lens are intact), explaining the acute drop in vision.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Ocular Trauma & Chemical Burns",
+            "groupName": "Ocular Trauma & Chemical Burns",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__23__nv8eew",
+            "number": "23",
+            "text": "Vossius ring, seen after blunt ocular trauma, refers to a ring of iris pigment deposited on which structure?",
+            "options": [
+              "Cornea",
+              "Retina",
+              "Anterior lens capsule",
+              "Anterior chamber angle",
+              "Posterior lens capsule"
+            ],
+            "originalOptions": [
+              "Cornea",
+              "Retina",
+              "Anterior lens capsule",
+              "Anterior chamber angle",
+              "Posterior lens capsule"
+            ],
+            "correctAnswer": "C) Anterior lens capsule",
+            "correctAnswerText": "Anterior lens capsule",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "A Vossius ring is a circular imprint of iris pigment on the anterior lens capsule, caused by the pupil margin striking the lens during acute blunt trauma. It is a useful sign confirming previous significant blunt ocular injury.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Ocular Trauma & Chemical Burns",
+            "groupName": "Ocular Trauma & Chemical Burns",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__24__jwrdil",
+            "number": "24",
+            "text": "Adhesion of iris margin anteriorly is known as:",
+            "options": [
+              "Intercalary staphyloma",
+              "Anterior synechia",
+              "Posterior staphyloma",
+              "Iris bombe"
+            ],
+            "originalOptions": [
+              "Intercalary staphyloma",
+              "Anterior synechia",
+              "Posterior staphyloma",
+              "Iris bombe"
+            ],
+            "correctAnswer": "B) Anterior synechia",
+            "correctAnswerText": "Anterior synechia",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Adhesion of the iris margin to the cornea (or the anterior chamber angle) is called anterior synechia, and often occurs after trauma, chronic inflammation, or surgery.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Ocular Trauma & Chemical Burns",
+            "groupName": "Ocular Trauma & Chemical Burns",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__25__7973xu",
+            "number": "25",
+            "text": "Dense scar of cornea with incarceration of iris is known as:",
+            "options": [
+              "Iris bombe",
+              "Dense leucoma",
+              "Ciliary staphyloma",
+              "Leucoma adherent"
+            ],
+            "originalOptions": [
+              "Iris bombe",
+              "Dense leucoma",
+              "Ciliary staphyloma",
+              "Leucoma adherent"
+            ],
+            "correctAnswer": "D) Leucoma adherent",
+            "correctAnswerText": "Leucoma adherent",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "When iris tissue becomes incorporated into a dense corneal scar (usually after corneal perforation), the condition is called \"adherent leucoma (Leucoma adherent)\" to distinguish it from simple dense leucoma not attached to the iris.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Ocular Trauma & Chemical Burns",
+            "groupName": "Ocular Trauma & Chemical Burns",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__26__81b3ip",
+            "number": "26",
+            "text": "The first line of treatment in acid burns of the eye is:",
+            "options": [
+              "Patching the eye",
+              "Instilling a drop of oil in the eye",
+              "Immediate wash with plain water",
+              "Instilling a drop of surface anesthetic into the eye"
+            ],
+            "originalOptions": [
+              "Patching the eye",
+              "Instilling a drop of oil in the eye",
+              "Immediate wash with plain water",
+              "Instilling a drop of surface anesthetic into the eye"
+            ],
+            "correctAnswer": "C) Immediate wash with plain water",
+            "correctAnswerText": "Immediate wash with plain water",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "In any chemical burn (acid or alkali), the absolute top priority is immediate, copious irrigation with water or saline to dilute and remove the caustic substance before any other procedure, because every minute of delay increases the depth of injury.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Ocular Trauma & Chemical Burns",
+            "groupName": "Ocular Trauma & Chemical Burns",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__27__qxyc0n",
+            "number": "27",
+            "text": "An 8-year-old girl received a tennis ball trauma to her right eye. On examination on the same day you would find:",
+            "options": [
+              "Blood staining of the cornea",
+              "Hyphaema",
+              "Hypopyon",
+              "Ghost cell glaucoma"
+            ],
+            "originalOptions": [
+              "Blood staining of the cornea",
+              "Hyphaema",
+              "Hypopyon",
+              "Ghost cell glaucoma"
+            ],
+            "correctAnswer": "B) Hyphaema",
+            "correctAnswerText": "Hyphaema",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Bleeding into the anterior chamber (hyphema) is the direct, early sign expected on the same day as an acute blunt trauma, while corneal blood staining is a delayed complication that only occurs if elevated pressure with blood persists for a prolonged period.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Ocular Trauma & Chemical Burns",
+            "groupName": "Ocular Trauma & Chemical Burns",
+            "sourceType": "lecture"
           }
         ]
       }
@@ -3587,6 +3932,351 @@
         "sourceType": "lecture"
       },
       {
+        "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__17__5daqw8",
+        "number": "17",
+        "text": "Hyphema is blood in the:",
+        "options": [
+          "Anterior chamber",
+          "Posterior chamber",
+          "Cornea",
+          "Conjunctiva"
+        ],
+        "originalOptions": [
+          "Anterior chamber",
+          "Posterior chamber",
+          "Cornea",
+          "Conjunctiva"
+        ],
+        "correctAnswer": "A) Anterior chamber",
+        "correctAnswerText": "Anterior chamber",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Hyphema refers to blood accumulation in the anterior chamber of the eye, usually resulting from severe trauma that tears iris or ciliary body vessels.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Ocular Trauma & Chemical Burns",
+        "groupName": "Ocular Trauma & Chemical Burns",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__18__9wbchy",
+        "number": "18",
+        "text": "Most important complication of traumatic hyphema is:",
+        "options": [
+          "Iridocyclitis",
+          "Iridodialysis",
+          "Blood staining of cornea",
+          "Siderosis bulbi"
+        ],
+        "originalOptions": [
+          "Iridocyclitis",
+          "Iridodialysis",
+          "Blood staining of cornea",
+          "Siderosis bulbi"
+        ],
+        "correctAnswer": "C) Blood staining of cornea",
+        "correctAnswerText": "Blood staining of cornea",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "If intraocular pressure rises while blood remains in the anterior chamber for a prolonged period, hemoglobin deposits within the corneal tissue (blood staining), causing permanent opacification that may later require corneal transplantation.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Ocular Trauma & Chemical Burns",
+        "groupName": "Ocular Trauma & Chemical Burns",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__19__h6rzrg",
+        "number": "19",
+        "text": "Which of the following is not seen in blunt trauma to the eye?",
+        "options": [
+          "Hyphema",
+          "Iridodialysis",
+          "Retinal haemorrhage",
+          "Double perforation"
+        ],
+        "originalOptions": [
+          "Hyphema",
+          "Iridodialysis",
+          "Retinal haemorrhage",
+          "Double perforation"
+        ],
+        "correctAnswer": "D) Double perforation",
+        "correctAnswerText": "Double perforation",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Blunt trauma causes closed injuries (contusions, internal tears), not double perforation, which is characteristic of penetrating injuries.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Ocular Trauma & Chemical Burns",
+        "groupName": "Ocular Trauma & Chemical Burns",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__20__a22g99",
+        "number": "20",
+        "text": "Blow-out fracture of orbit commonly produces:",
+        "options": [
+          "Deviation of septum",
+          "Retinal haemorrhage",
+          "Fracture of nasal bones",
+          "Fracture of floor of orbit"
+        ],
+        "originalOptions": [
+          "Deviation of septum",
+          "Retinal haemorrhage",
+          "Fracture of nasal bones",
+          "Fracture of floor of orbit"
+        ],
+        "correctAnswer": "D) Fracture of floor of orbit",
+        "correctAnswerText": "Fracture of floor of orbit",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "An orbital blow-out fracture occurs when blunt force increases intraorbital pressure, causing the thinnest walls of the orbit to break while the rim remains intact. The orbital floor is the most common site for this fracture, often leading to the herniation or entrapment of orbital contents into the maxillary sinus.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Ocular Trauma & Chemical Burns",
+        "groupName": "Ocular Trauma & Chemical Burns",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__21__fa290j",
+        "number": "21",
+        "text": "The sure sign of scleral rupture is:",
+        "options": [
+          "Shallow anterior chamber",
+          "Decreased visual acuity",
+          "Prolapsed intraocular contents",
+          "Hypotony",
+          "Hyphema"
+        ],
+        "originalOptions": [
+          "Shallow anterior chamber",
+          "Decreased visual acuity",
+          "Prolapsed intraocular contents",
+          "Hypotony",
+          "Hyphema"
+        ],
+        "correctAnswer": "C) Prolapsed intraocular contents",
+        "correctAnswerText": "Prolapsed intraocular contents",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "Visible prolapse of intraocular contents (such as uveal tissue or vitreous) through the site of rupture is the definitive, conclusive sign of scleral rupture, while the other signs are supportive but not conclusive on their own.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Ocular Trauma & Chemical Burns",
+        "groupName": "Ocular Trauma & Chemical Burns",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__22__6qsmfz",
+        "number": "22",
+        "text": "A patient received a tennis ball hit to his eye which used to have 6/6 vision. External eye examination showed no abnormalities, vision is HM, and red reflex is normal. Possible diagnosis is:",
+        "options": [
+          "Commotio retinae",
+          "Traumatic cataract",
+          "Vitreous hemorrhage",
+          "Secondary glaucoma"
+        ],
+        "originalOptions": [
+          "Commotio retinae",
+          "Traumatic cataract",
+          "Vitreous hemorrhage",
+          "Secondary glaucoma"
+        ],
+        "correctAnswer": "A) Commotio retinae",
+        "correctAnswerText": "Commotio retinae",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Severe blunt trauma from a large spherical object (a tennis ball) causes retinal concussion (Berlin's edema) despite an externally normal anterior segment and a normal red reflex (since the vitreous and lens are intact), explaining the acute drop in vision.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Ocular Trauma & Chemical Burns",
+        "groupName": "Ocular Trauma & Chemical Burns",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__23__nv8eew",
+        "number": "23",
+        "text": "Vossius ring, seen after blunt ocular trauma, refers to a ring of iris pigment deposited on which structure?",
+        "options": [
+          "Cornea",
+          "Retina",
+          "Anterior lens capsule",
+          "Anterior chamber angle",
+          "Posterior lens capsule"
+        ],
+        "originalOptions": [
+          "Cornea",
+          "Retina",
+          "Anterior lens capsule",
+          "Anterior chamber angle",
+          "Posterior lens capsule"
+        ],
+        "correctAnswer": "C) Anterior lens capsule",
+        "correctAnswerText": "Anterior lens capsule",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "A Vossius ring is a circular imprint of iris pigment on the anterior lens capsule, caused by the pupil margin striking the lens during acute blunt trauma. It is a useful sign confirming previous significant blunt ocular injury.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Ocular Trauma & Chemical Burns",
+        "groupName": "Ocular Trauma & Chemical Burns",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__24__jwrdil",
+        "number": "24",
+        "text": "Adhesion of iris margin anteriorly is known as:",
+        "options": [
+          "Intercalary staphyloma",
+          "Anterior synechia",
+          "Posterior staphyloma",
+          "Iris bombe"
+        ],
+        "originalOptions": [
+          "Intercalary staphyloma",
+          "Anterior synechia",
+          "Posterior staphyloma",
+          "Iris bombe"
+        ],
+        "correctAnswer": "B) Anterior synechia",
+        "correctAnswerText": "Anterior synechia",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Adhesion of the iris margin to the cornea (or the anterior chamber angle) is called anterior synechia, and often occurs after trauma, chronic inflammation, or surgery.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Ocular Trauma & Chemical Burns",
+        "groupName": "Ocular Trauma & Chemical Burns",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__25__7973xu",
+        "number": "25",
+        "text": "Dense scar of cornea with incarceration of iris is known as:",
+        "options": [
+          "Iris bombe",
+          "Dense leucoma",
+          "Ciliary staphyloma",
+          "Leucoma adherent"
+        ],
+        "originalOptions": [
+          "Iris bombe",
+          "Dense leucoma",
+          "Ciliary staphyloma",
+          "Leucoma adherent"
+        ],
+        "correctAnswer": "D) Leucoma adherent",
+        "correctAnswerText": "Leucoma adherent",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "When iris tissue becomes incorporated into a dense corneal scar (usually after corneal perforation), the condition is called \"adherent leucoma (Leucoma adherent)\" to distinguish it from simple dense leucoma not attached to the iris.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Ocular Trauma & Chemical Burns",
+        "groupName": "Ocular Trauma & Chemical Burns",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__26__81b3ip",
+        "number": "26",
+        "text": "The first line of treatment in acid burns of the eye is:",
+        "options": [
+          "Patching the eye",
+          "Instilling a drop of oil in the eye",
+          "Immediate wash with plain water",
+          "Instilling a drop of surface anesthetic into the eye"
+        ],
+        "originalOptions": [
+          "Patching the eye",
+          "Instilling a drop of oil in the eye",
+          "Immediate wash with plain water",
+          "Instilling a drop of surface anesthetic into the eye"
+        ],
+        "correctAnswer": "C) Immediate wash with plain water",
+        "correctAnswerText": "Immediate wash with plain water",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "In any chemical burn (acid or alkali), the absolute top priority is immediate, copious irrigation with water or saline to dilute and remove the caustic substance before any other procedure, because every minute of delay increases the depth of injury.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Ocular Trauma & Chemical Burns",
+        "groupName": "Ocular Trauma & Chemical Burns",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__27__qxyc0n",
+        "number": "27",
+        "text": "An 8-year-old girl received a tennis ball trauma to her right eye. On examination on the same day you would find:",
+        "options": [
+          "Blood staining of the cornea",
+          "Hyphaema",
+          "Hypopyon",
+          "Ghost cell glaucoma"
+        ],
+        "originalOptions": [
+          "Blood staining of the cornea",
+          "Hyphaema",
+          "Hypopyon",
+          "Ghost cell glaucoma"
+        ],
+        "correctAnswer": "B) Hyphaema",
+        "correctAnswerText": "Hyphaema",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Bleeding into the anterior chamber (hyphema) is the direct, early sign expected on the same day as an acute blunt trauma, while corneal blood staining is a delayed complication that only occurs if elevated pressure with blood persists for a prolonged period.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Ocular Trauma & Chemical Burns",
+        "groupName": "Ocular Trauma & Chemical Burns",
+        "sourceType": "lecture"
+      },
+      {
         "id": "ophthalmology__ai__anatomy-of-the-eye-ai__1__o7g3u6",
         "number": "1",
         "text": "Arrange the five histological layers of the cornea in correct anterior-to-posterior order:",
@@ -3922,7 +4612,7 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 58,
+    "totalQuestions": 69,
     "totalLectures": 5,
     "hasAiFolder": true
   }
