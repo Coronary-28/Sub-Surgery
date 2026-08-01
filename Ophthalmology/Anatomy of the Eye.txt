@@ -91,14 +91,6 @@ D) 3 mm
 Correct Answer: B) 1.5 mm
 Explanation: The optic disc diameter is used as a standard unit of measurement (Disc Diameter, DD) to describe the size and location of fundus lesions.
 ###
-Aqueous humour is formed by:
-A) Epithelium of ciliary body
-B) Posterior surface of iris
-C) Lens
-D) Pars plana
-Correct Answer: A) Epithelium of ciliary body
-Explanation: Aqueous humour is secreted by the non-pigmented ciliary epithelium via both active secretion and ultrafiltration.
-###
 Aqueous humor is secreted by:
 A) Circulus iridis minor
 B) Ciliary muscle
