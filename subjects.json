@@ -957,6 +957,163 @@
         ]
       },
       {
+        "id": "ophthalmology__lecture__ocular-trauma-chemical-burns-book-questions",
+        "name": "Ocular Trauma & Chemical Burns - Book questions",
+        "type": "lecture",
+        "subjectName": "Ophthalmology",
+        "path": "Ophthalmology/Ocular Trauma & Chemical Burns - Book questions.txt",
+        "questions": [
+          {
+            "id": "ophthalmology__lecture__ocular-trauma-chemical-burns-book-questions__1__ejzdm0",
+            "number": "1",
+            "text": "Select all the correct statements regarding the Orbital Injury:",
+            "options": [
+              "Periorbital emphysema.",
+              "Limitation of eye movements.",
+              "Exophthalmos in the longer term.",
+              "A patch of anaesthesia below the orbital rim.",
+              "Hyphaema."
+            ],
+            "originalOptions": [
+              "Periorbital emphysema.",
+              "Limitation of eye movements.",
+              "Exophthalmos in the longer term.",
+              "A patch of anaesthesia below the orbital rim.",
+              "Hyphaema."
+            ],
+            "correctAnswer": "A) Periorbital emphysema. / B) Limitation of eye movements. / D) A patch of anaesthesia below the orbital rim. / E) Hyphaema.",
+            "correctAnswerText": "A) Periorbital emphysema. / B) Limitation of eye movements. / D) A patch of anaesthesia below the orbital rim. / E) Hyphaema.",
+            "correctIndex": -1,
+            "correctIndices": [
+              0,
+              1,
+              3,
+              4
+            ],
+            "isMultiple": true,
+            "correctAnswerLetter": "",
+            "explanation": "A) True. The skin appears to crackle when touch due to the presence of air within it. B) True. There may be swelling of the orbital contents, or the muscle or orbital tissue may become tethered in the orbital fracture. C) False. The eye is usually recessed into the orbit (enophthalmos). D) True. This occurs with an orbital blow-out affecting the floor of the orbit, which damages the infraorbital nerve. E) True. It is always important to look at the eye closely in patients with an orbital fracture.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Ocular Trauma & Chemical Burns - Book questions",
+            "groupName": "Ocular Trauma & Chemical Burns - Book questions",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__ocular-trauma-chemical-burns-book-questions__2__b54uiz",
+            "number": "2",
+            "text": "Select all the correct statements regarding the Subconjunctival Haemorrhage:",
+            "options": [
+              "Is never associated with serious eye disease.",
+              "May cause blood to pass into the cornea.",
+              "Is usually associated with a reduced vision.",
+              "May be associated with some discomfort of the eye.",
+              "Usually settles in a couple of weeks."
+            ],
+            "originalOptions": [
+              "Is never associated with serious eye disease.",
+              "May cause blood to pass into the cornea.",
+              "Is usually associated with a reduced vision.",
+              "May be associated with some discomfort of the eye.",
+              "Usually settles in a couple of weeks."
+            ],
+            "correctAnswer": "D) May be associated with some discomfort of the eye. / E) Usually settles in a couple of weeks.",
+            "correctAnswerText": "D) May be associated with some discomfort of the eye. / E) Usually settles in a couple of weeks.",
+            "correctIndex": -1,
+            "correctIndices": [
+              3,
+              4
+            ],
+            "isMultiple": true,
+            "correctAnswerLetter": "",
+            "explanation": "A) False. In traumatic disease it may overlie a penetrating wound. B) False. The conjunctiva is inserted at the limbus, blood cannot pass into the cornea. C) False. If vision is reduced, another cause must be found. D) True. It may cause slight elevation of the conjunctiva. E) True. It settles spontaneously, treatment is usually not required.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Ocular Trauma & Chemical Burns - Book questions",
+            "groupName": "Ocular Trauma & Chemical Burns - Book questions",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__ocular-trauma-chemical-burns-book-questions__3__zjfco",
+            "number": "3",
+            "text": "Select all the correct statements regarding the Chemical Eye Injuries:",
+            "options": [
+              "Acids cause more severe damage than alkalis.",
+              "Initial treatment requires copious irrigation of the eye with litres of water.",
+              "May be associated with a melt of the cornea.",
+              "A white eye is a sign that the eye has not been severely affected.",
+              "May be treated with oral and topical vitamin C and tetracyclines."
+            ],
+            "originalOptions": [
+              "Acids cause more severe damage than alkalis.",
+              "Initial treatment requires copious irrigation of the eye with litres of water.",
+              "May be associated with a melt of the cornea.",
+              "A white eye is a sign that the eye has not been severely affected.",
+              "May be treated with oral and topical vitamin C and tetracyclines."
+            ],
+            "correctAnswer": "B) Initial treatment requires copious irrigation of the eye with litres of water. / C) May be associated with a melt of the cornea. / E) May be treated with oral and topical vitamin C and tetracyclines.",
+            "correctAnswerText": "B) Initial treatment requires copious irrigation of the eye with litres of water. / C) May be associated with a melt of the cornea. / E) May be treated with oral and topical vitamin C and tetracyclines.",
+            "correctIndex": -1,
+            "correctIndices": [
+              1,
+              2,
+              4
+            ],
+            "isMultiple": true,
+            "correctAnswerLetter": "",
+            "explanation": "A) False. Alkalis diffuse more rapidly and so cause the worst injuries. B) True. The area under the eyelids must also be inspected and irrigated. C) True. Keratolysis is particularly seen with alkali injuries. D) False. This may indicate a severe ischaemic injury by an alkali. E) True. Vitamin C may improve healing, tetracyclines function as anticollagenases.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Ocular Trauma & Chemical Burns - Book questions",
+            "groupName": "Ocular Trauma & Chemical Burns - Book questions",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__ocular-trauma-chemical-burns-book-questions__4__qsgtp5",
+            "number": "4",
+            "text": "Select all the correct statements regarding the Hyphaema:",
+            "options": [
+              "Is a fluid collection of white cells in the anterior chamber.",
+              "May be associated with a low intraocular pressure.",
+              "Is treated with restriction of activity.",
+              "If it recurs within a short time, it may result in more severe problems.",
+              "Is treated with steroid drops."
+            ],
+            "originalOptions": [
+              "Is a fluid collection of white cells in the anterior chamber.",
+              "May be associated with a low intraocular pressure.",
+              "Is treated with restriction of activity.",
+              "If it recurs within a short time, it may result in more severe problems.",
+              "Is treated with steroid drops."
+            ],
+            "correctAnswer": "C) Is treated with restriction of activity. / D) If it recurs within a short time, it may result in more severe problems. / E) Is treated with steroid drops.",
+            "correctAnswerText": "C) Is treated with restriction of activity. / D) If it recurs within a short time, it may result in more severe problems. / E) Is treated with steroid drops.",
+            "correctIndex": -1,
+            "correctIndices": [
+              2,
+              3,
+              4
+            ],
+            "isMultiple": true,
+            "correctAnswerLetter": "",
+            "explanation": "A) False. This is a hypopyon. A hyphaema is a collection of red cells. B) False. It may be associated with a raised intraocular pressure, due to an obstruction of the trabecular meshwork. C) True. This may help to prevent a further bleed. D) True. A rebleed may result in more significant complications, for example high intraocular pressure. E) True. These will help to reduce any associated inflammation and reduce the incidence of rebleeds.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Ocular Trauma & Chemical Burns - Book questions",
+            "groupName": "Ocular Trauma & Chemical Burns - Book questions",
+            "sourceType": "lecture"
+          }
+        ]
+      },
+      {
         "id": "ophthalmology__lecture__ocular-trauma-chemical-burns",
         "name": "Ocular Trauma & Chemical Burns",
         "type": "lecture",
@@ -2766,6 +2923,154 @@
         "sourceType": "lecture"
       },
       {
+        "id": "ophthalmology__lecture__ocular-trauma-chemical-burns-book-questions__1__ejzdm0",
+        "number": "1",
+        "text": "Select all the correct statements regarding the Orbital Injury:",
+        "options": [
+          "Periorbital emphysema.",
+          "Limitation of eye movements.",
+          "Exophthalmos in the longer term.",
+          "A patch of anaesthesia below the orbital rim.",
+          "Hyphaema."
+        ],
+        "originalOptions": [
+          "Periorbital emphysema.",
+          "Limitation of eye movements.",
+          "Exophthalmos in the longer term.",
+          "A patch of anaesthesia below the orbital rim.",
+          "Hyphaema."
+        ],
+        "correctAnswer": "A) Periorbital emphysema. / B) Limitation of eye movements. / D) A patch of anaesthesia below the orbital rim. / E) Hyphaema.",
+        "correctAnswerText": "A) Periorbital emphysema. / B) Limitation of eye movements. / D) A patch of anaesthesia below the orbital rim. / E) Hyphaema.",
+        "correctIndex": -1,
+        "correctIndices": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "isMultiple": true,
+        "correctAnswerLetter": "",
+        "explanation": "A) True. The skin appears to crackle when touch due to the presence of air within it. B) True. There may be swelling of the orbital contents, or the muscle or orbital tissue may become tethered in the orbital fracture. C) False. The eye is usually recessed into the orbit (enophthalmos). D) True. This occurs with an orbital blow-out affecting the floor of the orbit, which damages the infraorbital nerve. E) True. It is always important to look at the eye closely in patients with an orbital fracture.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Ocular Trauma & Chemical Burns - Book questions",
+        "groupName": "Ocular Trauma & Chemical Burns - Book questions",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__ocular-trauma-chemical-burns-book-questions__2__b54uiz",
+        "number": "2",
+        "text": "Select all the correct statements regarding the Subconjunctival Haemorrhage:",
+        "options": [
+          "Is never associated with serious eye disease.",
+          "May cause blood to pass into the cornea.",
+          "Is usually associated with a reduced vision.",
+          "May be associated with some discomfort of the eye.",
+          "Usually settles in a couple of weeks."
+        ],
+        "originalOptions": [
+          "Is never associated with serious eye disease.",
+          "May cause blood to pass into the cornea.",
+          "Is usually associated with a reduced vision.",
+          "May be associated with some discomfort of the eye.",
+          "Usually settles in a couple of weeks."
+        ],
+        "correctAnswer": "D) May be associated with some discomfort of the eye. / E) Usually settles in a couple of weeks.",
+        "correctAnswerText": "D) May be associated with some discomfort of the eye. / E) Usually settles in a couple of weeks.",
+        "correctIndex": -1,
+        "correctIndices": [
+          3,
+          4
+        ],
+        "isMultiple": true,
+        "correctAnswerLetter": "",
+        "explanation": "A) False. In traumatic disease it may overlie a penetrating wound. B) False. The conjunctiva is inserted at the limbus, blood cannot pass into the cornea. C) False. If vision is reduced, another cause must be found. D) True. It may cause slight elevation of the conjunctiva. E) True. It settles spontaneously, treatment is usually not required.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Ocular Trauma & Chemical Burns - Book questions",
+        "groupName": "Ocular Trauma & Chemical Burns - Book questions",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__ocular-trauma-chemical-burns-book-questions__3__zjfco",
+        "number": "3",
+        "text": "Select all the correct statements regarding the Chemical Eye Injuries:",
+        "options": [
+          "Acids cause more severe damage than alkalis.",
+          "Initial treatment requires copious irrigation of the eye with litres of water.",
+          "May be associated with a melt of the cornea.",
+          "A white eye is a sign that the eye has not been severely affected.",
+          "May be treated with oral and topical vitamin C and tetracyclines."
+        ],
+        "originalOptions": [
+          "Acids cause more severe damage than alkalis.",
+          "Initial treatment requires copious irrigation of the eye with litres of water.",
+          "May be associated with a melt of the cornea.",
+          "A white eye is a sign that the eye has not been severely affected.",
+          "May be treated with oral and topical vitamin C and tetracyclines."
+        ],
+        "correctAnswer": "B) Initial treatment requires copious irrigation of the eye with litres of water. / C) May be associated with a melt of the cornea. / E) May be treated with oral and topical vitamin C and tetracyclines.",
+        "correctAnswerText": "B) Initial treatment requires copious irrigation of the eye with litres of water. / C) May be associated with a melt of the cornea. / E) May be treated with oral and topical vitamin C and tetracyclines.",
+        "correctIndex": -1,
+        "correctIndices": [
+          1,
+          2,
+          4
+        ],
+        "isMultiple": true,
+        "correctAnswerLetter": "",
+        "explanation": "A) False. Alkalis diffuse more rapidly and so cause the worst injuries. B) True. The area under the eyelids must also be inspected and irrigated. C) True. Keratolysis is particularly seen with alkali injuries. D) False. This may indicate a severe ischaemic injury by an alkali. E) True. Vitamin C may improve healing, tetracyclines function as anticollagenases.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Ocular Trauma & Chemical Burns - Book questions",
+        "groupName": "Ocular Trauma & Chemical Burns - Book questions",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__ocular-trauma-chemical-burns-book-questions__4__qsgtp5",
+        "number": "4",
+        "text": "Select all the correct statements regarding the Hyphaema:",
+        "options": [
+          "Is a fluid collection of white cells in the anterior chamber.",
+          "May be associated with a low intraocular pressure.",
+          "Is treated with restriction of activity.",
+          "If it recurs within a short time, it may result in more severe problems.",
+          "Is treated with steroid drops."
+        ],
+        "originalOptions": [
+          "Is a fluid collection of white cells in the anterior chamber.",
+          "May be associated with a low intraocular pressure.",
+          "Is treated with restriction of activity.",
+          "If it recurs within a short time, it may result in more severe problems.",
+          "Is treated with steroid drops."
+        ],
+        "correctAnswer": "C) Is treated with restriction of activity. / D) If it recurs within a short time, it may result in more severe problems. / E) Is treated with steroid drops.",
+        "correctAnswerText": "C) Is treated with restriction of activity. / D) If it recurs within a short time, it may result in more severe problems. / E) Is treated with steroid drops.",
+        "correctIndex": -1,
+        "correctIndices": [
+          2,
+          3,
+          4
+        ],
+        "isMultiple": true,
+        "correctAnswerLetter": "",
+        "explanation": "A) False. This is a hypopyon. A hyphaema is a collection of red cells. B) False. It may be associated with a raised intraocular pressure, due to an obstruction of the trabecular meshwork. C) True. This may help to prevent a further bleed. D) True. A rebleed may result in more significant complications, for example high intraocular pressure. E) True. These will help to reduce any associated inflammation and reduce the incidence of rebleeds.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Ocular Trauma & Chemical Burns - Book questions",
+        "groupName": "Ocular Trauma & Chemical Burns - Book questions",
+        "sourceType": "lecture"
+      },
+      {
         "id": "ophthalmology__lecture__ocular-trauma-chemical-burns__1__7tkmct",
         "number": "1",
         "text": "A 24-year-old man presents after blunt trauma to his right eye. He complains of vertical diplopia, especially on looking up. CT scan shows a right orbital floor fracture with entrapment of the inferior rectus muscle. Which of the following statements is FALSE?",
@@ -3617,8 +3922,8 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 54,
-    "totalLectures": 4,
+    "totalQuestions": 58,
+    "totalLectures": 5,
     "hasAiFolder": true
   }
 ]
