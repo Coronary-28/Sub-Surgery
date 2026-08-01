@@ -699,39 +699,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "ophthalmology__lecture__anatomy-of-the-eye__12__jjtnet",
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__12__jrjt3c",
             "number": "12",
-            "text": "Aqueous humour is formed by:",
-            "options": [
-              "Epithelium of ciliary body",
-              "Posterior surface of iris",
-              "Lens",
-              "Pars plana"
-            ],
-            "originalOptions": [
-              "Epithelium of ciliary body",
-              "Posterior surface of iris",
-              "Lens",
-              "Pars plana"
-            ],
-            "correctAnswer": "A) Epithelium of ciliary body",
-            "correctAnswerText": "Epithelium of ciliary body",
-            "correctIndex": 0,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "A",
-            "explanation": "Aqueous humour is secreted by the non-pigmented ciliary epithelium via both active secretion and ultrafiltration.",
-            "batchName": "",
-            "pageNumber": "",
-            "subjectName": "Ophthalmology",
-            "subjectId": "ophthalmology",
-            "lectureName": "Anatomy of the Eye",
-            "groupName": "Anatomy of the Eye",
-            "sourceType": "lecture"
-          },
-          {
-            "id": "ophthalmology__lecture__anatomy-of-the-eye__13__jrjt3c",
-            "number": "13",
             "text": "Aqueous humor is secreted by:",
             "options": [
               "Circulus iridis minor",
@@ -761,8 +730,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "ophthalmology__lecture__anatomy-of-the-eye__14__8go7y9",
-            "number": "14",
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__13__8go7y9",
+            "number": "13",
             "text": "Corneal ulceration/anaesthesia is caused by injury to the ___ cranial nerve:",
             "options": [
               "Third",
@@ -792,8 +761,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "ophthalmology__lecture__anatomy-of-the-eye__15__tariax",
-            "number": "15",
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__14__tariax",
+            "number": "14",
             "text": "Number of layers in the neurosensory retina is:",
             "options": [
               "9",
@@ -823,8 +792,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "ophthalmology__lecture__anatomy-of-the-eye__16__j442ux",
-            "number": "16",
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__15__j442ux",
+            "number": "15",
             "text": "During accommodation for near vision, which of the following changes occurs?",
             "options": [
               "The ciliary muscle relaxes and the lens flattens",
@@ -856,8 +825,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "ophthalmology__lecture__anatomy-of-the-eye__17__mzewz3",
-            "number": "17",
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__16__mzewz3",
+            "number": "16",
             "text": "Which ocular structure has no photoreceptors ?",
             "options": [
               "Fovea centralis",
@@ -889,8 +858,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "ophthalmology__lecture__anatomy-of-the-eye__18__ukspfi",
-            "number": "18",
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__17__ukspfi",
+            "number": "17",
             "text": "All of the following are parts of the uvea EXCEPT:",
             "options": [
               "Iris",
@@ -922,8 +891,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "ophthalmology__lecture__anatomy-of-the-eye__19__sjhsuy",
-            "number": "19",
+            "id": "ophthalmology__lecture__anatomy-of-the-eye__18__sjhsuy",
+            "number": "18",
             "text": "Improvement of vision with a pinhole test suggests which underlying cause of reduced visual acuity?",
             "options": [
               "A refractive error",
@@ -3012,39 +2981,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "ophthalmology__lecture__anatomy-of-the-eye__12__jjtnet",
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__12__jrjt3c",
         "number": "12",
-        "text": "Aqueous humour is formed by:",
-        "options": [
-          "Epithelium of ciliary body",
-          "Posterior surface of iris",
-          "Lens",
-          "Pars plana"
-        ],
-        "originalOptions": [
-          "Epithelium of ciliary body",
-          "Posterior surface of iris",
-          "Lens",
-          "Pars plana"
-        ],
-        "correctAnswer": "A) Epithelium of ciliary body",
-        "correctAnswerText": "Epithelium of ciliary body",
-        "correctIndex": 0,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "A",
-        "explanation": "Aqueous humour is secreted by the non-pigmented ciliary epithelium via both active secretion and ultrafiltration.",
-        "batchName": "",
-        "pageNumber": "",
-        "subjectName": "Ophthalmology",
-        "subjectId": "ophthalmology",
-        "lectureName": "Anatomy of the Eye",
-        "groupName": "Anatomy of the Eye",
-        "sourceType": "lecture"
-      },
-      {
-        "id": "ophthalmology__lecture__anatomy-of-the-eye__13__jrjt3c",
-        "number": "13",
         "text": "Aqueous humor is secreted by:",
         "options": [
           "Circulus iridis minor",
@@ -3074,8 +3012,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "ophthalmology__lecture__anatomy-of-the-eye__14__8go7y9",
-        "number": "14",
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__13__8go7y9",
+        "number": "13",
         "text": "Corneal ulceration/anaesthesia is caused by injury to the ___ cranial nerve:",
         "options": [
           "Third",
@@ -3105,8 +3043,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "ophthalmology__lecture__anatomy-of-the-eye__15__tariax",
-        "number": "15",
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__14__tariax",
+        "number": "14",
         "text": "Number of layers in the neurosensory retina is:",
         "options": [
           "9",
@@ -3136,8 +3074,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "ophthalmology__lecture__anatomy-of-the-eye__16__j442ux",
-        "number": "16",
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__15__j442ux",
+        "number": "15",
         "text": "During accommodation for near vision, which of the following changes occurs?",
         "options": [
           "The ciliary muscle relaxes and the lens flattens",
@@ -3169,8 +3107,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "ophthalmology__lecture__anatomy-of-the-eye__17__mzewz3",
-        "number": "17",
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__16__mzewz3",
+        "number": "16",
         "text": "Which ocular structure has no photoreceptors ?",
         "options": [
           "Fovea centralis",
@@ -3202,8 +3140,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "ophthalmology__lecture__anatomy-of-the-eye__18__ukspfi",
-        "number": "18",
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__17__ukspfi",
+        "number": "17",
         "text": "All of the following are parts of the uvea EXCEPT:",
         "options": [
           "Iris",
@@ -3235,8 +3173,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "ophthalmology__lecture__anatomy-of-the-eye__19__sjhsuy",
-        "number": "19",
+        "id": "ophthalmology__lecture__anatomy-of-the-eye__18__sjhsuy",
+        "number": "18",
         "text": "Improvement of vision with a pinhole test suggests which underlying cause of reduced visual acuity?",
         "options": [
           "A refractive error",
@@ -4612,7 +4550,7 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 69,
+    "totalQuestions": 68,
     "totalLectures": 5,
     "hasAiFolder": true
   }
