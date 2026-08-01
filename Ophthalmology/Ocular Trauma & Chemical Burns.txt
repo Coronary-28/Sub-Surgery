@@ -135,3 +135,95 @@ D) Hypopyon
 Correct Answer: B) Iris prolapse and pupil distortion
 Explanation: Visible uveal tissue (iris/ciliary body) prolapsing through the wound, with resulting pupil distortion, is a hallmark open-globe red flag requiring immediate shield and urgent surgical referral.
 ###
+Hyphema is blood in the:
+A) Anterior chamber
+B) Posterior chamber
+C) Cornea
+D) Conjunctiva
+Correct Answer: A) Anterior chamber
+Explanation: Hyphema refers to blood accumulation in the anterior chamber of the eye, usually resulting from severe trauma that tears iris or ciliary body vessels.
+###
+Most important complication of traumatic hyphema is:
+A) Iridocyclitis
+B) Iridodialysis
+C) Blood staining of cornea
+D) Siderosis bulbi
+Correct Answer: C) Blood staining of cornea
+Explanation: If intraocular pressure rises while blood remains in the anterior chamber for a prolonged period, hemoglobin deposits within the corneal tissue (blood staining), causing permanent opacification that may later require corneal transplantation.
+###
+Which of the following is not seen in blunt trauma to the eye?
+A) Hyphema
+B) Iridodialysis
+C) Retinal haemorrhage
+D) Double perforation
+Correct Answer: D) Double perforation
+Explanation: Blunt trauma causes closed injuries (contusions, internal tears), not double perforation, which is characteristic of penetrating injuries.
+###
+Blow-out fracture of orbit commonly produces:
+A) Deviation of septum
+B) Retinal haemorrhage
+C) Fracture of nasal bones
+D) Fracture of floor of orbit
+Correct Answer: D) Fracture of floor of orbit
+Explanation: An orbital blow-out fracture occurs when blunt force increases intraorbital pressure, causing the thinnest walls of the orbit to break while the rim remains intact. The orbital floor is the most common site for this fracture, often leading to the herniation or entrapment of orbital contents into the maxillary sinus.
+###
+The sure sign of scleral rupture is:
+A) Shallow anterior chamber
+B) Decreased visual acuity
+C) Prolapsed intraocular contents
+D) Hypotony
+E) Hyphema
+Correct Answer: C) Prolapsed intraocular contents
+Explanation: Visible prolapse of intraocular contents (such as uveal tissue or vitreous) through the site of rupture is the definitive, conclusive sign of scleral rupture, while the other signs are supportive but not conclusive on their own.
+###
+A patient received a tennis ball hit to his eye which used to have 6/6 vision. External eye 
+examination showed no abnormalities, vision is HM, and red reflex is normal. Possible diagnosis 
+is:
+A) Commotio retinae
+B) Traumatic cataract
+C) Vitreous hemorrhage
+D) Secondary glaucoma
+Correct Answer: A) Commotio retinae
+Explanation: Severe blunt trauma from a large spherical object (a tennis ball) causes retinal concussion (Berlin's edema) despite an externally normal anterior segment and a normal red reflex (since the vitreous and lens are intact), explaining the acute drop in vision.
+###
+Vossius ring, seen after blunt ocular trauma, refers to a ring of iris pigment deposited on which structure?
+A) Cornea
+B) Retina
+C) Anterior lens capsule
+D) Anterior chamber angle
+E) Posterior lens capsule
+Correct Answer: C) Anterior lens capsule
+Explanation: A Vossius ring is a circular imprint of iris pigment on the anterior lens capsule, caused by the pupil margin striking the lens during acute blunt trauma. It is a useful sign confirming previous significant blunt ocular injury.
+###
+Adhesion of iris margin anteriorly is known as:
+A) Intercalary staphyloma
+B) Anterior synechia
+C) Posterior staphyloma
+D) Iris bombe
+Correct Answer: B) Anterior synechia
+Explanation: Adhesion of the iris margin to the cornea (or the anterior chamber angle) is called anterior synechia, and often occurs after trauma, chronic inflammation, or surgery.
+###
+Dense scar of cornea with incarceration of iris is known as:
+A) Iris bombe
+B) Dense leucoma
+C) Ciliary staphyloma
+D) Leucoma adherent
+Correct Answer: D) Leucoma adherent
+Explanation: When iris tissue becomes incorporated into a dense corneal scar (usually after corneal perforation), the condition is called "adherent leucoma (Leucoma adherent)" to distinguish it from simple dense leucoma not attached to the iris.
+###
+The first line of treatment in acid burns of the eye is:
+A) Patching the eye
+B) Instilling a drop of oil in the eye
+C) Immediate wash with plain water
+D) Instilling a drop of surface anesthetic into the eye
+Correct Answer: C) Immediate wash with plain water
+Explanation: In any chemical burn (acid or alkali), the absolute top priority is immediate, copious irrigation with water or saline to dilute and remove the caustic substance before any other procedure, because every minute of delay increases the depth of injury.
+###
+An 8-year-old girl received a tennis ball trauma to her right eye. On examination on the 
+same day you would find:
+A) Blood staining of the cornea
+B) Hyphaema
+C) Hypopyon
+D) Ghost cell glaucoma
+Correct Answer: B) Hyphaema
+Explanation: Bleeding into the anterior chamber (hyphema) is the direct, early sign expected on the same day as an acute blunt trauma, while corneal blood staining is a delayed complication that only occurs if elevated pressure with blood persists for a prolonged period.
