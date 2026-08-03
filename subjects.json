@@ -1951,6 +1951,536 @@
             "sourceType": "lecture"
           }
         ]
+      },
+      {
+        "id": "ophthalmology__lecture__uveitis",
+        "name": "Uveitis",
+        "type": "lecture",
+        "subjectName": "Ophthalmology",
+        "path": "Ophthalmology/Uveitis.txt",
+        "questions": [
+          {
+            "id": "ophthalmology__lecture__uveitis__1__q555kh",
+            "number": "1",
+            "text": "A patient with a history of sarcoidosis presents with redness and photophobia in his right eye for the past 3 weeks. He was initially treated with topical Gentamicin, but his symptoms did not improve. What is the most likely diagnosis?",
+            "options": [
+              "Bacterial conjunctivitis",
+              "Toxic keratoconjunctivitis after Gentamicin use",
+              "Viral conjunctivitis",
+              "Anterior uveitis"
+            ],
+            "originalOptions": [
+              "Bacterial conjunctivitis",
+              "Toxic keratoconjunctivitis after Gentamicin use",
+              "Viral conjunctivitis",
+              "Anterior uveitis"
+            ],
+            "correctAnswer": "D) Anterior uveitis",
+            "correctAnswerText": "Anterior uveitis",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Sarcoidosis causes granulomatous uveitis, which does not respond to an antibiotic like gentamicin since it is not a bacterial infection. Persistent redness/photophobia despite antibiotic treatment in a sarcoidosis patient points strongly to uveitis.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Uveitis",
+            "groupName": "Uveitis",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__uveitis__2__u0k9z9",
+            "number": "2",
+            "text": "In a cataract post-operative clinic, a 62-year-old gentleman complains that since the operation he sees floaters and flashing lights, and yesterday a \"curtain descended over part of his vision.\" He worries the cataract operation failed. What should he be told?",
+            "options": [
+              "Reassure him that this is normal following cataract surgery, and vision can take weeks to improve",
+              "Reassure him that he does not require surgery; he will require a course of steroids",
+              "Reassure him that a short course of topical antibiotics should be sufficient",
+              "It is likely he will require further surgery, needing a new intraocular lens as the previous implant failed",
+              "It is likely he will require further surgery; however, it will not be the same operation he has had before"
+            ],
+            "originalOptions": [
+              "Reassure him that this is normal following cataract surgery, and vision can take weeks to improve",
+              "Reassure him that he does not require surgery; he will require a course of steroids",
+              "Reassure him that a short course of topical antibiotics should be sufficient",
+              "It is likely he will require further surgery, needing a new intraocular lens as the previous implant failed",
+              "It is likely he will require further surgery; however, it will not be the same operation he has had before"
+            ],
+            "correctAnswer": "E) It is likely he will require further surgery; however, it will not be the same operation he has had before",
+            "correctAnswerText": "It is likely he will require further surgery; however, it will not be the same operation he has had before",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "Floaters, flashes, and a curtain/shadow are the classic triad of retinal detachment (a known complication after cataract surgery, related to PVD), not a normal post-operative finding. This requires urgent retinal detachment surgery — a different operation from the original phacoemulsification.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Uveitis",
+            "groupName": "Uveitis",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__uveitis__3__b3ymt4",
+            "number": "3",
+            "text": "Which of the following conditions is associated with uveitis?",
+            "options": [
+              "Acne and seborrhoeic dermatitis",
+              "Reiter's syndrome and juvenile chronic arthritis",
+              "Diabetes insipidus",
+              "Pancoast tumour of the lung",
+              "Giant cell arteritis"
+            ],
+            "originalOptions": [
+              "Acne and seborrhoeic dermatitis",
+              "Reiter's syndrome and juvenile chronic arthritis",
+              "Diabetes insipidus",
+              "Pancoast tumour of the lung",
+              "Giant cell arteritis"
+            ],
+            "correctAnswer": "B) Reiter's syndrome and juvenile chronic arthritis",
+            "correctAnswerText": "Reiter's syndrome and juvenile chronic arthritis",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Reactive arthritis (Reiter's syndrome) is an HLA-B27-associated cause of acute anterior uveitis, and juvenile idiopathic arthritis classically causes chronic, silent anterior uveitis in children. Pancoast tumour is associated with Horner syndrome, not uveitis.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Uveitis",
+            "groupName": "Uveitis",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__uveitis__4__he3nb7",
+            "number": "4",
+            "text": "Regarding the ciliary body, which of the following statements is FALSE?",
+            "options": [
+              "It is continuous with the iris anteriorly and the choroid posteriorly",
+              "The ciliary body is composed entirely of the pars plana",
+              "The ciliary epithelium produces aqueous humour",
+              "The ciliary muscle mediates accommodation"
+            ],
+            "originalOptions": [
+              "It is continuous with the iris anteriorly and the choroid posteriorly",
+              "The ciliary body is composed entirely of the pars plana",
+              "The ciliary epithelium produces aqueous humour",
+              "The ciliary muscle mediates accommodation"
+            ],
+            "correctAnswer": "B) The ciliary body is composed entirely of the pars plana",
+            "correctAnswerText": "The ciliary body is composed entirely of the pars plana",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The ciliary body consists of both the pars plicata (aqueous-producing processes) and the pars plana, not the pars plana alone — describing it as composed entirely of the pars plana is false. A, C, and D are accurate descriptions of ciliary body anatomy and function.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Uveitis",
+            "groupName": "Uveitis",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__uveitis__5__1pi7k1",
+            "number": "5",
+            "text": "Which of the following medications is NOT indicated in the treatment of anterior uveitis?",
+            "options": [
+              "Topical corticosteroids",
+              "Cyclopentolate",
+              "Atropine",
+              "Pilocarpine"
+            ],
+            "originalOptions": [
+              "Topical corticosteroids",
+              "Cyclopentolate",
+              "Atropine",
+              "Pilocarpine"
+            ],
+            "correctAnswer": "D) Pilocarpine",
+            "correctAnswerText": "Pilocarpine",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Pilocarpine constricts the pupil, which promotes posterior synechiae formation in an already inflamed eye — cycloplegics (cyclopentolate, atropine) are used instead to keep the pupil moving and prevent synechiae.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Uveitis",
+            "groupName": "Uveitis",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__uveitis__6__t2o571",
+            "number": "6",
+            "text": "All of the following are recognised complications of anterior uveitis EXCEPT:",
+            "options": [
+              "Cataract",
+              "Glaucoma",
+              "Retinal detachment",
+              "Iris atrophy"
+            ],
+            "originalOptions": [
+              "Cataract",
+              "Glaucoma",
+              "Retinal detachment",
+              "Iris atrophy"
+            ],
+            "correctAnswer": "C) Retinal detachment",
+            "correctAnswerText": "Retinal detachment",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Cataract, secondary glaucoma (from synechiae/trabecular blockage), and iris atrophy (as in Fuchs' heterochromic uveitis) are recognised complications of anterior uveitis. Retinal detachment is not a typical direct complication of anterior chamber inflammation.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Uveitis",
+            "groupName": "Uveitis",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__uveitis__7__yzfemp",
+            "number": "7",
+            "text": "Which of the following organisms/causes is classically associated with both keratitis and uveitis in the same patient?",
+            "options": [
+              "Neisseria gonorrhoeae",
+              "Herpes simplex virus (HSV)",
+              "Staphylococcus aureus",
+              "Adenovirus"
+            ],
+            "originalOptions": [
+              "Neisseria gonorrhoeae",
+              "Herpes simplex virus (HSV)",
+              "Staphylococcus aureus",
+              "Adenovirus"
+            ],
+            "correctAnswer": "B) Herpes simplex virus (HSV)",
+            "correctAnswerText": "Herpes simplex virus (HSV)",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "HSV can cause both dendritic keratitis and an associated anterior uveitis/iridocyclitis as part of the same recurrent infection, reflecting shared viral involvement of the anterior segment.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Uveitis",
+            "groupName": "Uveitis",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__uveitis__8__f6fqhm",
+            "number": "8",
+            "text": "Which of the following is one of the earliest features of anterior uveitis on slit-lamp examination?",
+            "options": [
+              "Keratic precipitates",
+              "Hypopyon",
+              "Posterior synechiae",
+              "Aqueous flare"
+            ],
+            "originalOptions": [
+              "Keratic precipitates",
+              "Hypopyon",
+              "Posterior synechiae",
+              "Aqueous flare"
+            ],
+            "correctAnswer": "D) Aqueous flare",
+            "correctAnswerText": "Aqueous flare",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Cells and flare in the anterior chamber are the direct, earliest sign of active inflammation, appearing before keratic precipitates, synechiae, or hypopyon develop with more established or severe disease.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Uveitis",
+            "groupName": "Uveitis",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__uveitis__9__urj4al",
+            "number": "9",
+            "text": "Which of the following does NOT occur in uveitis?",
+            "options": [
+              "Hyphema",
+              "Hypopyon",
+              "Posterior synechiae, where the iris may adhere to the lens and bind down the pupil",
+              "Anterior synechiae, where the iris may adhere to the trabecular meshwork or cornea, occluding the drainage angle",
+              "Elevated intraocular pressure"
+            ],
+            "originalOptions": [
+              "Hyphema",
+              "Hypopyon",
+              "Posterior synechiae, where the iris may adhere to the lens and bind down the pupil",
+              "Anterior synechiae, where the iris may adhere to the trabecular meshwork or cornea, occluding the drainage angle",
+              "Elevated intraocular pressure"
+            ],
+            "correctAnswer": "A) Hyphema",
+            "correctAnswerText": "Hyphema",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Hyphema is blood in the anterior chamber, classically from trauma, not a feature of uveitis. Hypopyon (white cells), synechiae, and raised IOP (from synechiae/inflammatory debris blocking outflow) are all recognised uveitis findings.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Uveitis",
+            "groupName": "Uveitis",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__uveitis__10__xcknmp",
+            "number": "10",
+            "text": "A 23-year-old Caucasian man with acutely painful red eye, photophobia, and morning-stiffness lower back pain. Which of the following statements is FALSE? [img: caucasianmananterioruveitis.png ]",
+            "options": [
+              "The diagnosis is acute anterior uveitis associated with ankylosing spondylitis",
+              "Keratic precipitates and hypopyon are expected findings",
+              "The differential diagnosis includes intermediate uveitis",
+              "Treatment includes topical corticosteroids and cycloplegics"
+            ],
+            "originalOptions": [
+              "The diagnosis is acute anterior uveitis associated with ankylosing spondylitis",
+              "Keratic precipitates and hypopyon are expected findings",
+              "The differential diagnosis includes intermediate uveitis",
+              "Treatment includes topical corticosteroids and cycloplegics"
+            ],
+            "correctAnswer": "C) The differential diagnosis includes intermediate uveitis",
+            "correctAnswerText": "The differential diagnosis includes intermediate uveitis",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "This presentation — acute pain, photophobia, and a red eye — is classic for anterior uveitis, not intermediate uveitis, which typically presents with painless floaters and vitritis rather than an acutely painful red eye.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Uveitis",
+            "groupName": "Uveitis",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__uveitis__11__o06pfk",
+            "number": "11",
+            "text": "A 64-year-old man presents with a yellowish retinal lesion and necrosis. The likely diagnosis is:",
+            "options": [
+              "Cytomegalovirus retinitis",
+              "Age-related macular degeneration",
+              "Retinal detachment",
+              "Central serous retinopathy"
+            ],
+            "originalOptions": [
+              "Cytomegalovirus retinitis",
+              "Age-related macular degeneration",
+              "Retinal detachment",
+              "Central serous retinopathy"
+            ],
+            "correctAnswer": "A) Cytomegalovirus retinitis",
+            "correctAnswerText": "Cytomegalovirus retinitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "CMV retinitis presents as a necrotising retinitis with haemorrhage (classically described as a \"pizza-pie\" fundus), typically in significantly immunosuppressed patients, and needs systemic antiviral treatment.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Uveitis",
+            "groupName": "Uveitis",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__uveitis__12__nwexj1",
+            "number": "12",
+            "text": "A 56-year-old lady with known sarcoidosis on systemic prednisolone presents with photophobia, redness, and blurred vision, with no previous eye history. What is the most likely diagnosis?",
+            "options": [
+              "Uveitis",
+              "Episcleritis",
+              "Bacterial conjunctivitis",
+              "Corneal abrasion"
+            ],
+            "originalOptions": [
+              "Uveitis",
+              "Episcleritis",
+              "Bacterial conjunctivitis",
+              "Corneal abrasion"
+            ],
+            "correctAnswer": "A) Uveitis",
+            "correctAnswerText": "Uveitis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Sarcoidosis is a classic cause of granulomatous uveitis, and the triad of photophobia, redness, and blurred vision fits anterior uveitis rather than the milder discomfort of episcleritis, the external picture of bacterial conjunctivitis, or a traumatic corneal abrasion.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Uveitis",
+            "groupName": "Uveitis",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__uveitis__13__89gpxi",
+            "number": "13",
+            "text": "In anterior uveitis, the pupil is generally:",
+            "options": [
+              "Constricted and irregular",
+              "Dilated",
+              "Normal in size",
+              "Fixed and mid-dilated"
+            ],
+            "originalOptions": [
+              "Constricted and irregular",
+              "Dilated",
+              "Normal in size",
+              "Fixed and mid-dilated"
+            ],
+            "correctAnswer": "A) Constricted and irregular",
+            "correctAnswerText": "Constricted and irregular",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Inflammation causes miosis, and posterior synechiae (iris adhering to the anterior lens capsule) produce an irregular, poorly dilating pupil — a hallmark finding in anterior uveitis, distinct from the fixed, mid-dilated pupil of acute angle-closure glaucoma.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Uveitis",
+            "groupName": "Uveitis",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__uveitis__14__g0r2nb",
+            "number": "14",
+            "text": "A case of anterior uveitis is shown, with ciliary (limbal) injection and keratic precipitates visible on the corneal endothelium. This presentation is most consistent with an underlying joint disease. The full findings, differential diagnoses, and treatment for this case will be provided in the explanation. [img: anterioruveitis3images.png ]",
+            "options": [
+              "Choose me",
+              "Choose A"
+            ],
+            "originalOptions": [
+              "Choose me",
+              "Choose A"
+            ],
+            "correctAnswer": "A) Choose me",
+            "correctAnswerText": "Choose me",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Findings — ciliary (limbal) injection and keratic precipitates on the corneal endothelium. Differential diagnoses — ankylosing spondylitis, juvenile chronic arthritis, reactive arthritis (Reiter's disease). Treatment — topical corticosteroids plus mydriatics/cycloplegics (e.g., cyclopentolate or atropine drops).",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Uveitis",
+            "groupName": "Uveitis",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__uveitis__15__7zpn35",
+            "number": "15",
+            "text": "A 23-year-old Caucasian man presents with an acutely painful, red right eye and marked photophobia. History reveals lower back pain for several months, with morning stiffness. The diagnosis, key findings, and treatment for this case will be provided in the explanation. [img: caucasianmananterioruveitis.png ]",
+            "options": [
+              "Choose me",
+              "Choose A"
+            ],
+            "originalOptions": [
+              "Choose me",
+              "Choose A"
+            ],
+            "correctAnswer": "A) Choose me",
+            "correctAnswerText": "Choose me",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Diagnosis — acute anterior uveitis associated with ankylosing spondylitis (HLA-B27-related). Key findings — keratic precipitates on the corneal endothelium and hypopyon (a pus layer in the anterior chamber). Treatment — topical corticosteroids and cycloplegics/mydriatics.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Uveitis",
+            "groupName": "Uveitis",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__uveitis__16__ki0e4l",
+            "number": "16",
+            "text": "A 23-year-old man with backache and oral ulcers is referred with right eye pain and photophobia, and a history of previous mild blurred vision episodes. The pathological findings, differential diagnoses, and treatment for this case will be provided in the explanation. [img: hypopyon23keraticprecipitates.png ]",
+            "options": [
+              "Choose me",
+              "Choose A"
+            ],
+            "originalOptions": [
+              "Choose me",
+              "Choose A"
+            ],
+            "correctAnswer": "A) Choose me",
+            "correctAnswerText": "Choose me",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Findings — hypopyon (accumulation of white cells in the anterior chamber inferiorly) and keratic precipitates on the corneal endothelium, indicating acute anterior uveitis (iridocyclitis). Differential diagnoses — Behçet's disease (most likely, given oral ulcers and young age), ankylosing spondylitis (associated with backache and HLA-B27), inflammatory bowel disease-associated uveitis / reactive arthritis / sarcoidosis. Treatments — topical or systemic corticosteroids, and topical cycloplegics/mydriatics (e.g., atropine).",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Uveitis",
+            "groupName": "Uveitis",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "ophthalmology__lecture__uveitis__17__s5dcot",
+            "number": "17",
+            "text": "A 34-year-old man presents with a painful red eye and photophobia. Slit-lamp examination shows keratic precipitates on the corneal endothelium and posterior synechiae, with the iris adherent to the anterior lens capsule producing an irregular pupil. Which of the following statements about this presentation is FALSE?",
+            "options": [
+              "Keratic precipitates are deposits of inflammatory cells on the corneal endothelium",
+              "Posterior synechiae is adhesion of the iris to the anterior lens capsule",
+              "This presentation is consistent with intermediate uveitis",
+              "Cycloplegics help prevent further synechiae formation"
+            ],
+            "originalOptions": [
+              "Keratic precipitates are deposits of inflammatory cells on the corneal endothelium",
+              "Posterior synechiae is adhesion of the iris to the anterior lens capsule",
+              "This presentation is consistent with intermediate uveitis",
+              "Cycloplegics help prevent further synechiae formation"
+            ],
+            "correctAnswer": "C) This presentation is consistent with intermediate uveitis",
+            "correctAnswerText": "This presentation is consistent with intermediate uveitis",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Keratic precipitates and posterior synechiae are findings of anterior uveitis, not intermediate uveitis, which instead presents with vitritis and floaters without these anterior segment signs.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Ophthalmology",
+            "subjectId": "ophthalmology",
+            "lectureName": "Uveitis",
+            "groupName": "Uveitis",
+            "sourceType": "lecture"
+          }
+        ]
       }
     ],
     "ai": [
@@ -4215,6 +4745,527 @@
         "sourceType": "lecture"
       },
       {
+        "id": "ophthalmology__lecture__uveitis__1__q555kh",
+        "number": "1",
+        "text": "A patient with a history of sarcoidosis presents with redness and photophobia in his right eye for the past 3 weeks. He was initially treated with topical Gentamicin, but his symptoms did not improve. What is the most likely diagnosis?",
+        "options": [
+          "Bacterial conjunctivitis",
+          "Toxic keratoconjunctivitis after Gentamicin use",
+          "Viral conjunctivitis",
+          "Anterior uveitis"
+        ],
+        "originalOptions": [
+          "Bacterial conjunctivitis",
+          "Toxic keratoconjunctivitis after Gentamicin use",
+          "Viral conjunctivitis",
+          "Anterior uveitis"
+        ],
+        "correctAnswer": "D) Anterior uveitis",
+        "correctAnswerText": "Anterior uveitis",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Sarcoidosis causes granulomatous uveitis, which does not respond to an antibiotic like gentamicin since it is not a bacterial infection. Persistent redness/photophobia despite antibiotic treatment in a sarcoidosis patient points strongly to uveitis.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Uveitis",
+        "groupName": "Uveitis",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__uveitis__2__u0k9z9",
+        "number": "2",
+        "text": "In a cataract post-operative clinic, a 62-year-old gentleman complains that since the operation he sees floaters and flashing lights, and yesterday a \"curtain descended over part of his vision.\" He worries the cataract operation failed. What should he be told?",
+        "options": [
+          "Reassure him that this is normal following cataract surgery, and vision can take weeks to improve",
+          "Reassure him that he does not require surgery; he will require a course of steroids",
+          "Reassure him that a short course of topical antibiotics should be sufficient",
+          "It is likely he will require further surgery, needing a new intraocular lens as the previous implant failed",
+          "It is likely he will require further surgery; however, it will not be the same operation he has had before"
+        ],
+        "originalOptions": [
+          "Reassure him that this is normal following cataract surgery, and vision can take weeks to improve",
+          "Reassure him that he does not require surgery; he will require a course of steroids",
+          "Reassure him that a short course of topical antibiotics should be sufficient",
+          "It is likely he will require further surgery, needing a new intraocular lens as the previous implant failed",
+          "It is likely he will require further surgery; however, it will not be the same operation he has had before"
+        ],
+        "correctAnswer": "E) It is likely he will require further surgery; however, it will not be the same operation he has had before",
+        "correctAnswerText": "It is likely he will require further surgery; however, it will not be the same operation he has had before",
+        "correctIndex": 4,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "E",
+        "explanation": "Floaters, flashes, and a curtain/shadow are the classic triad of retinal detachment (a known complication after cataract surgery, related to PVD), not a normal post-operative finding. This requires urgent retinal detachment surgery — a different operation from the original phacoemulsification.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Uveitis",
+        "groupName": "Uveitis",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__uveitis__3__b3ymt4",
+        "number": "3",
+        "text": "Which of the following conditions is associated with uveitis?",
+        "options": [
+          "Acne and seborrhoeic dermatitis",
+          "Reiter's syndrome and juvenile chronic arthritis",
+          "Diabetes insipidus",
+          "Pancoast tumour of the lung",
+          "Giant cell arteritis"
+        ],
+        "originalOptions": [
+          "Acne and seborrhoeic dermatitis",
+          "Reiter's syndrome and juvenile chronic arthritis",
+          "Diabetes insipidus",
+          "Pancoast tumour of the lung",
+          "Giant cell arteritis"
+        ],
+        "correctAnswer": "B) Reiter's syndrome and juvenile chronic arthritis",
+        "correctAnswerText": "Reiter's syndrome and juvenile chronic arthritis",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Reactive arthritis (Reiter's syndrome) is an HLA-B27-associated cause of acute anterior uveitis, and juvenile idiopathic arthritis classically causes chronic, silent anterior uveitis in children. Pancoast tumour is associated with Horner syndrome, not uveitis.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Uveitis",
+        "groupName": "Uveitis",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__uveitis__4__he3nb7",
+        "number": "4",
+        "text": "Regarding the ciliary body, which of the following statements is FALSE?",
+        "options": [
+          "It is continuous with the iris anteriorly and the choroid posteriorly",
+          "The ciliary body is composed entirely of the pars plana",
+          "The ciliary epithelium produces aqueous humour",
+          "The ciliary muscle mediates accommodation"
+        ],
+        "originalOptions": [
+          "It is continuous with the iris anteriorly and the choroid posteriorly",
+          "The ciliary body is composed entirely of the pars plana",
+          "The ciliary epithelium produces aqueous humour",
+          "The ciliary muscle mediates accommodation"
+        ],
+        "correctAnswer": "B) The ciliary body is composed entirely of the pars plana",
+        "correctAnswerText": "The ciliary body is composed entirely of the pars plana",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "The ciliary body consists of both the pars plicata (aqueous-producing processes) and the pars plana, not the pars plana alone — describing it as composed entirely of the pars plana is false. A, C, and D are accurate descriptions of ciliary body anatomy and function.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Uveitis",
+        "groupName": "Uveitis",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__uveitis__5__1pi7k1",
+        "number": "5",
+        "text": "Which of the following medications is NOT indicated in the treatment of anterior uveitis?",
+        "options": [
+          "Topical corticosteroids",
+          "Cyclopentolate",
+          "Atropine",
+          "Pilocarpine"
+        ],
+        "originalOptions": [
+          "Topical corticosteroids",
+          "Cyclopentolate",
+          "Atropine",
+          "Pilocarpine"
+        ],
+        "correctAnswer": "D) Pilocarpine",
+        "correctAnswerText": "Pilocarpine",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Pilocarpine constricts the pupil, which promotes posterior synechiae formation in an already inflamed eye — cycloplegics (cyclopentolate, atropine) are used instead to keep the pupil moving and prevent synechiae.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Uveitis",
+        "groupName": "Uveitis",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__uveitis__6__t2o571",
+        "number": "6",
+        "text": "All of the following are recognised complications of anterior uveitis EXCEPT:",
+        "options": [
+          "Cataract",
+          "Glaucoma",
+          "Retinal detachment",
+          "Iris atrophy"
+        ],
+        "originalOptions": [
+          "Cataract",
+          "Glaucoma",
+          "Retinal detachment",
+          "Iris atrophy"
+        ],
+        "correctAnswer": "C) Retinal detachment",
+        "correctAnswerText": "Retinal detachment",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "Cataract, secondary glaucoma (from synechiae/trabecular blockage), and iris atrophy (as in Fuchs' heterochromic uveitis) are recognised complications of anterior uveitis. Retinal detachment is not a typical direct complication of anterior chamber inflammation.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Uveitis",
+        "groupName": "Uveitis",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__uveitis__7__yzfemp",
+        "number": "7",
+        "text": "Which of the following organisms/causes is classically associated with both keratitis and uveitis in the same patient?",
+        "options": [
+          "Neisseria gonorrhoeae",
+          "Herpes simplex virus (HSV)",
+          "Staphylococcus aureus",
+          "Adenovirus"
+        ],
+        "originalOptions": [
+          "Neisseria gonorrhoeae",
+          "Herpes simplex virus (HSV)",
+          "Staphylococcus aureus",
+          "Adenovirus"
+        ],
+        "correctAnswer": "B) Herpes simplex virus (HSV)",
+        "correctAnswerText": "Herpes simplex virus (HSV)",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "HSV can cause both dendritic keratitis and an associated anterior uveitis/iridocyclitis as part of the same recurrent infection, reflecting shared viral involvement of the anterior segment.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Uveitis",
+        "groupName": "Uveitis",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__uveitis__8__f6fqhm",
+        "number": "8",
+        "text": "Which of the following is one of the earliest features of anterior uveitis on slit-lamp examination?",
+        "options": [
+          "Keratic precipitates",
+          "Hypopyon",
+          "Posterior synechiae",
+          "Aqueous flare"
+        ],
+        "originalOptions": [
+          "Keratic precipitates",
+          "Hypopyon",
+          "Posterior synechiae",
+          "Aqueous flare"
+        ],
+        "correctAnswer": "D) Aqueous flare",
+        "correctAnswerText": "Aqueous flare",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Cells and flare in the anterior chamber are the direct, earliest sign of active inflammation, appearing before keratic precipitates, synechiae, or hypopyon develop with more established or severe disease.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Uveitis",
+        "groupName": "Uveitis",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__uveitis__9__urj4al",
+        "number": "9",
+        "text": "Which of the following does NOT occur in uveitis?",
+        "options": [
+          "Hyphema",
+          "Hypopyon",
+          "Posterior synechiae, where the iris may adhere to the lens and bind down the pupil",
+          "Anterior synechiae, where the iris may adhere to the trabecular meshwork or cornea, occluding the drainage angle",
+          "Elevated intraocular pressure"
+        ],
+        "originalOptions": [
+          "Hyphema",
+          "Hypopyon",
+          "Posterior synechiae, where the iris may adhere to the lens and bind down the pupil",
+          "Anterior synechiae, where the iris may adhere to the trabecular meshwork or cornea, occluding the drainage angle",
+          "Elevated intraocular pressure"
+        ],
+        "correctAnswer": "A) Hyphema",
+        "correctAnswerText": "Hyphema",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Hyphema is blood in the anterior chamber, classically from trauma, not a feature of uveitis. Hypopyon (white cells), synechiae, and raised IOP (from synechiae/inflammatory debris blocking outflow) are all recognised uveitis findings.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Uveitis",
+        "groupName": "Uveitis",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__uveitis__10__xcknmp",
+        "number": "10",
+        "text": "A 23-year-old Caucasian man with acutely painful red eye, photophobia, and morning-stiffness lower back pain. Which of the following statements is FALSE? [img: caucasianmananterioruveitis.png ]",
+        "options": [
+          "The diagnosis is acute anterior uveitis associated with ankylosing spondylitis",
+          "Keratic precipitates and hypopyon are expected findings",
+          "The differential diagnosis includes intermediate uveitis",
+          "Treatment includes topical corticosteroids and cycloplegics"
+        ],
+        "originalOptions": [
+          "The diagnosis is acute anterior uveitis associated with ankylosing spondylitis",
+          "Keratic precipitates and hypopyon are expected findings",
+          "The differential diagnosis includes intermediate uveitis",
+          "Treatment includes topical corticosteroids and cycloplegics"
+        ],
+        "correctAnswer": "C) The differential diagnosis includes intermediate uveitis",
+        "correctAnswerText": "The differential diagnosis includes intermediate uveitis",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "This presentation — acute pain, photophobia, and a red eye — is classic for anterior uveitis, not intermediate uveitis, which typically presents with painless floaters and vitritis rather than an acutely painful red eye.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Uveitis",
+        "groupName": "Uveitis",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__uveitis__11__o06pfk",
+        "number": "11",
+        "text": "A 64-year-old man presents with a yellowish retinal lesion and necrosis. The likely diagnosis is:",
+        "options": [
+          "Cytomegalovirus retinitis",
+          "Age-related macular degeneration",
+          "Retinal detachment",
+          "Central serous retinopathy"
+        ],
+        "originalOptions": [
+          "Cytomegalovirus retinitis",
+          "Age-related macular degeneration",
+          "Retinal detachment",
+          "Central serous retinopathy"
+        ],
+        "correctAnswer": "A) Cytomegalovirus retinitis",
+        "correctAnswerText": "Cytomegalovirus retinitis",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "CMV retinitis presents as a necrotising retinitis with haemorrhage (classically described as a \"pizza-pie\" fundus), typically in significantly immunosuppressed patients, and needs systemic antiviral treatment.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Uveitis",
+        "groupName": "Uveitis",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__uveitis__12__nwexj1",
+        "number": "12",
+        "text": "A 56-year-old lady with known sarcoidosis on systemic prednisolone presents with photophobia, redness, and blurred vision, with no previous eye history. What is the most likely diagnosis?",
+        "options": [
+          "Uveitis",
+          "Episcleritis",
+          "Bacterial conjunctivitis",
+          "Corneal abrasion"
+        ],
+        "originalOptions": [
+          "Uveitis",
+          "Episcleritis",
+          "Bacterial conjunctivitis",
+          "Corneal abrasion"
+        ],
+        "correctAnswer": "A) Uveitis",
+        "correctAnswerText": "Uveitis",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Sarcoidosis is a classic cause of granulomatous uveitis, and the triad of photophobia, redness, and blurred vision fits anterior uveitis rather than the milder discomfort of episcleritis, the external picture of bacterial conjunctivitis, or a traumatic corneal abrasion.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Uveitis",
+        "groupName": "Uveitis",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__uveitis__13__89gpxi",
+        "number": "13",
+        "text": "In anterior uveitis, the pupil is generally:",
+        "options": [
+          "Constricted and irregular",
+          "Dilated",
+          "Normal in size",
+          "Fixed and mid-dilated"
+        ],
+        "originalOptions": [
+          "Constricted and irregular",
+          "Dilated",
+          "Normal in size",
+          "Fixed and mid-dilated"
+        ],
+        "correctAnswer": "A) Constricted and irregular",
+        "correctAnswerText": "Constricted and irregular",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Inflammation causes miosis, and posterior synechiae (iris adhering to the anterior lens capsule) produce an irregular, poorly dilating pupil — a hallmark finding in anterior uveitis, distinct from the fixed, mid-dilated pupil of acute angle-closure glaucoma.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Uveitis",
+        "groupName": "Uveitis",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__uveitis__14__g0r2nb",
+        "number": "14",
+        "text": "A case of anterior uveitis is shown, with ciliary (limbal) injection and keratic precipitates visible on the corneal endothelium. This presentation is most consistent with an underlying joint disease. The full findings, differential diagnoses, and treatment for this case will be provided in the explanation. [img: anterioruveitis3images.png ]",
+        "options": [
+          "Choose me",
+          "Choose A"
+        ],
+        "originalOptions": [
+          "Choose me",
+          "Choose A"
+        ],
+        "correctAnswer": "A) Choose me",
+        "correctAnswerText": "Choose me",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Findings — ciliary (limbal) injection and keratic precipitates on the corneal endothelium. Differential diagnoses — ankylosing spondylitis, juvenile chronic arthritis, reactive arthritis (Reiter's disease). Treatment — topical corticosteroids plus mydriatics/cycloplegics (e.g., cyclopentolate or atropine drops).",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Uveitis",
+        "groupName": "Uveitis",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__uveitis__15__7zpn35",
+        "number": "15",
+        "text": "A 23-year-old Caucasian man presents with an acutely painful, red right eye and marked photophobia. History reveals lower back pain for several months, with morning stiffness. The diagnosis, key findings, and treatment for this case will be provided in the explanation. [img: caucasianmananterioruveitis.png ]",
+        "options": [
+          "Choose me",
+          "Choose A"
+        ],
+        "originalOptions": [
+          "Choose me",
+          "Choose A"
+        ],
+        "correctAnswer": "A) Choose me",
+        "correctAnswerText": "Choose me",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Diagnosis — acute anterior uveitis associated with ankylosing spondylitis (HLA-B27-related). Key findings — keratic precipitates on the corneal endothelium and hypopyon (a pus layer in the anterior chamber). Treatment — topical corticosteroids and cycloplegics/mydriatics.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Uveitis",
+        "groupName": "Uveitis",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__uveitis__16__ki0e4l",
+        "number": "16",
+        "text": "A 23-year-old man with backache and oral ulcers is referred with right eye pain and photophobia, and a history of previous mild blurred vision episodes. The pathological findings, differential diagnoses, and treatment for this case will be provided in the explanation. [img: hypopyon23keraticprecipitates.png ]",
+        "options": [
+          "Choose me",
+          "Choose A"
+        ],
+        "originalOptions": [
+          "Choose me",
+          "Choose A"
+        ],
+        "correctAnswer": "A) Choose me",
+        "correctAnswerText": "Choose me",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Findings — hypopyon (accumulation of white cells in the anterior chamber inferiorly) and keratic precipitates on the corneal endothelium, indicating acute anterior uveitis (iridocyclitis). Differential diagnoses — Behçet's disease (most likely, given oral ulcers and young age), ankylosing spondylitis (associated with backache and HLA-B27), inflammatory bowel disease-associated uveitis / reactive arthritis / sarcoidosis. Treatments — topical or systemic corticosteroids, and topical cycloplegics/mydriatics (e.g., atropine).",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Uveitis",
+        "groupName": "Uveitis",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "ophthalmology__lecture__uveitis__17__s5dcot",
+        "number": "17",
+        "text": "A 34-year-old man presents with a painful red eye and photophobia. Slit-lamp examination shows keratic precipitates on the corneal endothelium and posterior synechiae, with the iris adherent to the anterior lens capsule producing an irregular pupil. Which of the following statements about this presentation is FALSE?",
+        "options": [
+          "Keratic precipitates are deposits of inflammatory cells on the corneal endothelium",
+          "Posterior synechiae is adhesion of the iris to the anterior lens capsule",
+          "This presentation is consistent with intermediate uveitis",
+          "Cycloplegics help prevent further synechiae formation"
+        ],
+        "originalOptions": [
+          "Keratic precipitates are deposits of inflammatory cells on the corneal endothelium",
+          "Posterior synechiae is adhesion of the iris to the anterior lens capsule",
+          "This presentation is consistent with intermediate uveitis",
+          "Cycloplegics help prevent further synechiae formation"
+        ],
+        "correctAnswer": "C) This presentation is consistent with intermediate uveitis",
+        "correctAnswerText": "This presentation is consistent with intermediate uveitis",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "Keratic precipitates and posterior synechiae are findings of anterior uveitis, not intermediate uveitis, which instead presents with vitritis and floaters without these anterior segment signs.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Ophthalmology",
+        "subjectId": "ophthalmology",
+        "lectureName": "Uveitis",
+        "groupName": "Uveitis",
+        "sourceType": "lecture"
+      },
+      {
         "id": "ophthalmology__ai__anatomy-of-the-eye-ai__1__o7g3u6",
         "number": "1",
         "text": "Arrange the five histological layers of the cornea in correct anterior-to-posterior order:",
@@ -4550,8 +5601,8 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 68,
-    "totalLectures": 5,
+    "totalQuestions": 85,
+    "totalLectures": 6,
     "hasAiFolder": true
   }
 ]
