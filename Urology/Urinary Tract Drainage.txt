@@ -1,0 +1,112 @@
+During TURP, a patient develops confusion, nausea, bradycardia, and hypertension near the end of a prolonged resection. Serum sodium is low. This is best explained by:
+A) Absorption of hypotonic irrigating fluid causing dilutional hyponatremia
+B) Sepsis from catheter-associated infection
+C) Acute blood loss anemia
+D) Anaphylaxis to anesthetic agent
+E) Pre-existing chronic kidney disease
+Correct Answer: A) Absorption of hypotonic irrigating fluid causing dilutional hyponatremia
+Explanation: TUR syndrome results from absorption of hypotonic irrigating solution through open venous sinuses during resection, causing hypervolemic hyponatremia with confusion, bradycardia, hypertension, and visual disturbances.
+### 
+Which factor is most associated with increased risk of TUR syndrome?
+A) Short resection time
+B) Use of bipolar resection with saline irrigation
+C) Resection time greater than 90 minutes
+D) Young patient age
+E) Use of isotonic irrigation fluid
+Correct Answer: C) Resection time greater than 90 minutes
+Explanation: TUR syndrome risk increases with resection times exceeding 90 minutes and is more common in older men; bipolar TURP performed under saline (isotonic) irrigation reduces this risk.
+### 
+A patient requires long-term indwelling catheterization. Compared to latex, silicone catheters are preferred because they:
+A) Are cheaper
+B) Have a larger balloon capacity
+C) Are only available in smaller sizes
+D) Induce less tissue inflammation
+E) Require less lubrication
+Correct Answer: D) Induce less tissue inflammation
+Explanation: Silicone catheters induce less tissue inflammation than latex, making them preferable for long-term catheterization, despite latex being cheaper and more widely available.
+### 
+A 24 French Foley catheter has an outer diameter of approximately:
+A) 24 mm
+B) 3 mm
+C) 8 mm
+D) 12 mm
+E) 1 cm exactly
+Correct Answer: C) 8 mm
+Explanation: Catheter French size divided by 3 gives the outer diameter in millimeters; 24 ÷ 3 = 8 mm.
+### 
+Which of the following is a recognized indication for urethral catheterization?
+A) Monitoring urine output in a critically ill patient
+B) Suspected urethral injury with blood at the meatus
+C) High-riding prostate on rectal exam after trauma
+D) Acute prostatitis with no retention
+E) Pelvic fracture with suspected urethral disruption
+Correct Answer: A) Monitoring urine output in a critically ill patient
+Explanation: Monitoring urine output is a standard, common indication for catheterization. Suspected urethral injury (blood at meatus, high-riding prostate, pelvic fracture with urethral disruption) is a contraindication until imaging excludes injury.
+### 
+Which of the following is a contraindication to transurethral Foley catheter placement?
+A) Acute urinary retention from BPH
+B) Suspected urethral injury
+C) Postoperative monitoring
+D) Need for a clean urine sample
+E) Intravesical BCG instillation
+Correct Answer: B) Suspected urethral injury
+Explanation: Suspected urethral injury is a contraindication to urethral catheterization; a retrograde urethrogram should be performed first, and a suprapubic catheter used if drainage is needed.
+### 
+Chronic urinary retention is best distinguished from acute retention by which feature?
+A) Sudden onset of severe suprapubic pain
+B) Painless, palpable, and percussible bladder
+C) Fever and systemic toxicity
+D) Gross hematuria
+E) Rapid resolution with a single catheterization
+Correct Answer: B) Painless, palpable, and percussible bladder
+Explanation: Chronic retention classically presents as a painless, palpable/percussible bladder due to gradual distension, in contrast to the painful presentation of acute retention.
+### 
+A 60-year-old man with ischemic heart disease presents with fever of 40°C, HR 125, BP 120/65, and suprapubic tenderness consistent with acute bacterial prostatitis with urinary retention. The most appropriate management is:
+A) Transurethral catheterization, IV antibiotics, and admission
+B) Oral antibiotics and outpatient follow-up
+C) Prostatic massage to obtain culture, then antibiotics
+D) Suprapubic catheterization, IV antibiotics, and admission
+E) Immediate transurethral resection of the prostate
+Correct Answer: D) Suprapubic catheterization, IV antibiotics, and admission
+Explanation: In acute bacterial prostatitis, urethral catheterization and instrumentation are contraindicated due to risk of bacteremia; urinary retention should be managed with a suprapubic catheter along with IV antibiotics and admission.
+### 
+Which of the following clinical situations requires urgent decompression of the urinary tract?
+A) Bilateral non-obstructing renal stones
+B) A small asymptomatic stone with mild pain
+C) An obstructed, infected collecting system
+D) Simple physiological hydronephrosis of pregnancy
+E) Chronic painless bladder distension
+Correct Answer: C) An obstructed, infected collecting system
+Explanation: An obstructed and infected urinary system (obstructive pyelonephritis/pyonephrosis) is a urologic emergency requiring urgent decompression via JJ stent or nephrostomy to prevent sepsis and renal destruction.
+### 
+Which of the following is NOT a recognized complication of long-term double-J (JJ) ureteral stenting?
+A) Infection
+B) Urothelial cancer
+C) Flank pain during urination (reflux)
+D) Hematuria
+Correct Answer: B) Urothelial cancer
+Explanation: Long-standing catheters (not JJ stents specifically) are linked to stone formation and bladder cancer risk with prolonged indwelling urethral catheters; urothelial cancer is not a typical direct complication attributed to JJ stents, whose common complications are infection, hematuria, and irritative/positional flank pain.
+### 
+Which of the following is NOT a side effect of anticholinergic (antimuscarinic) medications used for overactive bladder?
+A) Dry mouth
+B) Constipation
+C) Confusion
+D) Diarrhea
+Correct Answer: D) Diarrhea
+Explanation: Anticholinergics cause constipation, not diarrhea, along with dry mouth, blurred vision, and confusion, due to inhibition of parasympathetic (muscarinic) activity on the gut and other organs.
+### 
+A fetus is found to have antenatal hydronephrosis on prenatal ultrasound. Appropriate postnatal evaluation includes:
+A) Renal ultrasound with VCUG and/or renal scan depending on severity
+B) CT scan only
+C) Cystoscopy only
+D) Brain MRI
+Correct Answer: A) Renal ultrasound with VCUG and/or renal scan depending on severity
+Explanation: Postnatal workup of antenatal hydronephrosis is guided by severity, using renal ultrasound as the initial test, followed by VCUG (to assess for reflux) and/or renal scan (to assess function/obstruction) as indicated.
+### 
+A pregnant woman is found to have mild hydronephrosis on ultrasound with no symptoms of infection or stone disease. This is most likely explained by:
+A) An occult ureteral stone
+B) Bladder tumor
+C) Compression of the ureter by the gravid uterus (physiological hydronephrosis)
+D) Undiagnosed BPH
+Correct Answer: C) Compression of the ureter by the gravid uterus (physiological hydronephrosis)
+Explanation: Mild hydronephrosis in pregnancy, particularly on the right side, is commonly physiological due to compression of the ureter by the enlarging gravid uterus and does not necessarily indicate pathology.
