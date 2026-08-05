@@ -64,14 +64,6 @@ D) Stauffer's syndrome
 Correct Answer: C) Increased serotonin level
 Explanation: Increased serotonin is not a recognized paraneoplastic feature of RCC; recognized paraneoplastic syndromes include erythrocytosis, hypercalcemia, hypertension, and Stauffer's syndrome (hepatic dysfunction without metastases).
 ###
-A fat-containing renal mass identified on ultrasound is most likely:
-A) Angiomyolipoma
-B) Renal cell carcinoma
-C) Oncocytoma
-D) Transitional cell carcinoma
-Correct Answer: A) Angiomyolipoma
-Explanation: Macroscopic fat within a renal mass is pathognomonic for angiomyolipoma, a benign tumor composed of blood vessels, smooth muscle, and fat.
-###
 The classic triad of renal cell carcinoma consists of:
 A) Fever, dysuria, and urgency
 B) Frequency, nocturia, and weak stream
@@ -100,14 +92,6 @@ B) Due to the classic triad
 C) Due to metastatic symptoms
 Correct Answer: A) Incidentally
 Explanation: The majority of RCCs are detected incidentally during imaging performed for unrelated indications, reflecting the often silent early course of the disease.
-###
-A 30-year-old pregnant woman presents with hypotension, flank pain, and Cullen and Grey Turner signs, with no prior similar episodes. The most likely diagnosis is:
-A) Ureteric stone
-B) Renal trauma
-C) Ectopic pregnancy
-D) Angiomyolipoma (spontaneous rupture)
-Correct Answer: D) Angiomyolipoma (spontaneous rupture)
-Explanation: Spontaneous retroperitoneal hemorrhage from a ruptured angiomyolipoma (Wunderlich syndrome) can present with flank pain, hypotension, and flank ecchymosis (Grey Turner sign), and is more likely to occur or become symptomatic during pregnancy.
 ###
 A patient with RCC presents with elevated hemoglobin (erythrocytosis). Which hormone is responsible?
 A) PTHrP
