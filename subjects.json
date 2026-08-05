@@ -3539,39 +3539,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__renal-cell-carcinoma__9__lv94g1",
+            "id": "urology__lecture__renal-cell-carcinoma__9__c1ac6g",
             "number": "9",
-            "text": "A fat-containing renal mass identified on ultrasound is most likely:",
-            "options": [
-              "Angiomyolipoma",
-              "Renal cell carcinoma",
-              "Oncocytoma",
-              "Transitional cell carcinoma"
-            ],
-            "originalOptions": [
-              "Angiomyolipoma",
-              "Renal cell carcinoma",
-              "Oncocytoma",
-              "Transitional cell carcinoma"
-            ],
-            "correctAnswer": "A) Angiomyolipoma",
-            "correctAnswerText": "Angiomyolipoma",
-            "correctIndex": 0,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "A",
-            "explanation": "Macroscopic fat within a renal mass is pathognomonic for angiomyolipoma, a benign tumor composed of blood vessels, smooth muscle, and fat.",
-            "batchName": "",
-            "pageNumber": "",
-            "subjectName": "Urology",
-            "subjectId": "urology",
-            "lectureName": "Renal Cell Carcinoma",
-            "groupName": "Renal Cell Carcinoma",
-            "sourceType": "lecture"
-          },
-          {
-            "id": "urology__lecture__renal-cell-carcinoma__10__c1ac6g",
-            "number": "10",
             "text": "The classic triad of renal cell carcinoma consists of:",
             "options": [
               "Fever, dysuria, and urgency",
@@ -3601,8 +3570,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__renal-cell-carcinoma__11__m6ziv",
-            "number": "11",
+            "id": "urology__lecture__renal-cell-carcinoma__10__m6ziv",
+            "number": "10",
             "text": "The most common site of RCC metastasis is:",
             "options": [
               "Bone",
@@ -3630,8 +3599,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__renal-cell-carcinoma__12__p43bbg",
-            "number": "12",
+            "id": "urology__lecture__renal-cell-carcinoma__11__p43bbg",
+            "number": "11",
             "text": "Which of the following is an established risk factor for renal cell carcinoma?",
             "options": [
               "Alcohol consumption",
@@ -3659,8 +3628,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__renal-cell-carcinoma__13__pn33wg",
-            "number": "13",
+            "id": "urology__lecture__renal-cell-carcinoma__12__pn33wg",
+            "number": "12",
             "text": "Most cases of renal cell carcinoma are discovered:",
             "options": [
               "Incidentally",
@@ -3688,39 +3657,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__renal-cell-carcinoma__14__rxifq4",
-            "number": "14",
-            "text": "A 30-year-old pregnant woman presents with hypotension, flank pain, and Cullen and Grey Turner signs, with no prior similar episodes. The most likely diagnosis is:",
-            "options": [
-              "Ureteric stone",
-              "Renal trauma",
-              "Ectopic pregnancy",
-              "Angiomyolipoma (spontaneous rupture)"
-            ],
-            "originalOptions": [
-              "Ureteric stone",
-              "Renal trauma",
-              "Ectopic pregnancy",
-              "Angiomyolipoma (spontaneous rupture)"
-            ],
-            "correctAnswer": "D) Angiomyolipoma (spontaneous rupture)",
-            "correctAnswerText": "Angiomyolipoma (spontaneous rupture)",
-            "correctIndex": 3,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "D",
-            "explanation": "Spontaneous retroperitoneal hemorrhage from a ruptured angiomyolipoma (Wunderlich syndrome) can present with flank pain, hypotension, and flank ecchymosis (Grey Turner sign), and is more likely to occur or become symptomatic during pregnancy.",
-            "batchName": "",
-            "pageNumber": "",
-            "subjectName": "Urology",
-            "subjectId": "urology",
-            "lectureName": "Renal Cell Carcinoma",
-            "groupName": "Renal Cell Carcinoma",
-            "sourceType": "lecture"
-          },
-          {
-            "id": "urology__lecture__renal-cell-carcinoma__15__jqidfy",
-            "number": "15",
+            "id": "urology__lecture__renal-cell-carcinoma__13__jqidfy",
+            "number": "13",
             "text": "A patient with RCC presents with elevated hemoglobin (erythrocytosis). Which hormone is responsible?",
             "options": [
               "PTHrP",
@@ -3748,8 +3686,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__renal-cell-carcinoma__16__rxc6p3",
-            "number": "16",
+            "id": "urology__lecture__renal-cell-carcinoma__14__rxc6p3",
+            "number": "14",
             "text": "A 42-year-old Black male with known sickle cell disease is diagnosed with RCC. The most likely subtype is:",
             "options": [
               "Medullary RCC",
@@ -3779,8 +3717,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__renal-cell-carcinoma__17__xx1ney",
-            "number": "17",
+            "id": "urology__lecture__renal-cell-carcinoma__15__xx1ney",
+            "number": "15",
             "text": "A patient is found to have a solid 4x5 cm renal mass in the lower pole. The next step in evaluation is:",
             "options": [
               "CT without contrast",
@@ -3810,8 +3748,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__renal-cell-carcinoma__18__5mlnmh",
-            "number": "18",
+            "id": "urology__lecture__renal-cell-carcinoma__16__5mlnmh",
+            "number": "16",
             "text": "A key imaging characteristic of tumors associated with Von Hippel-Lindau (VHL) syndrome is:",
             "options": [
               "Hypovascularity",
@@ -3839,8 +3777,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__renal-cell-carcinoma__19__l4ur20",
-            "number": "19",
+            "id": "urology__lecture__renal-cell-carcinoma__17__l4ur20",
+            "number": "17",
             "text": "Which of the following are established risk factors for renal cell carcinoma?",
             "options": [
               "Alcohol, diabetes, and low BMI",
@@ -3870,8 +3808,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__renal-cell-carcinoma__20__gs69xk",
-            "number": "20",
+            "id": "urology__lecture__renal-cell-carcinoma__18__gs69xk",
+            "number": "18",
             "text": "Which of the following is a recognized paraneoplastic syndrome in RCC?",
             "options": [
               "Anemia",
@@ -8333,39 +8271,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__renal-cell-carcinoma__9__lv94g1",
+        "id": "urology__lecture__renal-cell-carcinoma__9__c1ac6g",
         "number": "9",
-        "text": "A fat-containing renal mass identified on ultrasound is most likely:",
-        "options": [
-          "Angiomyolipoma",
-          "Renal cell carcinoma",
-          "Oncocytoma",
-          "Transitional cell carcinoma"
-        ],
-        "originalOptions": [
-          "Angiomyolipoma",
-          "Renal cell carcinoma",
-          "Oncocytoma",
-          "Transitional cell carcinoma"
-        ],
-        "correctAnswer": "A) Angiomyolipoma",
-        "correctAnswerText": "Angiomyolipoma",
-        "correctIndex": 0,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "A",
-        "explanation": "Macroscopic fat within a renal mass is pathognomonic for angiomyolipoma, a benign tumor composed of blood vessels, smooth muscle, and fat.",
-        "batchName": "",
-        "pageNumber": "",
-        "subjectName": "Urology",
-        "subjectId": "urology",
-        "lectureName": "Renal Cell Carcinoma",
-        "groupName": "Renal Cell Carcinoma",
-        "sourceType": "lecture"
-      },
-      {
-        "id": "urology__lecture__renal-cell-carcinoma__10__c1ac6g",
-        "number": "10",
         "text": "The classic triad of renal cell carcinoma consists of:",
         "options": [
           "Fever, dysuria, and urgency",
@@ -8395,8 +8302,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__renal-cell-carcinoma__11__m6ziv",
-        "number": "11",
+        "id": "urology__lecture__renal-cell-carcinoma__10__m6ziv",
+        "number": "10",
         "text": "The most common site of RCC metastasis is:",
         "options": [
           "Bone",
@@ -8424,8 +8331,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__renal-cell-carcinoma__12__p43bbg",
-        "number": "12",
+        "id": "urology__lecture__renal-cell-carcinoma__11__p43bbg",
+        "number": "11",
         "text": "Which of the following is an established risk factor for renal cell carcinoma?",
         "options": [
           "Alcohol consumption",
@@ -8453,8 +8360,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__renal-cell-carcinoma__13__pn33wg",
-        "number": "13",
+        "id": "urology__lecture__renal-cell-carcinoma__12__pn33wg",
+        "number": "12",
         "text": "Most cases of renal cell carcinoma are discovered:",
         "options": [
           "Incidentally",
@@ -8482,39 +8389,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__renal-cell-carcinoma__14__rxifq4",
-        "number": "14",
-        "text": "A 30-year-old pregnant woman presents with hypotension, flank pain, and Cullen and Grey Turner signs, with no prior similar episodes. The most likely diagnosis is:",
-        "options": [
-          "Ureteric stone",
-          "Renal trauma",
-          "Ectopic pregnancy",
-          "Angiomyolipoma (spontaneous rupture)"
-        ],
-        "originalOptions": [
-          "Ureteric stone",
-          "Renal trauma",
-          "Ectopic pregnancy",
-          "Angiomyolipoma (spontaneous rupture)"
-        ],
-        "correctAnswer": "D) Angiomyolipoma (spontaneous rupture)",
-        "correctAnswerText": "Angiomyolipoma (spontaneous rupture)",
-        "correctIndex": 3,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "D",
-        "explanation": "Spontaneous retroperitoneal hemorrhage from a ruptured angiomyolipoma (Wunderlich syndrome) can present with flank pain, hypotension, and flank ecchymosis (Grey Turner sign), and is more likely to occur or become symptomatic during pregnancy.",
-        "batchName": "",
-        "pageNumber": "",
-        "subjectName": "Urology",
-        "subjectId": "urology",
-        "lectureName": "Renal Cell Carcinoma",
-        "groupName": "Renal Cell Carcinoma",
-        "sourceType": "lecture"
-      },
-      {
-        "id": "urology__lecture__renal-cell-carcinoma__15__jqidfy",
-        "number": "15",
+        "id": "urology__lecture__renal-cell-carcinoma__13__jqidfy",
+        "number": "13",
         "text": "A patient with RCC presents with elevated hemoglobin (erythrocytosis). Which hormone is responsible?",
         "options": [
           "PTHrP",
@@ -8542,8 +8418,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__renal-cell-carcinoma__16__rxc6p3",
-        "number": "16",
+        "id": "urology__lecture__renal-cell-carcinoma__14__rxc6p3",
+        "number": "14",
         "text": "A 42-year-old Black male with known sickle cell disease is diagnosed with RCC. The most likely subtype is:",
         "options": [
           "Medullary RCC",
@@ -8573,8 +8449,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__renal-cell-carcinoma__17__xx1ney",
-        "number": "17",
+        "id": "urology__lecture__renal-cell-carcinoma__15__xx1ney",
+        "number": "15",
         "text": "A patient is found to have a solid 4x5 cm renal mass in the lower pole. The next step in evaluation is:",
         "options": [
           "CT without contrast",
@@ -8604,8 +8480,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__renal-cell-carcinoma__18__5mlnmh",
-        "number": "18",
+        "id": "urology__lecture__renal-cell-carcinoma__16__5mlnmh",
+        "number": "16",
         "text": "A key imaging characteristic of tumors associated with Von Hippel-Lindau (VHL) syndrome is:",
         "options": [
           "Hypovascularity",
@@ -8633,8 +8509,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__renal-cell-carcinoma__19__l4ur20",
-        "number": "19",
+        "id": "urology__lecture__renal-cell-carcinoma__17__l4ur20",
+        "number": "17",
         "text": "Which of the following are established risk factors for renal cell carcinoma?",
         "options": [
           "Alcohol, diabetes, and low BMI",
@@ -8664,8 +8540,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__renal-cell-carcinoma__20__gs69xk",
-        "number": "20",
+        "id": "urology__lecture__renal-cell-carcinoma__18__gs69xk",
+        "number": "18",
         "text": "Which of the following is a recognized paraneoplastic syndrome in RCC?",
         "options": [
           "Anemia",
@@ -9611,7 +9487,7 @@
         "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 148,
+    "totalQuestions": 146,
     "totalLectures": 7,
     "hasAiFolder": false
   }
