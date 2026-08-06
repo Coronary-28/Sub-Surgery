@@ -1,0 +1,59 @@
+Which of the following best distinguishes true hematuria from hemoglobinuria or myoglobinuria?
+A) Dipstick testing
+B) Microscopic presence of erythrocytes
+C) Simultaneous presence of significant leukocytes
+D) Examination of serum
+E) Evaluation of hematocrit
+Correct Answer: B) Microscopic presence of erythrocytes
+Explanation: Dipstick is positive for blood in all three conditions, but only true hematuria shows intact red blood cells on microscopic urinalysis.
+###
+A patient reports blood appearing only at the very end of the urinary stream, after most of the urine has already passed. This pattern of terminal hematuria most suggests pathology arising from:
+A) Bladder neck or prostatic inflammation
+B) Kidney stones
+C) Urethral stricture disease
+D) Bladder calculi
+E) Bladder cancer
+Correct Answer: A) Bladder neck or prostatic inflammation
+Explanation: Initial hematuria localizes to the urethra, total hematuria to the bladder or upper tract, and terminal hematuria to the bladder neck or prostatic urethra.
+###
+A 68-year-old smoker presents with a single episode of painless gross hematuria. Which diagnosis must be excluded first as the classic cause of painless gross hematuria in a patient over 50 years old?
+A) Renal calculi
+B) Benign prostatic hyperplasia
+C) Infection
+D) Bladder cancer
+E) Trauma
+Correct Answer: D) Bladder cancer
+Explanation: Painless gross hematuria in a patient over 50 is bladder cancer until proven otherwise, warranting cystoscopy and upper tract imaging regardless of other findings.
+###
+A normotensive patient is found to have isolated microscopic hematuria on routine urinalysis, with no other urinary symptoms and a normal examination. What is the most appropriate initial action?
+A) Observation with repeat urinalysis
+B) Antibiotics
+C) Cystoscopy
+D) Diuretics
+Correct Answer: A) Observation with repeat urinalysis
+Explanation: Isolated, asymptomatic microscopic hematuria in a low-risk patient is initially managed conservatively with a repeat urinalysis rather than immediate invasive workup.
+###
+When taking a history from a patient presenting with hematuria, which combination of questions is most important to ask?
+A) Onset
+B) Presence of clots
+C) Timing of blood during urination
+D) All of the above
+Correct Answer: D) All of the above
+Explanation: Onset, presence of clots, and timing during the urinary stream all help localize the source and severity of hematuria, so all should be asked.
+###
+Hematuria in an adult should be treated as a warning sign of which of the following until proven otherwise?
+A) Renal cell carcinoma
+B) Benign prostatic hyperplasia
+C) Bladder cancer
+D) Urinary tract infection
+Correct Answer: C) Bladder cancer
+Explanation: Although hematuria has many causes, it is classically taught that hematuria in an adult signals malignancy, most often bladder cancer, until excluded.
+###
+A 70-year-old male smoker presents with gross hematuria persisting for 3 months. What is the most appropriate next step in investigation?
+A) Urine analysis alone
+B) CT urogram and cystoscopy
+C) CT without contrast
+D) Urine culture only
+Correct Answer: B) CT urogram and cystoscopy
+Explanation: Persistent gross hematuria in an older smoker requires full evaluation of both the upper tract (CT urogram) and lower tract (cystoscopy) to exclude urothelial malignancy.
+###
