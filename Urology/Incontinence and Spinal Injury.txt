@@ -1,0 +1,126 @@
+Which of the following best defines stress urinary incontinence?
+A) Involuntary leakage preceded by a sudden urge to void
+B) Continuous leakage of urine unrelated to activity
+C) Leakage of urine that occurs only during sleep
+D) Leakage of urine following bladder overdistension
+E) Involuntary leakage of urine associated with effort, exertion, coughing, or sneezing
+Correct Answer: E) Involuntary leakage of urine associated with effort, exertion, coughing, or sneezing
+Explanation: Stress incontinence occurs when rises in intra-abdominal pressure overcome urethral resistance, typically from pelvic floor weakness or sphincteric incompetence.
+###
+A patient with overactive bladder and urgency incontinence is being started on treatment. Which type of incontinence is most often managed pharmacologically as first-line therapy?
+A) Stress incontinence
+B) Overflow incontinence
+C) Urge incontinence
+D) Continuous incontinence
+E) Giggle incontinence
+Correct Answer: C) Urge incontinence
+Explanation: Urge incontinence from detrusor overactivity responds well to antimuscarinics or beta-3 agonists (mirabegron), unlike stress incontinence, which is managed primarily with conservative or surgical measures.
+###
+A 48-year-old woman with no significant past medical history presents with urine leakage on coughing and sneezing. What is the most appropriate initial management?
+A) Tension-free vaginal tape
+B) Pelvic floor muscle training
+C) Anticholinergic therapy
+D) Artificial urinary sphincter
+E) Retropubic suspension (Burch procedure)
+Correct Answer: B) Pelvic floor muscle training
+Explanation: Conservative pelvic floor exercises (at least 8 contractions, 3 times daily for 3 months) are first-line before considering surgical options such as slings or Burch colposuspension.
+###
+A 43-year-old woman develops constant urinary leakage 7 days after hysterectomy, not aggravated by coughing and without associated urgency. What is the most likely underlying cause?
+A) Detrusor overactivity
+B) Stress urinary incontinence
+C) Urethral hypermobility
+D) Vesicovaginal fistula
+E) Urinary tract infection
+Correct Answer: D) Vesicovaginal fistula
+Explanation: Continuous, position-independent leakage after pelvic surgery strongly suggests an iatrogenic vesicovaginal fistula creating a direct communication between bladder and vagina.
+###
+Continuous incontinence, defined as leakage of urine at all times and in all positions, is most commonly caused by which of the following?
+A) Detrusor overactivity
+B) Bladder outlet obstruction
+C) Vesicovaginal fistula
+D) Intrinsic sphincter deficiency
+E) Low bladder compliance
+Correct Answer: C) Vesicovaginal fistula
+Explanation: A fistulous communication between the bladder and vagina bypasses the normal continence mechanism entirely, producing constant leakage regardless of posture or activity.
+###
+In female patients, an ectopic ureter classically causes continuous urinary incontinence because the ureter inserts:
+A) Distal to the external urethral sphincter (e.g., vagina or vestibule)
+B) Directly into the bladder trigone
+C) Proximal to the bladder neck
+D) Into the ipsilateral fallopian tube
+Correct Answer: A) Distal to the external urethral sphincter (e.g., vagina or vestibule)
+Explanation: In females, an ectopic ureter frequently opens below the external sphincter, bypassing continence mechanisms; in males it opens above the sphincter and instead causes recurrent UTIs rather than incontinence.
+###
+Which of the following is NOT considered a risk factor for urinary incontinence?
+A) Increasing age
+B) Male sex
+C) Smoking
+D) Elevated BMI
+E) Fecal incontinence
+Correct Answer: B) Male sex
+Explanation: Female sex, not male sex, is a recognized risk factor for urinary incontinence due to a shorter urethra and the effects of pregnancy and childbirth on pelvic floor support.
+###
+Which of the following is NOT a risk factor specifically for stress urinary incontinence?
+A) Multiple vaginal deliveries
+B) Obesity
+C) Chronic cough/smoking
+D) Nulliparity
+Correct Answer: D) Nulliparity
+Explanation: Vaginal childbirth weakens pelvic floor support and increases SUI risk, whereas nulliparous women have a comparatively lower risk.
+###
+Which class of medication should be avoided when treating stress urinary incontinence in a male patient?
+A) Anticholinergic drugs
+B) Alpha-agonists (e.g., pseudoephedrine)
+C) Pelvic floor physiotherapy
+D) Artificial urinary sphincter placement
+Correct Answer: A) Anticholinergic drugs
+Explanation: Anticholinergics target detrusor overactivity in urge incontinence and have no role in stress incontinence, which in men is usually secondary to sphincter injury after prostate surgery.
+###
+What is the most common overall indication for placement of an indwelling Foley catheter?
+A) Obtaining a sterile urine sample
+B) Drainage of acute or chronic urinary retention
+C) Monitoring hourly urine output
+D) Intravesical instillation of chemotherapy
+Correct Answer: B) Drainage of acute or chronic urinary retention
+Explanation: Drainage of acute or chronic retention (or post-void residual) is the most common indication for catheterization; monitoring urine output is the second most common.
+###
+A patient started on an antimuscarinic for urge incontinence develops several adverse effects. Which of the following is NOT typically caused by anticholinergic medications?
+A) Diarrhea
+B) Dry mouth
+C) Urinary retention
+D) Confusion
+Correct Answer: A) Diarrhea
+Explanation: Anticholinergics cause constipation, not diarrhea, along with dry mouth, blurred vision, urinary retention, and confusion.
+###
+Before initiating mirabegron for urge incontinence, which of the following should prompt the greatest caution or avoidance of therapy?
+A) Mild constipation
+B) History of well-controlled hypertension
+C) Severe, uncontrolled hypertension
+D) Age over 65 years
+Correct Answer: C) Severe, uncontrolled hypertension
+Explanation: Mirabegron can raise blood pressure, so severe uncontrolled hypertension is a major safety concern, whereas significant urinary retention with high PVR is a relative caution rather than the primary contraindication.
+###
+During cystometry, a patient's intravesical pressure (Pves) is 45 cmH2O and abdominal pressure (Pabd) is 15 cmH2O. What is the calculated detrusor pressure (Pdet)?
+A) 60 cmH2O
+B) 15 cmH2O
+C) 45 cmH2O
+D) 30 cmH2O
+Correct Answer: D) 30 cmH2O
+Explanation: Detrusor pressure is calculated as Pdet = Pves − Pabd, so 45 − 15 = 30 cmH2O.
+###
+A 6-year-old child is undergoing urodynamic evaluation. Using the standard pediatric formula, what is the expected bladder capacity?
+A) 120 mL
+B) 240 mL
+C) 180 mL
+D) 300 mL
+Correct Answer: B) 240 mL
+Explanation: Pediatric bladder capacity is estimated as (Age + 2) × 30 mL; for a 6-year-old this is (6+2) × 30 = 240 mL.
+###
+Before initiating mirabegron for the treatment of urge urinary incontinence, which of the following conditions is the most appropriate reason to avoid or use the drug with significant caution?
+A) Dysuria
+B) Significant urinary retention with high post-void residual
+C) Kidney stones
+D) Hematuria
+Correct Answer: B) Significant urinary retention with high post-void residual
+Explanation: Mirabegron (a β3-adrenergic agonist) relaxes the detrusor muscle during bladder filling, which may worsen pre-existing urinary retention. Therefore, patients with significant urinary retention and a high post-void residual should generally avoid the drug or receive it only with careful monitoring. Dysuria, kidney stones, and hematuria are not contraindications by themselves.
+###
