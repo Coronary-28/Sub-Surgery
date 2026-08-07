@@ -2742,6 +2742,238 @@
         ]
       },
       {
+        "id": "urology__lecture__hematuria",
+        "name": "Hematuria",
+        "type": "lecture",
+        "subjectName": "Urology",
+        "path": "Urology/Hematuria.txt",
+        "questions": [
+          {
+            "id": "urology__lecture__hematuria__1__1t004n",
+            "number": "1",
+            "text": "Which of the following best distinguishes true hematuria from hemoglobinuria or myoglobinuria?",
+            "options": [
+              "Dipstick testing",
+              "Microscopic presence of erythrocytes",
+              "Simultaneous presence of significant leukocytes",
+              "Examination of serum",
+              "Evaluation of hematocrit"
+            ],
+            "originalOptions": [
+              "Dipstick testing",
+              "Microscopic presence of erythrocytes",
+              "Simultaneous presence of significant leukocytes",
+              "Examination of serum",
+              "Evaluation of hematocrit"
+            ],
+            "correctAnswer": "B) Microscopic presence of erythrocytes",
+            "correctAnswerText": "Microscopic presence of erythrocytes",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Dipstick is positive for blood in all three conditions, but only true hematuria shows intact red blood cells on microscopic urinalysis.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Urology",
+            "subjectId": "urology",
+            "lectureName": "Hematuria",
+            "groupName": "Hematuria",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "urology__lecture__hematuria__2__1673w4",
+            "number": "2",
+            "text": "A patient reports blood appearing only at the very end of the urinary stream, after most of the urine has already passed. This pattern of terminal hematuria most suggests pathology arising from:",
+            "options": [
+              "Bladder neck or prostatic inflammation",
+              "Kidney stones",
+              "Urethral stricture disease",
+              "Bladder calculi",
+              "Bladder cancer"
+            ],
+            "originalOptions": [
+              "Bladder neck or prostatic inflammation",
+              "Kidney stones",
+              "Urethral stricture disease",
+              "Bladder calculi",
+              "Bladder cancer"
+            ],
+            "correctAnswer": "A) Bladder neck or prostatic inflammation",
+            "correctAnswerText": "Bladder neck or prostatic inflammation",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Initial hematuria localizes to the urethra, total hematuria to the bladder or upper tract, and terminal hematuria to the bladder neck or prostatic urethra.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Urology",
+            "subjectId": "urology",
+            "lectureName": "Hematuria",
+            "groupName": "Hematuria",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "urology__lecture__hematuria__3__8od7sa",
+            "number": "3",
+            "text": "A 68-year-old smoker presents with a single episode of painless gross hematuria. Which diagnosis must be excluded first as the classic cause of painless gross hematuria in a patient over 50 years old?",
+            "options": [
+              "Renal calculi",
+              "Benign prostatic hyperplasia",
+              "Infection",
+              "Bladder cancer",
+              "Trauma"
+            ],
+            "originalOptions": [
+              "Renal calculi",
+              "Benign prostatic hyperplasia",
+              "Infection",
+              "Bladder cancer",
+              "Trauma"
+            ],
+            "correctAnswer": "D) Bladder cancer",
+            "correctAnswerText": "Bladder cancer",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Painless gross hematuria in a patient over 50 is bladder cancer until proven otherwise, warranting cystoscopy and upper tract imaging regardless of other findings.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Urology",
+            "subjectId": "urology",
+            "lectureName": "Hematuria",
+            "groupName": "Hematuria",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "urology__lecture__hematuria__4__trycf3",
+            "number": "4",
+            "text": "A normotensive patient is found to have isolated microscopic hematuria on routine urinalysis, with no other urinary symptoms and a normal examination. What is the most appropriate initial action?",
+            "options": [
+              "Observation with repeat urinalysis",
+              "Antibiotics",
+              "Cystoscopy",
+              "Diuretics"
+            ],
+            "originalOptions": [
+              "Observation with repeat urinalysis",
+              "Antibiotics",
+              "Cystoscopy",
+              "Diuretics"
+            ],
+            "correctAnswer": "A) Observation with repeat urinalysis",
+            "correctAnswerText": "Observation with repeat urinalysis",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Isolated, asymptomatic microscopic hematuria in a low-risk patient is initially managed conservatively with a repeat urinalysis rather than immediate invasive workup.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Urology",
+            "subjectId": "urology",
+            "lectureName": "Hematuria",
+            "groupName": "Hematuria",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "urology__lecture__hematuria__5__yua8sa",
+            "number": "5",
+            "text": "When taking a history from a patient presenting with hematuria, which combination of questions is most important to ask?",
+            "options": [
+              "Onset",
+              "Presence of clots",
+              "Timing of blood during urination",
+              "All of the above"
+            ],
+            "originalOptions": [
+              "Onset",
+              "Presence of clots",
+              "Timing of blood during urination",
+              "All of the above"
+            ],
+            "correctAnswer": "D) All of the above",
+            "correctAnswerText": "All of the above",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Onset, presence of clots, and timing during the urinary stream all help localize the source and severity of hematuria, so all should be asked.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Urology",
+            "subjectId": "urology",
+            "lectureName": "Hematuria",
+            "groupName": "Hematuria",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "urology__lecture__hematuria__6__gpq9fx",
+            "number": "6",
+            "text": "Hematuria in an adult should be treated as a warning sign of which of the following until proven otherwise?",
+            "options": [
+              "Renal cell carcinoma",
+              "Benign prostatic hyperplasia",
+              "Bladder cancer",
+              "Urinary tract infection"
+            ],
+            "originalOptions": [
+              "Renal cell carcinoma",
+              "Benign prostatic hyperplasia",
+              "Bladder cancer",
+              "Urinary tract infection"
+            ],
+            "correctAnswer": "C) Bladder cancer",
+            "correctAnswerText": "Bladder cancer",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Although hematuria has many causes, it is classically taught that hematuria in an adult signals malignancy, most often bladder cancer, until excluded.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Urology",
+            "subjectId": "urology",
+            "lectureName": "Hematuria",
+            "groupName": "Hematuria",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "urology__lecture__hematuria__7__3kfes3",
+            "number": "7",
+            "text": "A 70-year-old male smoker presents with gross hematuria persisting for 3 months. What is the most appropriate next step in investigation?",
+            "options": [
+              "Urine analysis alone",
+              "CT urogram and cystoscopy",
+              "CT without contrast",
+              "Urine culture only"
+            ],
+            "originalOptions": [
+              "Urine analysis alone",
+              "CT urogram and cystoscopy",
+              "CT without contrast",
+              "Urine culture only"
+            ],
+            "correctAnswer": "B) CT urogram and cystoscopy",
+            "correctAnswerText": "CT urogram and cystoscopy",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Persistent gross hematuria in an older smoker requires full evaluation of both the upper tract (CT urogram) and lower tract (cystoscopy) to exclude urothelial malignancy.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Urology",
+            "subjectId": "urology",
+            "lectureName": "Hematuria",
+            "groupName": "Hematuria",
+            "sourceType": "lecture"
+          }
+        ]
+      },
+      {
         "id": "urology__lecture__prostate-cancer",
         "name": "Prostate Cancer",
         "type": "lecture",
@@ -7490,6 +7722,229 @@
         "sourceType": "lecture"
       },
       {
+        "id": "urology__lecture__hematuria__1__1t004n",
+        "number": "1",
+        "text": "Which of the following best distinguishes true hematuria from hemoglobinuria or myoglobinuria?",
+        "options": [
+          "Dipstick testing",
+          "Microscopic presence of erythrocytes",
+          "Simultaneous presence of significant leukocytes",
+          "Examination of serum",
+          "Evaluation of hematocrit"
+        ],
+        "originalOptions": [
+          "Dipstick testing",
+          "Microscopic presence of erythrocytes",
+          "Simultaneous presence of significant leukocytes",
+          "Examination of serum",
+          "Evaluation of hematocrit"
+        ],
+        "correctAnswer": "B) Microscopic presence of erythrocytes",
+        "correctAnswerText": "Microscopic presence of erythrocytes",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Dipstick is positive for blood in all three conditions, but only true hematuria shows intact red blood cells on microscopic urinalysis.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Urology",
+        "subjectId": "urology",
+        "lectureName": "Hematuria",
+        "groupName": "Hematuria",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "urology__lecture__hematuria__2__1673w4",
+        "number": "2",
+        "text": "A patient reports blood appearing only at the very end of the urinary stream, after most of the urine has already passed. This pattern of terminal hematuria most suggests pathology arising from:",
+        "options": [
+          "Bladder neck or prostatic inflammation",
+          "Kidney stones",
+          "Urethral stricture disease",
+          "Bladder calculi",
+          "Bladder cancer"
+        ],
+        "originalOptions": [
+          "Bladder neck or prostatic inflammation",
+          "Kidney stones",
+          "Urethral stricture disease",
+          "Bladder calculi",
+          "Bladder cancer"
+        ],
+        "correctAnswer": "A) Bladder neck or prostatic inflammation",
+        "correctAnswerText": "Bladder neck or prostatic inflammation",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Initial hematuria localizes to the urethra, total hematuria to the bladder or upper tract, and terminal hematuria to the bladder neck or prostatic urethra.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Urology",
+        "subjectId": "urology",
+        "lectureName": "Hematuria",
+        "groupName": "Hematuria",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "urology__lecture__hematuria__3__8od7sa",
+        "number": "3",
+        "text": "A 68-year-old smoker presents with a single episode of painless gross hematuria. Which diagnosis must be excluded first as the classic cause of painless gross hematuria in a patient over 50 years old?",
+        "options": [
+          "Renal calculi",
+          "Benign prostatic hyperplasia",
+          "Infection",
+          "Bladder cancer",
+          "Trauma"
+        ],
+        "originalOptions": [
+          "Renal calculi",
+          "Benign prostatic hyperplasia",
+          "Infection",
+          "Bladder cancer",
+          "Trauma"
+        ],
+        "correctAnswer": "D) Bladder cancer",
+        "correctAnswerText": "Bladder cancer",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Painless gross hematuria in a patient over 50 is bladder cancer until proven otherwise, warranting cystoscopy and upper tract imaging regardless of other findings.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Urology",
+        "subjectId": "urology",
+        "lectureName": "Hematuria",
+        "groupName": "Hematuria",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "urology__lecture__hematuria__4__trycf3",
+        "number": "4",
+        "text": "A normotensive patient is found to have isolated microscopic hematuria on routine urinalysis, with no other urinary symptoms and a normal examination. What is the most appropriate initial action?",
+        "options": [
+          "Observation with repeat urinalysis",
+          "Antibiotics",
+          "Cystoscopy",
+          "Diuretics"
+        ],
+        "originalOptions": [
+          "Observation with repeat urinalysis",
+          "Antibiotics",
+          "Cystoscopy",
+          "Diuretics"
+        ],
+        "correctAnswer": "A) Observation with repeat urinalysis",
+        "correctAnswerText": "Observation with repeat urinalysis",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Isolated, asymptomatic microscopic hematuria in a low-risk patient is initially managed conservatively with a repeat urinalysis rather than immediate invasive workup.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Urology",
+        "subjectId": "urology",
+        "lectureName": "Hematuria",
+        "groupName": "Hematuria",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "urology__lecture__hematuria__5__yua8sa",
+        "number": "5",
+        "text": "When taking a history from a patient presenting with hematuria, which combination of questions is most important to ask?",
+        "options": [
+          "Onset",
+          "Presence of clots",
+          "Timing of blood during urination",
+          "All of the above"
+        ],
+        "originalOptions": [
+          "Onset",
+          "Presence of clots",
+          "Timing of blood during urination",
+          "All of the above"
+        ],
+        "correctAnswer": "D) All of the above",
+        "correctAnswerText": "All of the above",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Onset, presence of clots, and timing during the urinary stream all help localize the source and severity of hematuria, so all should be asked.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Urology",
+        "subjectId": "urology",
+        "lectureName": "Hematuria",
+        "groupName": "Hematuria",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "urology__lecture__hematuria__6__gpq9fx",
+        "number": "6",
+        "text": "Hematuria in an adult should be treated as a warning sign of which of the following until proven otherwise?",
+        "options": [
+          "Renal cell carcinoma",
+          "Benign prostatic hyperplasia",
+          "Bladder cancer",
+          "Urinary tract infection"
+        ],
+        "originalOptions": [
+          "Renal cell carcinoma",
+          "Benign prostatic hyperplasia",
+          "Bladder cancer",
+          "Urinary tract infection"
+        ],
+        "correctAnswer": "C) Bladder cancer",
+        "correctAnswerText": "Bladder cancer",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "Although hematuria has many causes, it is classically taught that hematuria in an adult signals malignancy, most often bladder cancer, until excluded.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Urology",
+        "subjectId": "urology",
+        "lectureName": "Hematuria",
+        "groupName": "Hematuria",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "urology__lecture__hematuria__7__3kfes3",
+        "number": "7",
+        "text": "A 70-year-old male smoker presents with gross hematuria persisting for 3 months. What is the most appropriate next step in investigation?",
+        "options": [
+          "Urine analysis alone",
+          "CT urogram and cystoscopy",
+          "CT without contrast",
+          "Urine culture only"
+        ],
+        "originalOptions": [
+          "Urine analysis alone",
+          "CT urogram and cystoscopy",
+          "CT without contrast",
+          "Urine culture only"
+        ],
+        "correctAnswer": "B) CT urogram and cystoscopy",
+        "correctAnswerText": "CT urogram and cystoscopy",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Persistent gross hematuria in an older smoker requires full evaluation of both the upper tract (CT urogram) and lower tract (cystoscopy) to exclude urothelial malignancy.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Urology",
+        "subjectId": "urology",
+        "lectureName": "Hematuria",
+        "groupName": "Hematuria",
+        "sourceType": "lecture"
+      },
+      {
         "id": "urology__lecture__prostate-cancer__1__y57rbl",
         "number": "1",
         "text": "Which statement about carcinoma of the prostate is correct?",
@@ -9487,8 +9942,8 @@
         "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 146,
-    "totalLectures": 7,
+    "totalQuestions": 153,
+    "totalLectures": 8,
     "hasAiFolder": false
   }
 ]
