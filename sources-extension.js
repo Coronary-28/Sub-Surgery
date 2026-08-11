@@ -7,12 +7,12 @@
     const driveSources = [
         {
             subject: "Urology",
-            details: "<b>miniosce:</b> ( Serotonin / Waman A7yaha / Overdose / Aorta / Endorphin / Iris except group E )<br><b>Final:</b> ( Serotonin / Overdose / Vagus / Aorta / Endorphin / Iris )",
+            details: "<b>mini-OSCE:</b> ( Serotonin / Waman A7yaha / Overdose / Aorta / Endorphin / Iris except group E )<br><b>Final:</b> ( Serotonin / Overdose / Vagus / Aorta / Endorphin / Iris )",
             link: "https://drive.google.com/drive/folders/1W5pNrrT2kdvWrjLx-Q5ou0NlaMu5ng1Z"
         },
         {
             subject: "ENT",
-            details: "<b>Mini:</b> ( Serotonin / Waman A7yaha / Overdose / Vagus / Aorta / Endorphin / Iris )<br><b>Final:</b> ( Serotonin / Waman A7yaha / Vagus / Aorta / Endorphin / Iris )",
+            details: "<b>mini-OSCE:</b> ( Serotonin / Waman A7yaha / Overdose / Vagus / Aorta / Endorphin / Iris )<br><b>Final:</b> ( Serotonin / Waman A7yaha / Vagus / Aorta / Endorphin / Iris )",
             link: "https://drive.google.com/drive/folders/1LdRwc0G3EBkZis4aLIQm4AU3HcPUejEZ"
         }
     ];
@@ -191,7 +191,7 @@
         if (bismillahEl) {
             const triggerBtn = document.createElement('div');
             triggerBtn.className = 'sources-trigger-btn';
-            triggerBtn.textContent = 'لمعرفة مصادر الأسئلة اضغط هنا';
+            triggerBtn.textContent = 'اضغط هنا لمعرفة مصادر الأسئلة';
             
             triggerBtn.onclick = () => {
                 const modal = document.getElementById('sources-modal');
