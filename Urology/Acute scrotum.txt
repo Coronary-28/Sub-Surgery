@@ -1,0 +1,330 @@
+Which of the following diagnoses must be excluded first in a teenage boy presenting with acute left-sided testicular pain?
+A) Testicular torsion
+B) Epididymitis
+C) Orchitis
+D) Torsion of the testicular appendage
+E) Testicular tumor
+Correct Answer: A) Testicular torsion
+Explanation:
+Testicular torsion is a true surgical emergency — testicular salvage falls sharply after 6 hours, so it must always be excluded first in any acute scrotum presentation.
+###
+Regarding varicocele in young males, which of the following is true?
+A) More common on the left side
+B) Equal bilateral distribution
+C) Associated with renal malignancy
+D) More common on the right side
+Correct Answer: A) More common on the left side
+Explanation:
+The left testicular vein drains into the left renal vein at a right angle and is compressed by the "nutcracker effect" (aorta and SMA), causing higher venous pressure and predisposing to left-sided varicocele.
+###
+A 50-year-old man presents with dysuria, cloudy urine, and a tender, swollen right testis. What is the most likely diagnosis?
+A) Epididymitis
+B) Orchitis
+C) Torsion of the epididymal appendage
+D) Testicular tumor
+E) Testicular torsion
+Correct Answer: A) Epididymitis
+Explanation:
+An older man with dysuria (UTI symptoms) and a tender, swollen testis fits epididymitis, typically caused by E. coli and other Gram-negative bacilli in this age group.
+###
+What is the sonographic hallmark of testicular torsion?
+A) Increased epididymal blood flow
+B) Epididymal edema
+C) Absence of intratesticular blood flow
+D) The 'blue dot' sign
+E) Paratesticular fluid
+Correct Answer: C) Absence of intratesticular blood flow
+Explanation:
+Decreased or absent blood flow on scrotal Doppler ultrasound, with parenchymal heterogeneity, is the defining sonographic finding of testicular torsion.
+###
+What is the definitive treatment of testicular torsion?
+A) Immediate surgical exploration
+B) Antibiotics
+C) Observation
+D) Analgesics only
+Correct Answer: A) Immediate surgical exploration
+Explanation:
+Torsion requires urgent surgical detorsion and orchidopexy (with contralateral fixation), since testicular salvage is entirely time-dependent.
+###
+Which of the following is NOT a typical feature of testicular torsion?
+A) High-riding testis
+B) Absent cremasteric reflex
+C) Nausea and vomiting
+D) Urethral discharge
+E) Sudden severe scrotal pain
+Correct Answer: D) Urethral discharge
+Explanation:
+Urethral discharge suggests urethritis or an STI-related epididymo-orchitis, not torsion; torsion classically presents with sudden pain, a high-riding testis, and an absent cremasteric reflex.
+###
+Which of the following is NOT a sign of spermatic cord torsion?
+A) Positive Prehn sign
+B) Transverse lie of testis
+C) Absent cremasteric reflex
+D) Nausea and vomiting
+Correct Answer: A) Positive Prehn sign
+Explanation:
+Prehn's sign (pain relief with testicular elevation) is positive in epididymitis, not torsion — in torsion, elevation does not relieve pain.
+###
+Which of the following statements about epididymo-orchitis is true?
+A) Pain increases when the scrotum is elevated
+B) It is commonly caused by E. coli in sexually active young men
+C) It is typically caused by Chlamydia in a 6-year-old boy
+D) Recurrent epididymo-orchitis may result from a congenital cause
+Correct Answer: D) Recurrent epididymo-orchitis may result from a congenital cause
+Explanation:
+Recurrent epididymo-orchitis can result from an underlying congenital abnormality; Prehn's sign (pain relief, not increase, with elevation) favors epididymitis, and Chlamydia/gonorrhea (not E. coli) are typical in sexually active young men, while E. coli predominates in prepubertal boys and older men.
+###
+A man presents with a palpable right-sided varicocele of 3 months' onset, with no varicocele on the left side. Testis longitudinal axis is 5 cm bilaterally, and semen analysis reveals volume 2.0 mL, density 33 million/mL, and motility 38%. What is the next step?
+A) Surgery
+B) Detailed sperm morphology analysis
+C) Renal ultrasound
+D) CT scan
+Correct Answer: C) Renal ultrasound
+Explanation:
+An isolated right-sided varicocele is atypical and raises suspicion for a retroperitoneal mass (e.g., RCC) compressing the right testicular vein before it enters the IVC — renal ultrasound is the appropriate initial screening step.
+###
+A case of an isolated right-sided varicocele. What is the next step?
+A) Varicocelectomy
+B) Scrotal ultrasound
+C) CT abdomen
+Correct Answer: C) CT abdomen
+Explanation:
+Renal ultrasound would be the preferred first step if listed; here, CT abdomen is chosen since scrotal ultrasound only confirms the varicocele itself and cannot assess for an underlying retroperitoneal obstructing mass.
+###
+What are the typical clinical manifestations of varicocele?
+A) Pain only
+B) Infertility only
+C) Both pain and infertility
+D) Neither pain nor infertility
+Correct Answer: C) Both pain and infertility
+Explanation:
+Most varicoceles are asymptomatic, but when symptomatic they can cause chronic testicular heaviness/pain and impaired spermatogenesis leading to infertility.
+###
+A child presents to the ER with right-sided painful scrotal swelling for 5 hours, an absent cremasteric reflex, and a transverse testicular lie. He ate food 2 hours ago. What is the best management?
+A) Antibiotics
+B) Wait 4 hours before surgery due to recent food intake
+C) Immediate surgical exploration
+D) Elective surgery the next day
+Correct Answer: C) Immediate surgical exploration
+Explanation:
+This presentation is classic for testicular torsion; surgical exploration must not be delayed for fasting status, since testicular viability is time-dependent.
+###
+What is the characteristic Doppler ultrasound finding in testicular torsion?
+A) Increased blood flow
+B) Normal blood flow
+C) Absent blood flow
+D) Reactive hyperemia
+Correct Answer: C) Absent blood flow
+Explanation:
+Decreased or absent intratesticular blood flow on Doppler ultrasound is the hallmark finding confirming torsion.
+###
+Which sonographic finding is most characteristic of testicular torsion?
+A) Hyperechoic testis
+B) Absence of intratesticular blood flow
+C) Scrotal wall thickening
+D) Increased vascularity
+Correct Answer: B) Absence of intratesticular blood flow
+Explanation:
+Loss of intratesticular blood flow on Doppler ultrasound, along with parenchymal heterogeneity, confirms the diagnosis of torsion.
+###
+A patient presents with scrotal pain, tenderness, a high-riding testicle, scrotal swelling, and a normal CBC. What is the next step in management?
+A) Scrotal ultrasound
+B) Immediate surgical exploration
+C) Antibiotics and observation
+D) CT scan of the pelvis
+Correct Answer: B) Immediate surgical exploration
+Explanation:
+When the clinical picture is classic for torsion, surgical exploration should not be delayed for imaging, since time to detorsion directly determines testicular salvage.
+###
+What is the most common age group for testicular torsion?
+A) Less than 10 years
+B) 12–18 years old
+C) More than 60 years old
+D) 20–30 years old
+Correct Answer: B) 12–18 years old
+Explanation:
+Testicular torsion peaks around puberty (approximately 12–16 years), commonly attributed to the bell-clapper deformity combined with rapid testicular growth at this age.
+###
+What are the indications for surgical repair of a varicocele?
+A) Infertility
+B) Pain
+C) Testicular atrophy
+D) All of the above
+Correct Answer: D) All of the above
+Explanation:
+Surgical repair of varicocele is indicated for pain, infertility, or testicular atrophy.
+###
+A 17-year-old male presents with sudden testicular pain for 5 hours and an absent cremasteric reflex. Doppler ultrasound shows decreased blood flow. What is the next step?
+A) Immediate exploration and untwisting
+B) Discharge patient home
+C) Give analgesia, antibiotics, and discharge home
+D) Observe for 12 hours before deciding
+Correct Answer: A) Immediate exploration and untwisting
+Explanation:
+The clinical and Doppler findings confirm testicular torsion, which requires immediate surgical exploration and detorsion to salvage the testis.
+###
+The cremaster muscle is innervated by the:
+A) Terminal branches of the subcostal nerve (T12)
+B) Femoral branch of the genitofemoral nerve
+C) Iliohypogastric nerve
+D) Genital branch of the genitofemoral nerve
+E) Ilioinguinal nerve
+Correct Answer: D) Genital branch of the genitofemoral nerve
+Explanation:
+The genital branch of the genitofemoral nerve is the motor (efferent) limb of the cremasteric reflex, supplying the cremaster muscle.
+###
+In a sexually active man under 35 years old presenting with epididymitis, which organism is the most likely cause?
+A) E. coli
+B) Chlamydia trachomatis
+C) Proteus
+D) Candida
+Correct Answer: B) Chlamydia trachomatis
+Explanation:
+In sexually active males aged 14–35 with multiple partners, epididymitis is usually caused by Chlamydia trachomatis or Neisseria gonorrhoeae, whereas E. coli is more typical in older men or those with anatomical/functional abnormalities.
+###
+Which of the following is a sign of testicular torsion?
+A) Increased cremasteric reflex
+B) Absent cremasteric reflex
+C) Painless swelling
+D) Positive transillumination
+Correct Answer: B) Absent cremasteric reflex
+Explanation:
+An absent cremasteric reflex, along with a high-riding testis and sudden severe pain, is a classic sign of testicular torsion.
+###
+A 14-year-old boy wakes up at night with sudden onset of severe left testicular pain associated with nausea and vomiting. On examination, the left testis is high-riding with a horizontal lie, and the cremasteric reflex is absent. How would this pain most likely be described?
+A) Mild and gradual
+B) Sudden severe scrotal pain
+C) Chronic painless pain
+D) Only during urination
+Correct Answer: B) Sudden severe scrotal pain
+Explanation:
+Testicular torsion classically presents with sudden, severe unilateral scrotal pain, often accompanied by nausea and vomiting, in contrast to the more insidious onset seen in epididymitis.
+###
+A young male presents with sudden onset of severe unilateral testicular pain for the past 4 hours. The ultrasound sonographer will not be available for another 4 hours. What is the most appropriate next step?
+A) Wait for scrotal Doppler ultrasound before deciding management
+B) Immediate surgical exploration without waiting for imaging
+C) Give analgesia and reassess in 4 hours
+D) Start empirical antibiotics and observe
+Correct Answer: B) Immediate surgical exploration without waiting for imaging
+Explanation:
+When the clinical picture is classic for testicular torsion, surgical exploration should never be delayed for imaging, since testicular salvage is entirely time-dependent.
+###
+During scrotal exploration for suspected testicular torsion, the testis is found to be black and non-viable after detorsion and warm-pack observation. What is the most appropriate management?
+A) Orchidopexy of the affected testis
+B) Orchiectomy of the affected testis
+C) Biopsy and closure
+D) Leave in place and reassess in 24 hours
+Correct Answer: B) Orchiectomy of the affected testis
+Explanation:
+A black, non-viable testis that does not improve in color after detorsion and warm, soaked gauze application should be removed (orchiectomy), followed by fixation of the contralateral testis.
+###
+~Choose the correct answers~
+A young male presents with acute unilateral scrotal pain. Which of the following are recognized differential diagnoses for acute scrotum? (Select ALL that apply)
+A) Torsion of the testicular appendix
+B) Spermatocele
+C) Epididymo-orchitis
+D) Referred pain from a ureteral stone
+E) Complicated inguinoscrotal hernia
+Correct Answer: A) Torsion of the testicular appendix / C) Epididymo-orchitis / D) Referred pain from a ureteral stone / E) Complicated inguinoscrotal hernia
+Explanation:
+The differential diagnosis of acute scrotum includes testicular torsion, torsion of the testicular appendix, epididymo-orchitis, trauma, referred pain from a ureteral stone, and a complicated inguinoscrotal hernia.
+###
+Why is varicocele more commonly left-sided than right-sided?
+A) The left testicular artery is longer than the right
+B) The left testicular vein enters the left renal vein at a right angle, with added compression from the nutcracker effect
+C) The right testicular vein has a valve that prevents reflux
+D) The left testis has a higher metabolic rate requiring more venous drainage
+Correct Answer: B) The left testicular vein enters the left renal vein at a right angle, with added compression from the nutcracker effect
+Explanation:
+The left testicular vein drains into the left renal vein at a right angle and is compressed between the aorta and superior mesenteric artery (nutcracker effect), raising hydrostatic pressure and causing dilation and tortuosity of the pampiniform plexus; the right testicular vein drains directly into the IVC at an oblique angle.
+###
+Which of the following correctly describes a clinical grading of varicocele on physical examination?
+A) Grade 1 — visible without Valsalva
+B) Grade 2 — palpable only with Valsalva
+C) Grade 3 — visible
+D) Grade 3 — palpable only with Valsalva
+Correct Answer: C) Grade 3 — visible
+Explanation:
+Varicocele is clinically graded as Grade 1 (palpable only with Valsalva), Grade 2 (palpable without Valsalva), and Grade 3 (visible).
+###
+On scrotal examination, a "bag of worms" texture on palpation of the spermatic cord is most suggestive of which diagnosis?
+A) Hydrocele
+B) Inguinal hernia
+C) Epididymal cyst
+D) Varicocele
+Correct Answer: D) Varicocele
+Explanation:
+A "bag of worms" texture on palpation of the spermatic cord, especially with the patient standing, is the classic finding of varicocele due to dilated, tortuous veins of the pampiniform plexus.
+###
+A large right scrotal swelling is examined as shown below. Which of the following best describes the diagnostic test being performed? [img: hydroceleandtransillumination.png]
+A) Transillumination test
+B) Prehn's sign
+C) Cremasteric reflex test
+D) Ballottement test
+Correct Answer: A) Transillumination test
+Explanation:
+Shining a light source through the scrotal swelling to check for illumination (as shown) is the transillumination test, classically positive in fluid-filled swellings such as hydrocele.
+###
+A patient presents with the scrotal swelling shown below. Which of the following is a recognized differential diagnosis for this presentation? [img: hydrocelewithouttransillumination.png]
+A) Hydrocele
+B) Inguinoscrotal hernia
+C) Testicular torsion
+D) Testicular tumor
+E) All of the above
+Correct Answer: E) All of the above
+Explanation:
+Scrotal swelling has a broad differential including hydrocele, inguinoscrotal hernia, testicular torsion, and testicular tumor; the correct diagnosis is narrowed down by history, examination (e.g., transillumination), and imaging.
+###
+A patient presents with the large, non-tender scrotal swelling shown below, which transilluminates with a positive red glow. What is the most likely diagnosis? [img: hydroceleandtransillumination.png]
+A) Hydrocele
+B) Inguinoscrotal hernia
+C) Testicular torsion
+D) Testicular tumor
+Correct Answer: A) Hydrocele
+Explanation:
+A smooth, non-tender scrotal swelling with positive transillumination is classic for hydrocele, a collection of serous fluid within the tunica vaginalis.
+###
+Regarding the condition shown below, which of the following best defines it? [img: hydrocelewithouttransillumination.png]
+A) A collection of serous fluid between the layers of the tunica vaginalis or along the spermatic cord
+B) A dilatation of the pampiniform plexus veins
+C) A protrusion of bowel through the inguinal canal into the scrotum
+D) A twisting of the spermatic cord compromising testicular blood supply
+Correct Answer: A) A collection of serous fluid between the layers of the tunica vaginalis or along the spermatic cord
+Explanation:
+This is the definition of a hydrocele, which may be communicating (patent processus vaginalis) or non-communicating.
+###
+Which of the following is a recognized clinical feature of the condition shown below? [img: hydroceleandtransillumination.png]
+A) Positive transillumination
+B) Non-palpable testis due to surrounding fluid
+C) Absence of tenderness
+D) All of the above
+Correct Answer: D) All of the above
+Explanation:
+Hydrocele classically presents with positive transillumination, a non-palpable testis obscured by the surrounding fluid, and absence of tenderness, distinguishing it from more acute or malignant scrotal conditions.
+###
+A patient presents with the scrotal finding shown below on standing examination. Which of the following best describes this finding? [img: leftvaricocele.png]
+A) Visible, dilated, tortuous veins producing a "bag of worms" appearance
+B) Smooth, non-tender swelling with positive transillumination
+C) A high-riding testis with absent cremasteric reflex
+D) A tender, swollen testis with normal skin overlying it
+Correct Answer: A) Visible, dilated, tortuous veins producing a "bag of worms" appearance
+Explanation:
+Visible dilated, tortuous veins without the need for palpation or Valsalva is the classic "bag of worms" appearance of a Grade III varicocele.
+###
+What is the most likely diagnosis for the scrotal finding shown below? [img: leftvaricocele.png]
+A) Large left-sided Grade III varicocele
+B) Right-sided communicating hydrocele
+C) Left testicular torsion
+D) Inguinoscrotal hernia
+Correct Answer: A) Large left-sided Grade III varicocele
+Explanation:
+The visible tortuous "bag of worms" appearance on the left side is diagnostic of a Grade III (visible) varicocele, which is typically left-sided due to the nutcracker effect on the left renal vein.
+###
+Regarding the condition shown below, which of the following is a recognized indication for surgical repair? [img: leftvaricocele.png]
+A) Infertility with abnormal semen parameters
+B) Persistent ipsilateral testicular hypotrophy
+C) Persistent scrotal pain despite conservative treatment
+D) All of the above
+Correct Answer: D) All of the above
+Explanation:
+Indications for varicocelectomy include infertility with abnormal semen analysis, testicular atrophy/hypotrophy, and persistent pain unresponsive to conservative measures.
