@@ -2,18 +2,13 @@
     'use strict';
 
     // ==========================================
-    // 1. قاعدة البيانات (تم تحديثها بمواد Urology و ENT)
+    // 1. قاعدة البيانات (مادة Urology)
     // ==========================================
     const driveSources = [
         {
             subject: "Urology",
             details: "<b>mini-OSCE:</b> ( Serotonin / Waman A7yaha / Overdose / Aorta / Endorphin / Iris except group E )<br><b>Final:</b> ( Serotonin / Overdose / Vagus / Aorta / Endorphin / Iris )",
             link: "https://drive.google.com/drive/folders/1W5pNrrT2kdvWrjLx-Q5ou0NlaMu5ng1Z"
-        },
-        {
-            subject: "ENT",
-            details: "<b>mini-OSCE:</b> ( Serotonin / Waman A7yaha / Overdose / Vagus / Aorta / Endorphin / Iris )<br><b>Final:</b> ( Serotonin / Waman A7yaha / Vagus / Aorta / Endorphin / Iris )",
-            link: "https://drive.google.com/drive/folders/1LdRwc0G3EBkZis4aLIQm4AU3HcPUejEZ"
         }
     ];
 
@@ -97,10 +92,10 @@
             font-size: 0.95rem;
             line-height: 1.6;
         }
-        /* تنسيق عمود المراجع ليكون مقروءاً بشكل أفضل */
+        /* تنسيق عمود المراجع ليكون من اليسار إلى اليمين */
         .sources-table td:nth-child(2) {
-            text-align: right;
-            direction: ltr; /* التفاصيل بالإنجليزية لذا نجعلها من اليسار لليمين داخل الخلية */
+            text-align: left;
+            direction: ltr;
         }
         .source-file-btn {
             background: #f97316 !important;
