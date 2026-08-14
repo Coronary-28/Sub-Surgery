@@ -1,0 +1,205 @@
+A young infertile male undergoes karyotype analysis. Which of the following is the most common genetic cause of male infertility?
+A) 47,XYY
+B) r(Y) (ring Y chromosome)
+C) 45,X0
+D) 46,XY/47,XXY mosaicism
+E) 47,XXY
+Correct Answer: E) 47,XXY
+Explanation:
+Klinefelter syndrome (47,XXY) is the most common sex chromosome abnormality and genetic cause of male infertility, presenting with small firm testes, azoospermia, and elevated FSH/LH with low testosterone.
+###
+Which of the following syndromes represents the most common chromosomal cause of male infertility?
+A) Kallmann syndrome
+B) Turner syndrome
+C) Klinefelter syndrome
+D) Noonan syndrome
+Correct Answer: C) Klinefelter syndrome
+Explanation:
+Klinefelter syndrome (47,XXY) is the most common chromosomal abnormality causing male infertility by leading to primary testicular failure and azoospermia, whereas Kallmann syndrome is a genetic hormone disorder (hypogonadotropic hypogonadism) rather than a chromosomal aneuploidy, Turner syndrome exclusively affects females (45,X), and Noonan syndrome is an autosomal dominant genetic condition not characterized by a chromosomal number defect.
+###
+What is the first-line investigation of choice for a male presenting with infertility?
+A) Seminal fluid analysis
+B) Hormonal profile only
+C) Scrotal ultrasound
+D) Karyotyping
+Correct Answer: A) Seminal fluid analysis
+Explanation:
+Semen analysis (seminal fluid analysis) is the first-line investigation in male infertility, assessing volume, sperm concentration, motility, and morphology; hormonal testing, ultrasound, and karyotyping are reserved for further work-up based on initial findings.
+###
+Infertility in males with cystic fibrosis is most commonly caused by which of the following?
+A) Immotile sperm (primary ciliary dyskinesia)
+B) Congenital bilateral absence of the vas deferens
+C) Necrospermia
+D) Retrograde ejaculation
+Correct Answer: B) Congenital bilateral absence of the vas deferens
+Explanation:
+CFTR gene mutations in cystic fibrosis lead to CBAVD; spermatogenesis is normal, but the resulting obstructive azoospermia causes infertility.
+###
+Which of the following is the primary inhibitor of LH release from the anterior pituitary?
+A) FSH
+B) Inhibin B
+C) Testosterone
+D) Prolactin
+Correct Answer: C) Testosterone
+Explanation:
+Testosterone provides negative feedback on both the hypothalamus (↓GnRH) and pituitary (↓LH). Inhibin B, secreted by Sertoli cells, selectively inhibits FSH rather than LH.
+###
+Oligospermia is best defined as:
+A) Reduced sperm motility
+B) Complete absence of sperm in the ejaculate
+C) A low sperm concentration below the reference threshold
+D) An abnormal percentage of sperm forms on morphology
+Correct Answer: C) A low sperm concentration below the reference threshold
+Explanation:
+Oligospermia: sperm count less than 15 x10⁶/mL , A: Asthenospermia , B: Azoospermia , D: Teratospermia .
+###
+Teratospermia refers to which of the following semen abnormalities?
+A) Absence of sperm in the ejaculate
+B) Abnormal sperm motility
+C) Abnormal sperm count
+D) Abnormal sperm morphology
+Correct Answer: D) Abnormal sperm morphology
+Explanation:
+Teratospermia: sperm morphology below the lower reference limit of normal forms (WHO lower limit ~4% normal forms) , A: Azoospermia , B: Asthenospermia , C: Oligospermia .
+###
+The majority of seminal fluid volume is contributed by which structure?
+A) Seminal vesicles
+B) Prostate gland
+C) Bulbourethral (Cowper's) glands
+D) Epididymis
+Correct Answer: A) Seminal vesicles
+Explanation:
+The seminal vesicles contribute the majority of seminal fluid volume, while the prostate contributes about 1/6, and sperm contribute only about 1%.
+###
+At which life stages do the major physiological peaks of testosterone production occur in males?
+A) Neonatal period and adulthood only
+B) Puberty and age 50 only
+C) Puberty, age 50, and age 70
+D) Embryonic (fetal) development, the neonatal period, and puberty
+Correct Answer: D) Embryonic (fetal) development, the neonatal period, and puberty
+Explanation:
+Testosterone peaks at three distinct life stages: embryonic development, the first few months of neonatal life (mini-puberty), and puberty — driving prostatic and genital development at each stage.
+###
+A young male bodybuilder using exogenous testosterone is most likely to experience which effect on his fertility?
+A) Increased fertility due to higher androgen levels
+B) Decreased fertility due to suppression of pituitary FSH and LH
+C) No effect on fertility
+D) Fertility effects depend only on the route of administration
+Correct Answer: B) Decreased fertility due to suppression of pituitary FSH and LH
+Explanation:
+Exogenous testosterone suppresses hypothalamic-pituitary GnRH/FSH/LH secretion via negative feedback, lowering intratesticular testosterone and impairing spermatogenesis, unlike endogenous testicular testosterone.
+###
+A patient presents with infertility, small testes, azoospermia, and an elevated FSH level. This clinical picture is most consistent with which of the following?
+A) Hypogonadotropic hypogonadism (central/secondary cause)
+B) Hypergonadotropic hypogonadism (primary testicular failure)
+C) Obstructive azoospermia
+D) Antisperm antibody-mediated infertility
+Correct Answer: B) Hypergonadotropic hypogonadism (primary testicular failure)
+Explanation:
+Small testes, azoospermia, and elevated FSH indicate primary testicular failure (which is synonymous with hypergonadotropic hypogonadism) ; hypogonadotropic hypogonadism instead presents with low FSH/LH , and obstructive azoospermia typically has a normal FSH.
+###
+In a patient with azoospermia, which hormone finding suggests an obstructive cause rather than testicular failure?
+A) Elevated LH
+B) Elevated FSH
+C) Normal FSH
+D) Decreased FSH
+Correct Answer: C) Normal FSH
+Explanation:
+Obstructive azoospermia typically shows a normal FSH because spermatogenesis is intact, whereas non-obstructive azoospermia (testicular failure) shows an elevated FSH due to loss of Sertoli cell inhibin feedback.
+###
+The anatomical basis of the blood-testis barrier is formed by which of the following?
+A) The basement membrane of the seminiferous tubule
+B) Tight junctions between adjacent Sertoli cells
+C) Leydig cells within the interstitium
+D) Endothelial cells of testicular capillaries
+Correct Answer: B) Tight junctions between adjacent Sertoli cells
+Explanation:
+Sertoli cells are linked by tight junctions that form the blood-testis barrier, creating an immunologically privileged compartment for developing sperm, which form only after puberty.
+###
+Which of the following is a recognized complication of cryptorchidism?
+A) Kidney failure
+B) Recurrent UTI only
+C) Bladder cancer
+D) Infertility
+Correct Answer: D) Infertility
+Explanation:
+Cryptorchidism impairs fertility due to an unfavorable thermal environment for spermatogenesis; it also raises the risk of testicular (not bladder) cancer.
+###
+What is the karyotype of Klinefelter syndrome?
+A) 46,XY
+B) 47,XXY
+C) 45,XO
+D) 46,XX
+Correct Answer: B) 47,XXY
+Explanation:
+Klinefelter syndrome is caused by an extra X chromosome (47,XXY), resulting in small firm testes, gynecomastia, tall stature, and hypergonadotropic hypogonadism with infertility.
+###
+Infertility is defined as the failure of a couple to achieve pregnancy after which duration of regular, unprotected sexual intercourse?
+A) 3 months
+B) 6 months
+C) 12 months
+D) 18 months
+E) 24 months
+Correct Answer: C) 12 months
+Explanation:
+Infertility is defined as failure to conceive after 12 months of regular, unprotected intercourse; shorter periods (3–6 months) are not sufficient to establish the diagnosis since most couples conceive within a year.
+###
+Which of the following pairs correctly represents the prevalence of varicocele in the general male population versus in infertile men?
+A) General population 5% — Infertile men 15%
+B) General population 15% — Infertile men 35–40%
+C) General population 40% — Infertile men 60%
+D) General population 15% — Infertile men 20%
+E) General population 25% — Infertile men 35%
+Correct Answer: B) General population 15% — Infertile men 35–40%
+Explanation:
+Varicocele affects about 15% of the general male population but is found in roughly 35–40% of infertile men, and is even more common in men with secondary infertility.
+###
+Which of the following is considered a favorable prognostic factor in male infertility?
+A) Long duration of infertility
+B) Older female partner age
+C) Short duration of infertility
+D) Absence of previous pregnancy with the same partner
+E) Severe teratospermia
+Correct Answer: C) Short duration of infertility
+Explanation:
+A shorter duration of infertility, younger female partner age, and a history of previous conception are all favorable prognostic factors; the opposite findings (long duration, older maternal age, no prior pregnancy) indicate a poorer prognosis.
+###
+All of the following are recognized categories of causes of male infertility EXCEPT:
+A) Pre-testicular causes (endocrine/hypothalamic-pituitary)
+B) Testicular causes (e.g., varicocele, cryptorchidism, Klinefelter syndrome)
+C) Post-testicular causes (e.g., obstruction, ejaculatory dysfunction)
+D) Idiopathic infertility
+E) Purely psychological causes unrelated to any organic pathology
+Correct Answer: E) Purely psychological causes unrelated to any organic pathology
+Explanation:
+Male infertility is classified into pre-testicular, testicular, post-testicular, and idiopathic causes; a purely psychological category unrelated to organic pathology is not part of this recognized classification.
+###
+All of the following are recognized causes of obstructive azoospermia EXCEPT:
+A) Congenital bilateral absence of the vas deferens
+B) Previous vasectomy
+C) Epididymal obstruction following infection
+D) Ejaculatory duct obstruction
+E) Klinefelter syndrome
+Correct Answer: E) Klinefelter syndrome
+Explanation:
+CBAVD, vasectomy, post-infectious epididymal obstruction, and ejaculatory duct obstruction are classic causes of obstructive azoospermia with preserved spermatogenesis; Klinefelter syndrome causes non-obstructive (testicular failure) azoospermia due to primary testicular failure, not obstruction.
+###
+Which of the following statements regarding semen fluid analysis in obstructive azoospermia is correct?
+A) Typical obstructive azoospermia shows no sperm with usually normal semen volume; ejaculatory duct obstruction specifically shows low volume with acidic, low-fructose semen
+B) Typical obstructive azoospermia shows no sperm with low semen volume; ejaculatory duct obstruction shows normal volume with normal fructose
+C) Both typical obstructive azoospermia and ejaculatory duct obstruction show low semen volume and low fructose
+D) Both typical obstructive azoospermia and ejaculatory duct obstruction show normal semen volume and normal fructose
+E) Obstructive azoospermia is always associated with elevated FSH regardless of the level of obstruction
+Correct Answer: A) Typical obstructive azoospermia shows no sperm with usually normal semen volume; ejaculatory duct obstruction specifically shows low volume with acidic, low-fructose semen
+Explanation:
+In general, obstructive azoospermia preserves normal ejaculate volume since spermatogenesis is intact; however, ejaculatory duct obstruction or absent seminal vesicles is an important exception producing low-volume, acidic, low-fructose semen, and FSH remains normal since testicular function is preserved.
+###
+Which of the following pairs represents andrological conditions correctly associated with varicocele?
+A) Male infertility — Testicular hypotrophy/atrophy
+B) Retrograde ejaculation — Bladder cancer
+C) Priapism — Renal cell carcinoma
+D) Klinefelter syndrome — Testicular torsion
+E) Epididymo-orchitis — Prostate cancer
+Correct Answer: A) Male infertility — Testicular hypotrophy/atrophy
+Explanation:
+Varicocele is classically associated with male infertility (abnormal semen parameters) and testicular hypotrophy/atrophy due to impaired thermoregulation and venous stasis; the other listed pairings are unrelated conditions not causally linked to varicocele.
