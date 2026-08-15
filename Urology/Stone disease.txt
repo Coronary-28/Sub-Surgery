@@ -1,0 +1,560 @@
+Regarding the composition of urinary calculi, what is the most common stone type?
+A) Calcium oxalate
+B) Uric acid
+C) Calcium phosphate
+D) Struvite
+Correct Answer: A) Calcium oxalate
+Explanation:
+Calcium oxalate stones account for approximately 80% of all urinary calculi, making them by far the most common type.
+###
+Which of the following statements regarding kidney stones is FALSE?
+A) More common in males
+B) Can cause hematuria
+C) More common in females
+D) May need ESWL for treatment
+Correct Answer: C) More common in females
+Explanation:
+Kidney stones are actually 2–3 times more common in males, not females, which makes this statement false.
+###
+Regarding uric acid calculi, which of the following is correct?
+A) Occur less frequently after treatment with penicillamine
+B) Are typically well demonstrated by CT scan
+C) Can be dissolved by treatment with allopurinol
+D) Are the most common upper tract calculi
+E) Are characteristically radio-opaque
+Correct Answer: B) Are typically well demonstrated by CT scan
+Explanation:
+Uric acid stones are radiolucent on plain KUB but are well visualized on non-contrast CT, which detects virtually all stone types.
+###
+A patient presents with a urinary stone associated with fever, WBC count of 18,000, hydronephrosis, and abnormal creatinine. What is the best next step in management?
+A) Give NSAIDs and discharge
+B) Discharge on antibiotics and analgesics
+C) Admit for observation only
+D) Admit with JJ stent or nephrostomy
+Correct Answer: D) Admit with JJ stent or nephrostomy
+Explanation:
+An obstructed, infected kidney (fever, leukocytosis, hydronephrosis, renal impairment) is a urological emergency requiring urgent decompression with a JJ stent or percutaneous nephrostomy, not conservative management.
+###
+The most important factor in the formation of uric acid calculi is:
+A) Limited solubility of uric acid in acidic solution
+B) Concentration of uric acid in the urine
+C) Volume of urine
+D) Presence of symptomatic gout
+E) Excessive dietary intake of purines
+Correct Answer: A) Limited solubility of uric acid in acidic solution
+Explanation:
+Low urinary pH is the critical determinant of uric acid stone formation, since uric acid is poorly soluble in acidic urine regardless of the other listed factors.
+###
+A 75-year-old woman being investigated for recurrent UTIs (Proteus on culture) has a staghorn calculus on CT. What is the most likely stone composition?
+A) Calcium oxalate
+B) Struvite
+C) Uric acid
+D) Cystine
+E) Calcium phosphate
+Correct Answer: B) Struvite
+Explanation:
+Proteus produces urease, which splits urea into ammonia, alkalinizing the urine and favoring precipitation of magnesium ammonium phosphate (struvite) stones, classically forming staghorn calculi.
+###
+A 10-year-old boy presents with flank pain and hematuria of 12 hours' duration; all other findings are normal. What is the best imaging modality to diagnose the case?
+A) KUB
+B) CT without contrast
+C) MRI
+D) Ultrasound
+Correct Answer: D) Ultrasound
+Explanation:
+Ultrasound is preferred as the initial imaging modality in children to avoid radiation exposure from CT.
+###
+What causes the pain associated with a stone in the ureter?
+A) Irritation of intramural ureter
+B) Urinary extravasation from a ruptured calyceal fornix
+C) Obstruction of urine flow with distention of renal capsule
+D) Excessive ureteric peristalsis
+E) Irritation of ureteric mucosa
+Correct Answer: C) Obstruction of urine flow with distention of renal capsule
+Explanation:
+Ureteric colic results from acute distention of the collecting system and renal capsule secondary to obstruction, producing the characteristic fluctuating colicky pain.
+###
+The most significant factor contributing to stone formation in patients with struvite calculi is:
+A) Recurrent urinary tract infections
+B) Family history
+C) Hyperoxaluria
+D) Hypercalciuria
+E) Gouty diathesis
+Correct Answer: A) Recurrent urinary tract infections
+Explanation:
+Struvite (infection) stones form specifically in the setting of recurrent UTIs with urease-producing organisms such as Proteus, which alkalinize the urine.
+###
+Factors affecting the probability of spontaneous passage of ureteral calculi include all of the following EXCEPT:
+A) Duration of symptoms
+B) Degree of hydronephrosis
+C) Stone composition
+D) Stone location at presentation
+E) Stone size
+Correct Answer: C) Stone composition
+Explanation:
+Spontaneous passage is determined mainly by stone size, location, duration of symptoms, and degree of hydronephrosis — not by the chemical composition of the stone.
+###
+All of the following treatments of an obstructing ureteral calculus in a pregnant woman are acceptable EXCEPT:
+A) Ureteroscopy
+B) Placement of a double-J ureteral stent
+C) Placement of a nephrostomy drain
+D) Shockwave lithotripsy (SWL)
+E) Percutaneous nephrolithotomy (PCNL)
+Correct Answer: D) Shockwave lithotripsy (SWL)
+Explanation:
+ESWL is absolutely contraindicated in pregnancy; ureteroscopy and drainage procedures (JJ stent or nephrostomy) are the acceptable options.
+###
+Which of the following favors spontaneous passage of stones greater than 10 mm?
+A) None
+B) Lower ureter location
+C) Female gender
+D) Low fluid intake
+Correct Answer: A) None
+Explanation:
+Stones larger than 10 mm have a low likelihood of spontaneous passage regardless of location, gender, or hydration status; active intervention is generally required.
+###
+Which of the following is NOT a contraindication for ESWL?
+A) Pregnancy
+B) Bleeding disorders
+C) Uncontrolled hypertension
+D) Controlled diabetes mellitus
+E) Obstruction distal to the stone
+Correct Answer: D) Controlled diabetes mellitus
+Explanation:
+Well-controlled diabetes is not a contraindication to ESWL; true contraindications include pregnancy, coagulopathy, distal obstruction, and an arterial aneurysm near the stone.
+###
+Which of the following is NOT a contraindication to ESWL?
+A) Pregnancy
+B) Calcium oxalate stone
+C) Uncontrolled hypertension
+D) Bleeding tendency
+Correct Answer: B) Calcium oxalate stone
+Explanation:
+Stone composition such as calcium oxalate is not a contraindication to ESWL, unlike pregnancy, coagulopathy, and uncontrolled hypertension.
+###
+Distal renal tubular acidosis (dRTA) is associated with which type of stones?
+A) Calcium oxalate
+B) Uric acid
+C) Calcium phosphate
+D) Struvite
+Correct Answer: C) Calcium phosphate
+Explanation:
+dRTA causes an inability to acidify the urine, producing alkaline urine that predisposes to calcium phosphate stone formation along with nephrocalcinosis.
+###
+Carbonic anhydrase inhibitors (e.g., acetazolamide) are associated with which of the following stones?
+A) Calcium oxalate
+B) Uric acid
+C) Struvite
+D) Calcium phosphate
+Correct Answer: D) Calcium phosphate
+Explanation:
+Acetazolamide blocks bicarbonate reabsorption, producing alkaline urine that promotes calcium phosphate stone formation.
+###
+What are the components of an infection (struvite) stone?
+A) Magnesium, ammonium, and phosphate
+B) Magnesium only
+C) Calcium
+D) Uric acid
+Correct Answer: A) Magnesium, ammonium, and phosphate
+Explanation:
+Struvite (triple phosphate) stones are composed of magnesium ammonium phosphate, formed as a result of urease-producing bacterial infection.
+###
+Which of the following is NOT an inhibitor of stone crystallization in metastable urine?
+A) Citrate
+B) Phosphate
+C) Tamm-Horsfall protein
+D) Magnesium
+Correct Answer: B) Phosphate
+Explanation:
+Phosphate is a stone-forming component (part of calcium phosphate and struvite stones), not an inhibitor; citrate, Tamm-Horsfall protein, and magnesium are recognized inhibitors of crystallization.
+###
+A 40-year-old patient is diagnosed with a 1.5 cm renal stone and also has coagulopathy. What is the best treatment modality?
+A) Flexible ureteroscopy
+B) Observation
+C) ESWL
+D) PCNL
+Correct Answer: A) Flexible ureteroscopy
+Explanation:
+ESWL and PCNL are contraindicated in patients with bleeding disorders due to hemorrhage risk; ureteroscopy is a safer alternative in this setting.
+###
+A patient presents with a staghorn uric acid stone. Which of the following is the best treatment?
+A) Urine alkalinization
+B) Allopurinol
+C) Hydration
+D) ESWL
+Correct Answer: A) Urine alkalinization
+Explanation:
+Uric acid stones, even staghorn ones, can be dissolved through urinary alkalinization, avoiding the need for surgical intervention.
+###
+A patient presents with a lower ureteric stone measuring 8 mm. Which of the following is the best treatment?
+A) ESWL
+B) Observation
+C) Alpha-blocker
+D) Ureteroscopy
+Correct Answer: D) Ureteroscopy
+Explanation:
+For stones under 10 mm in the lower ureter, ureteroscopy is the recommended first-line treatment.
+###
+Which stone type is linked with inflammatory bowel disease (IBD)?
+A) Struvite
+B) Oxalate
+C) Cystine
+D) Uric acid
+Correct Answer: B) Oxalate
+Explanation:
+Fat malabsorption in IBD causes free fatty acids to bind calcium in the gut, leaving more free oxalate to be absorbed. This leads to enteric hyperoxaluria and the subsequent formation of calcium oxalate stones.
+###
+What is the cause of stones associated with short bowel syndrome?
+A) Hypocitraturia
+B) Hypoparathyroidism
+C) Hyperoxaluria
+D) Hyperuricosuria
+Correct Answer: C) Hyperoxaluria
+Explanation:
+Short bowel syndrome causes fat malabsorption leading to enteric hyperoxaluria, the same mechanism seen in inflammatory bowel disease.
+###
+What is the best management for small ureteric stones associated with infection?
+A) Urgent decompression (JJ stent or nephrostomy) plus antibiotics
+B) Observation alone
+C) Antibiotics plus medical expulsive therapy (alpha-blocker)
+D) Nephrostomy tube only without antibiotics
+Correct Answer: A) Urgent decompression (JJ stent or nephrostomy) plus antibiotics
+Explanation:
+An infected, obstructed urinary system is a urological emergency requiring urgent drainage combined with antibiotics; delaying decompression for medical expulsive therapy alone risks sepsis.
+###
+The ureter is divided radiologically into:
+A) Two parts
+B) Three parts
+C) Four parts
+D) Five parts
+Correct Answer: B) Three parts
+Explanation:
+Radiologically, the ureter is divided into upper (renal pelvis to upper border of sacrum), middle (over the sacrum), and lower (sacrum to bladder) segments.
+###
+What is the gold standard imaging for diagnosing urinary stones?
+A) KUB (plain X-ray)
+B) Ultrasound
+C) IVU
+D) Non-contrast CT (CT KUB)
+Correct Answer: D) Non-contrast CT (CT KUB)
+Explanation:
+Non-contrast CT has the highest sensitivity and specificity for detecting urinary stones, including radiolucent stones missed by KUB.
+###
+Resorptive hypercalciuria leading to calcium stones is usually due to:
+A) Primary hyperparathyroidism
+B) Sarcoidosis
+C) Vitamin D overdose
+D) Renal failure
+Correct Answer: A) Primary hyperparathyroidism
+Explanation:
+Primary hyperparathyroidism causes excessive bone resorption, leading to resorptive hypercalciuria and calcium stone formation.
+###
+Which type of stone is most commonly associated with UTI?
+A) Calcium oxalate
+B) Cystine
+C) Uric acid
+D) Struvite stone
+Correct Answer: D) Struvite stone
+Explanation:
+Struvite (infection) stones form specifically in association with urease-producing bacterial UTIs such as Proteus.
+###
+What is the most common cause of calcium oxalate stones?
+A) Hyperuricosuria
+B) Hypocitraturia
+C) Hypercalciuria
+D) Hyperoxaluria
+Correct Answer: C) Hypercalciuria
+Explanation:
+Hypercalciuria is the most common metabolic abnormality underlying calcium oxalate stone formation.
+###
+What is the most common cause of staghorn calculi?
+A) E. coli
+B) Proteus
+C) Klebsiella
+D) Pseudomonas
+Correct Answer: B) Proteus
+Explanation:
+Proteus is the classic urease-producing organism responsible for most infection (struvite) staghorn calculi.
+###
+What kind of stone grows in an alkaline environment?
+A) Calcium oxalate stone
+B) Uric acid stone
+C) Cystine stone
+D) Struvite stone
+Correct Answer: D) Struvite stone
+Explanation:
+Struvite stones form in alkaline urine created by urease-splitting bacteria, unlike uric acid and cystine stones, which favor acidic urine.
+###
+Uric acid stone formation is associated with:
+A) High urine pH
+B) Normal urine pH
+C) Low urine pH
+D) Fluctuating urine pH
+Correct Answer: C) Low urine pH
+Explanation:
+Uric acid is poorly soluble in acidic urine, so persistently low urinary pH is a key determinant of uric acid stone formation.
+###
+Which one is NOT a high-risk factor for stone formation?
+A) Hyperlipidemia
+B) Hypercalcemia
+C) Hyperuricosuria
+D) Recurrent UTI
+Correct Answer: A) Hyperlipidemia
+Explanation:
+Hyperlipidemia is not a recognized risk factor for urolithiasis, unlike hypercalcemia, hyperuricosuria, and recurrent UTI.
+###
+All of the following affect kidney stone formation EXCEPT:
+A) Hydration level
+B) Urinary pH
+C) Dietary intake
+D) Stone composition
+Correct Answer: D) Stone composition
+Explanation:
+Stone composition is a result of stone formation, not a factor that drives it; hydration, urinary pH, and diet are established contributing factors.
+###
+What is the appropriate advice for a patient with calcium oxalate stones?
+A) Increase fluid intake
+B) Decrease calcium intake
+C) Increase oxalate intake
+D) Restrict fluid intake
+Correct Answer: A) Increase fluid intake
+Explanation:
+Increasing fluid intake to maintain a high urine output is the single most effective measure to reduce stone recurrence; calcium restriction is not recommended as it can paradoxically increase oxalate absorption.
+###
+In which of the following cases is medical expulsive therapy (MET) indicated?
+A) 8 mm proximal stone with hydronephrosis
+B) 4 mm distal ureteral stone with normal findings and controlled pain
+C) Stone with an infected system
+D) Stone greater than 10 mm
+Correct Answer: B) 4 mm distal ureteral stone with normal findings and controlled pain
+Explanation:
+MET with alpha-blockers is appropriate for small, distal, uncomplicated stones with a high likelihood of spontaneous passage and well-controlled pain; larger stones, infection, or hydronephrosis warrant more active intervention.
+###
+A patient has a 4 mm proximal ureteric stone. What is the appropriate management?
+A) ESWL
+B) Double-J stent
+C) Ureteroscopy
+D) Medical expulsive therapy
+Correct Answer: D) Medical expulsive therapy
+Explanation:
+Small stones (<5 mm) have a high likelihood of spontaneous passage and are typically managed conservatively with medical expulsive therapy (e.g., alpha-blockers) and analgesia before considering active intervention.
+###
+An 8-year-old boy presents with flank pain and microscopic hematuria. What is the next step in management?
+A) Renal Ultrasound
+B) CT scan
+C) MRI
+D) KUB X-ray
+Correct Answer: A) Renal Ultrasound
+Explanation:
+Ultrasound is the preferred initial imaging modality in children to avoid unnecessary radiation exposure from CT.
+###
+Which of the following is NOT a characteristic feature of a KUB (Kidneys, Ureters, and Bladder) X-ray?
+A) It can detect the majority of stones
+B) It is of marginal value and cost-ineffective compared to its diagnostic benefit
+C) It is a simple, non-invasive imaging technique
+D) It exposes the patient to radiation
+Correct Answer: B) It is of marginal value and cost-ineffective compared to its diagnostic benefit
+Explanation:
+KUB is actually a cheap, useful modality mainly for monitoring known stones or treatment response, so describing it as cost-ineffective is not an accurate characteristic.
+###
+A patient has mild hydronephrosis and a 3 mm ureteric stone on CT abdomen, and also has a peptic ulcer. What is the next step?
+A) Give NSAIDs
+B) Double-J stent
+C) Give Tramadol
+D) Observation only
+Correct Answer: C) Give Tramadol
+Explanation:
+NSAIDs are contraindicated in patients with peptic ulcer disease, so tramadol is used as an alternative analgesic for renal colic in this setting.
+###
+A 60-year-old male with asthma has a 5 mm distal ureteric stone with mild hydronephrosis, and his pain improved with analgesia. What is the appropriate treatment?
+A) Give tramadol, tamsulosin, and antibiotics
+B) Double-J stent
+C) Give NSAIDs, tamsulosin, and antibiotics
+D) Emergency PCNL
+Correct Answer: A) Give tramadol, tamsulosin, and antibiotics
+Explanation:
+NSAIDs should be avoided in patients with asthma due to bronchospasm risk, so tramadol is used for analgesia, combined with tamsulosin for medical expulsive therapy.
+###
+In which of the following conditions is a full metabolic stone workup NOT routinely indicated?
+A) Uric acid stone
+B) Recurrent stone formation
+C) Osteoporosis
+D) Calcium oxalate stone
+Correct Answer: C) Osteoporosis
+Explanation:
+A full metabolic stone workup is reserved for high-risk stone formers based on stone type or recurrence, and is not routinely triggered by osteoporosis alone.
+###
+The best management of a 3 cm renal stone is:
+A) ESWL
+B) Flexible ureteroscopy
+C) Semi-rigid ureteroscopy
+D) Cystolitholapaxy
+E) PCNL
+Correct Answer: E) PCNL
+Explanation:
+PCNL is first-line for large renal stones (>2 cm) due to its superior stone clearance rate compared to ESWL or ureteroscopy.
+###
+A 27-year-old man with a 3-week history of intermittent mild right flank pain has a radiolucent 6x8 mm filling defect in the distal ureter with mild hydroureteronephrosis. Urinalysis shows pH 5.5, numerous urate crystals, and 8–10 RBC/hpf, with a negative urine culture. What is the most appropriate management?
+A) Allopurinol
+B) Open stone extraction
+C) ESWL
+D) PCNL
+E) Urinary alkalinization
+Correct Answer: E) Urinary alkalinization
+Explanation:
+The radiolucent stone, acidic urine, and urate crystals point to a uric acid stone, which can be dissolved by alkalinizing the urine with potassium citrate.
+###
+Which of the following is a radiolucent urinary stone?
+A) Calcium oxalate stone
+B) Struvite stone
+C) Cystine stone
+D) Uric acid stone
+Correct Answer: D) Uric acid stone
+Explanation:
+Uric acid stones are radiolucent on plain KUB films, unlike calcium-containing stones, which are radio-opaque.
+###
+A patient presents with acute flank pain, and the following image is obtained. Which imaging study is shown? [img: distaluretericcalculus.png]
+A) Retrograde urethrogram
+B) Non-contrast CT (CT KUB)
+C) Intravenous urography (IVU)
+D) MRI abdomen
+E) Cystoscopy
+Correct Answer: B) Non-contrast CT (CT KUB)
+Explanation:
+Non-contrast CT (CT KUB) is the standard cross-sectional imaging modality used to identify a hyperdense focus along the ureter, confirming a ureteric calculus.
+###
+A CT scan shows a small hyperdense focus along the distal ureter with mild proximal dilatation. What is the most likely diagnosis? [img: distaluretericcalculus.png]
+A) Ureteric tumor
+B) Blood clot
+C) Papillary necrosis fragment
+D) Distal ureteric calculus
+E) Ureterocele
+Correct Answer: D) Distal ureteric calculus
+Explanation:
+A focal hyperdense lesion within the ureter on non-contrast CT is the classic appearance of a ureteric stone, distinguishing it from soft-tissue lesions such as tumors or clots.
+###
+All of the following are appropriate management options for a distal ureteric stone EXCEPT:
+A) Medical expulsive therapy (analgesia ± tamsulosin)
+B) Ureteroscopy with laser lithotripsy
+C) ESWL in appropriately selected cases
+D) Percutaneous nephrolithotomy (PCNL)
+Correct Answer: D) Percutaneous nephrolithotomy (PCNL)
+Explanation:
+PCNL is reserved for large renal (staghorn) stones, not distal ureteric stones; MET, ureteroscopy, and ESWL are all appropriate options for distal ureteric calculi.
+###
+A KUB and renal ultrasound are performed in a patient with left flank pain. Which of the following pairs correctly matches the expected findings? [img: kubandurinaryultrasound.png]
+A) Radiopaque left ureteric stone — moderate left hydronephrosis
+B) Radiolucent left ureteric stone — normal right kidney
+C) Bilateral staghorn calculi — absent hydronephrosis
+D) Bladder mass — right hydronephrosis
+Correct Answer: A) Radiopaque left ureteric stone — moderate left hydronephrosis
+Explanation:
+KUB typically demonstrates radiopaque stones, while ultrasound is useful for detecting the resulting hydronephrosis from obstruction.
+###
+All of the following are indications for urgent intervention in a patient with an obstructing ureteric stone EXCEPT:
+A) Obstruction with infection/sepsis
+B) Bilateral ureteric obstruction
+C) Obstruction of a solitary kidney
+D) Mild pain adequately controlled with oral analgesia
+Correct Answer: D) Mild pain adequately controlled with oral analgesia
+Explanation:
+Well-controlled pain does not require urgent intervention, whereas infected obstruction, bilateral obstruction, and solitary kidney obstruction are true urological emergencies requiring urgent drainage.
+###
+Which of the following pairs both represent radiolucent stones on plain KUB?
+A) Uric acid — Cystine
+B) Calcium oxalate — Calcium phosphate
+C) Struvite — Calcium oxalate
+D) Cystine — Calcium phosphate
+Correct Answer: A) Uric acid — Cystine
+Explanation:
+Uric acid and cystine stones are radiolucent (or poorly radiopaque) on plain X-ray, unlike calcium-containing and struvite stones, which are radiopaque.
+###
+Which of the following pairs represents appropriate treatment options for an upper ureteric stone?
+A) ESWL — Ureteroscopy
+B) PCNL — Cystolitholapaxy
+C) Observation — Cystectomy
+D) Nephrectomy — Dialysis
+Correct Answer: A) ESWL — Ureteroscopy
+Explanation:
+ESWL and ureteroscopy are both established, minimally invasive options for treating upper ureteric stones, unlike the other pairs which are inappropriate or unrelated procedures.
+###
+What is the stone size cut-off below which spontaneous passage is most likely?
+A) 3 mm
+B) 5 mm
+C) 8 mm
+D) 10 mm
+Correct Answer: B) 5 mm
+Explanation:
+Stones ≤5 mm have a high likelihood of spontaneous passage, while stones >10 mm are unlikely to pass without intervention.
+###
+Regarding the kidney's hemodynamic response to acute unilateral ureteral obstruction (with a normal contralateral kidney), which of the following best describes the sequence of changes over time?
+A) Early (1–2 hours): increased renal blood flow via preglomerular vasodilation → Late (24 hours): decreased renal blood flow and GFR via vasoconstriction
+B) Early (1–2 hours): decreased renal blood flow → Late (24 hours): increased GFR
+C) Renal blood flow remains constant throughout the obstruction
+D) GFR increases progressively throughout the obstruction period
+Correct Answer: A) Early (1–2 hours): increased renal blood flow via preglomerular vasodilation → Late (24 hours): decreased renal blood flow and GFR via vasoconstriction
+Explanation:
+Acute obstruction initially causes vasodilation and increased renal blood flow, but by 24 hours vasoconstrictive mediators (e.g., angiotensin II, thromboxane A2) predominate, reducing renal blood flow and GFR.
+###
+All of the following dietary factors increase the risk of stone formation EXCEPT:
+A) High protein/meat intake
+B) High salt intake
+C) Chocolate and nuts
+D) High fluid intake
+Correct Answer: D) High fluid intake
+Explanation:
+High fluid intake is protective against stone formation by diluting urine and reducing supersaturation, unlike high protein, high salt, and oxalate-rich foods (chocolate and nuts), which all increase stone risk.
+###
+Which pair of stones characteristically forms in alkaline urine?
+A) Calcium phosphate — Struvite
+B) Uric acid — Cystine
+C) Calcium oxalate — Uric acid
+D) Struvite — Uric acid
+Correct Answer: A) Calcium phosphate — Struvite
+Explanation:
+Both calcium phosphate and struvite (infection) stones form in alkaline urine, whereas uric acid and cystine stones favor acidic urine.
+###
+What is the most appropriate treatment for a patient with an 8 mm mid-ureteric stone?
+A) Immediate PCNL
+B) Ureteroscopy (URS)
+C) Open surgical exploration
+D) Nephrectomy
+Correct Answer: B) Ureteroscopy (URS)
+Explanation:
+Ureteroscopy is the preferred treatment for mid-ureteric stones under 10 mm, offering high success rates with minimal invasiveness.
+###
+Which of the following is a recognized limitation of KUB X-ray in the diagnosis of urinary stones?
+A) It cannot detect radiolucent stones
+B) It requires intravenous contrast injection
+C) It is contraindicated in pregnancy
+D) It cannot detect any calcified stones
+Correct Answer: A) It cannot detect radiolucent stones
+Explanation:
+KUB relies on stone radiopacity, so radiolucent stones such as uric acid stones are not visualized, limiting its diagnostic utility compared to CT.
+###
+Which pair represents recognized adverse effects of ESWL?
+A) Hematuria — Perirenal hematoma
+B) Nephrotoxicity — Ototoxicity
+C) Urethral stricture — Bladder perforation
+D) Sepsis — Disseminated intravascular coagulation
+Correct Answer: A) Hematuria — Perirenal hematoma
+Explanation:
+Hematuria and perirenal hematoma are the classic adverse effects of ESWL due to shock-wave-induced tissue trauma, unlike the other listed complications which are associated with different procedures or drugs.
+###
+Which of the following correctly pairs stone types with their radiographic appearance on KUB?
+A) Uric acid — radiolucent; Calcium oxalate — radiopaque
+B) Struvite — radiolucent; Cystine — radiopaque
+C) Calcium phosphate — radiolucent; Uric acid — radiopaque
+D) Cystine — radiopaque; Calcium oxalate — radiolucent
+Correct Answer: A) Uric acid — radiolucent; Calcium oxalate — radiopaque
+Explanation:
+Uric acid stones are radiolucent while calcium oxalate stones are radiopaque on plain KUB, a key distinguishing feature used in stone classification.
+###
+Which of the following statements regarding staghorn calculi is correct?
+A) Composed of magnesium ammonium phosphate and best managed with PCNL
+B) Composed of uric acid and best managed with ESWL
+C) Composed of cystine and best managed with observation
+D) Composed of calcium oxalate and best managed with medical expulsive therapy
+Correct Answer: A) Composed of magnesium ammonium phosphate and best managed with PCNL
+Explanation:
+Staghorn calculi are typically struvite (magnesium ammonium phosphate) stones associated with urease-producing infections, and PCNL is the first-line treatment due to its high stone-free rate for large, complex renal stones.
