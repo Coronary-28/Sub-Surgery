@@ -5692,41 +5692,8 @@
         "path": "Urology/Infertility & Andrology.txt",
         "questions": [
           {
-            "id": "urology__lecture__infertility-andrology__1__to7bft",
+            "id": "urology__lecture__infertility-andrology__1__4ywuir",
             "number": "1",
-            "text": "A young infertile male undergoes karyotype analysis. Which of the following is the most common genetic cause of male infertility?",
-            "options": [
-              "47,XYY",
-              "r(Y) (ring Y chromosome)",
-              "45,X0",
-              "46,XY/47,XXY mosaicism",
-              "47,XXY"
-            ],
-            "originalOptions": [
-              "47,XYY",
-              "r(Y) (ring Y chromosome)",
-              "45,X0",
-              "46,XY/47,XXY mosaicism",
-              "47,XXY"
-            ],
-            "correctAnswer": "E) 47,XXY",
-            "correctAnswerText": "47,XXY",
-            "correctIndex": 4,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "E",
-            "explanation": "Klinefelter syndrome (47,XXY) is the most common sex chromosome abnormality and genetic cause of male infertility, presenting with small firm testes, azoospermia, and elevated FSH/LH with low testosterone.",
-            "batchName": "",
-            "pageNumber": "",
-            "subjectName": "Urology",
-            "subjectId": "urology",
-            "lectureName": "Infertility & Andrology",
-            "groupName": "Infertility & Andrology",
-            "sourceType": "lecture"
-          },
-          {
-            "id": "urology__lecture__infertility-andrology__2__4ywuir",
-            "number": "2",
             "text": "Which of the following syndromes represents the most common chromosomal cause of male infertility?",
             "options": [
               "Kallmann syndrome",
@@ -5756,8 +5723,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__infertility-andrology__3__vuc7c2",
-            "number": "3",
+            "id": "urology__lecture__infertility-andrology__2__vuc7c2",
+            "number": "2",
             "text": "What is the first-line investigation of choice for a male presenting with infertility?",
             "options": [
               "Seminal fluid analysis",
@@ -5787,8 +5754,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__infertility-andrology__4__z1qpou",
-            "number": "4",
+            "id": "urology__lecture__infertility-andrology__3__z1qpou",
+            "number": "3",
             "text": "Infertility in males with cystic fibrosis is most commonly caused by which of the following?",
             "options": [
               "Immotile sperm (primary ciliary dyskinesia)",
@@ -5818,8 +5785,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__infertility-andrology__5__xtj808",
-            "number": "5",
+            "id": "urology__lecture__infertility-andrology__4__xtj808",
+            "number": "4",
             "text": "Which of the following is the primary inhibitor of LH release from the anterior pituitary?",
             "options": [
               "FSH",
@@ -5849,8 +5816,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__infertility-andrology__6__jqk7o2",
-            "number": "6",
+            "id": "urology__lecture__infertility-andrology__5__jqk7o2",
+            "number": "5",
             "text": "Oligospermia is best defined as:",
             "options": [
               "Reduced sperm motility",
@@ -5880,8 +5847,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__infertility-andrology__7__ai0kpv",
-            "number": "7",
+            "id": "urology__lecture__infertility-andrology__6__ai0kpv",
+            "number": "6",
             "text": "Teratospermia refers to which of the following semen abnormalities?",
             "options": [
               "Absence of sperm in the ejaculate",
@@ -5911,8 +5878,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__infertility-andrology__8__85ehkp",
-            "number": "8",
+            "id": "urology__lecture__infertility-andrology__7__85ehkp",
+            "number": "7",
             "text": "The majority of seminal fluid volume is contributed by which structure?",
             "options": [
               "Seminal vesicles",
@@ -5942,8 +5909,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__infertility-andrology__9__4mylr0",
-            "number": "9",
+            "id": "urology__lecture__infertility-andrology__8__4mylr0",
+            "number": "8",
             "text": "At which life stages do the major physiological peaks of testosterone production occur in males?",
             "options": [
               "Neonatal period and adulthood only",
@@ -5973,8 +5940,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__infertility-andrology__10__tur01b",
-            "number": "10",
+            "id": "urology__lecture__infertility-andrology__9__tur01b",
+            "number": "9",
             "text": "A young male bodybuilder using exogenous testosterone is most likely to experience which effect on his fertility?",
             "options": [
               "Increased fertility due to higher androgen levels",
@@ -6004,8 +5971,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__infertility-andrology__11__zdwkhm",
-            "number": "11",
+            "id": "urology__lecture__infertility-andrology__10__zdwkhm",
+            "number": "10",
             "text": "A patient presents with infertility, small testes, azoospermia, and an elevated FSH level. This clinical picture is most consistent with which of the following?",
             "options": [
               "Hypogonadotropic hypogonadism (central/secondary cause)",
@@ -6035,8 +6002,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__infertility-andrology__12__1oye7y",
-            "number": "12",
+            "id": "urology__lecture__infertility-andrology__11__1oye7y",
+            "number": "11",
             "text": "In a patient with azoospermia, which hormone finding suggests an obstructive cause rather than testicular failure?",
             "options": [
               "Elevated LH",
@@ -6066,8 +6033,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__infertility-andrology__13__ructil",
-            "number": "13",
+            "id": "urology__lecture__infertility-andrology__12__ructil",
+            "number": "12",
             "text": "The anatomical basis of the blood-testis barrier is formed by which of the following?",
             "options": [
               "The basement membrane of the seminiferous tubule",
@@ -6097,8 +6064,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__infertility-andrology__14__nlgjub",
-            "number": "14",
+            "id": "urology__lecture__infertility-andrology__13__nlgjub",
+            "number": "13",
             "text": "Which of the following is a recognized complication of cryptorchidism?",
             "options": [
               "Kidney failure",
@@ -6128,8 +6095,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__infertility-andrology__15__ur6zwr",
-            "number": "15",
+            "id": "urology__lecture__infertility-andrology__14__ur6zwr",
+            "number": "14",
             "text": "What is the karyotype of Klinefelter syndrome?",
             "options": [
               "46,XY",
@@ -6159,8 +6126,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__infertility-andrology__16__g34gzp",
-            "number": "16",
+            "id": "urology__lecture__infertility-andrology__15__g34gzp",
+            "number": "15",
             "text": "Infertility is defined as the failure of a couple to achieve pregnancy after which duration of regular, unprotected sexual intercourse?",
             "options": [
               "3 months",
@@ -6192,8 +6159,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__infertility-andrology__17__8dtcf7",
-            "number": "17",
+            "id": "urology__lecture__infertility-andrology__16__8dtcf7",
+            "number": "16",
             "text": "Which of the following pairs correctly represents the prevalence of varicocele in the general male population versus in infertile men?",
             "options": [
               "General population 5% — Infertile men 15%",
@@ -6225,8 +6192,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__infertility-andrology__18__7cnhiu",
-            "number": "18",
+            "id": "urology__lecture__infertility-andrology__17__7cnhiu",
+            "number": "17",
             "text": "Which of the following is considered a favorable prognostic factor in male infertility?",
             "options": [
               "Long duration of infertility",
@@ -6258,8 +6225,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__infertility-andrology__19__pgq9gh",
-            "number": "19",
+            "id": "urology__lecture__infertility-andrology__18__pgq9gh",
+            "number": "18",
             "text": "All of the following are recognized categories of causes of male infertility EXCEPT:",
             "options": [
               "Pre-testicular causes (endocrine/hypothalamic-pituitary)",
@@ -6291,8 +6258,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__infertility-andrology__20__8sre7e",
-            "number": "20",
+            "id": "urology__lecture__infertility-andrology__19__8sre7e",
+            "number": "19",
             "text": "All of the following are recognized causes of obstructive azoospermia EXCEPT:",
             "options": [
               "Congenital bilateral absence of the vas deferens",
@@ -6324,8 +6291,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__infertility-andrology__21__nfb6db",
-            "number": "21",
+            "id": "urology__lecture__infertility-andrology__20__nfb6db",
+            "number": "20",
             "text": "Which of the following statements regarding semen fluid analysis in obstructive azoospermia is correct?",
             "options": [
               "Typical obstructive azoospermia shows no sperm with usually normal semen volume; ejaculatory duct obstruction specifically shows low volume with acidic, low-fructose semen",
@@ -6357,8 +6324,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__infertility-andrology__22__63jo1y",
-            "number": "22",
+            "id": "urology__lecture__infertility-andrology__21__63jo1y",
+            "number": "21",
             "text": "Which of the following pairs represents andrological conditions correctly associated with varicocele?",
             "options": [
               "Male infertility — Testicular hypotrophy/atrophy",
@@ -6381,6 +6348,39 @@
             "isMultiple": false,
             "correctAnswerLetter": "A",
             "explanation": "Varicocele is classically associated with male infertility (abnormal semen parameters) and testicular hypotrophy/atrophy due to impaired thermoregulation and venous stasis; the other listed pairings are unrelated conditions not causally linked to varicocele.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Urology",
+            "subjectId": "urology",
+            "lectureName": "Infertility & Andrology",
+            "groupName": "Infertility & Andrology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "urology__lecture__infertility-andrology__22__to7bft",
+            "number": "22",
+            "text": "A young infertile male undergoes karyotype analysis. Which of the following is the most common genetic cause of male infertility?",
+            "options": [
+              "47,XXY",
+              "r(Y) (ring Y chromosome)",
+              "45,X0",
+              "46,XY/47,XXY mosaicism",
+              "47,XYY"
+            ],
+            "originalOptions": [
+              "47,XXY",
+              "r(Y) (ring Y chromosome)",
+              "45,X0",
+              "46,XY/47,XXY mosaicism",
+              "47,XYY"
+            ],
+            "correctAnswer": "A) 47,XXY",
+            "correctAnswerText": "47,XXY",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Klinefelter syndrome (47,XXY) is the most common sex chromosome abnormality and genetic cause of male infertility, presenting with small firm testes, azoospermia, and elevated FSH/LH with low testosterone.",
             "batchName": "",
             "pageNumber": "",
             "subjectName": "Urology",
@@ -18607,41 +18607,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__1__to7bft",
+        "id": "urology__lecture__infertility-andrology__1__4ywuir",
         "number": "1",
-        "text": "A young infertile male undergoes karyotype analysis. Which of the following is the most common genetic cause of male infertility?",
-        "options": [
-          "47,XYY",
-          "r(Y) (ring Y chromosome)",
-          "45,X0",
-          "46,XY/47,XXY mosaicism",
-          "47,XXY"
-        ],
-        "originalOptions": [
-          "47,XYY",
-          "r(Y) (ring Y chromosome)",
-          "45,X0",
-          "46,XY/47,XXY mosaicism",
-          "47,XXY"
-        ],
-        "correctAnswer": "E) 47,XXY",
-        "correctAnswerText": "47,XXY",
-        "correctIndex": 4,
-        "correctIndices": [],
-        "isMultiple": false,
-        "correctAnswerLetter": "E",
-        "explanation": "Klinefelter syndrome (47,XXY) is the most common sex chromosome abnormality and genetic cause of male infertility, presenting with small firm testes, azoospermia, and elevated FSH/LH with low testosterone.",
-        "batchName": "",
-        "pageNumber": "",
-        "subjectName": "Urology",
-        "subjectId": "urology",
-        "lectureName": "Infertility & Andrology",
-        "groupName": "Infertility & Andrology",
-        "sourceType": "lecture"
-      },
-      {
-        "id": "urology__lecture__infertility-andrology__2__4ywuir",
-        "number": "2",
         "text": "Which of the following syndromes represents the most common chromosomal cause of male infertility?",
         "options": [
           "Kallmann syndrome",
@@ -18671,8 +18638,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__3__vuc7c2",
-        "number": "3",
+        "id": "urology__lecture__infertility-andrology__2__vuc7c2",
+        "number": "2",
         "text": "What is the first-line investigation of choice for a male presenting with infertility?",
         "options": [
           "Seminal fluid analysis",
@@ -18702,8 +18669,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__4__z1qpou",
-        "number": "4",
+        "id": "urology__lecture__infertility-andrology__3__z1qpou",
+        "number": "3",
         "text": "Infertility in males with cystic fibrosis is most commonly caused by which of the following?",
         "options": [
           "Immotile sperm (primary ciliary dyskinesia)",
@@ -18733,8 +18700,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__5__xtj808",
-        "number": "5",
+        "id": "urology__lecture__infertility-andrology__4__xtj808",
+        "number": "4",
         "text": "Which of the following is the primary inhibitor of LH release from the anterior pituitary?",
         "options": [
           "FSH",
@@ -18764,8 +18731,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__6__jqk7o2",
-        "number": "6",
+        "id": "urology__lecture__infertility-andrology__5__jqk7o2",
+        "number": "5",
         "text": "Oligospermia is best defined as:",
         "options": [
           "Reduced sperm motility",
@@ -18795,8 +18762,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__7__ai0kpv",
-        "number": "7",
+        "id": "urology__lecture__infertility-andrology__6__ai0kpv",
+        "number": "6",
         "text": "Teratospermia refers to which of the following semen abnormalities?",
         "options": [
           "Absence of sperm in the ejaculate",
@@ -18826,8 +18793,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__8__85ehkp",
-        "number": "8",
+        "id": "urology__lecture__infertility-andrology__7__85ehkp",
+        "number": "7",
         "text": "The majority of seminal fluid volume is contributed by which structure?",
         "options": [
           "Seminal vesicles",
@@ -18857,8 +18824,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__9__4mylr0",
-        "number": "9",
+        "id": "urology__lecture__infertility-andrology__8__4mylr0",
+        "number": "8",
         "text": "At which life stages do the major physiological peaks of testosterone production occur in males?",
         "options": [
           "Neonatal period and adulthood only",
@@ -18888,8 +18855,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__10__tur01b",
-        "number": "10",
+        "id": "urology__lecture__infertility-andrology__9__tur01b",
+        "number": "9",
         "text": "A young male bodybuilder using exogenous testosterone is most likely to experience which effect on his fertility?",
         "options": [
           "Increased fertility due to higher androgen levels",
@@ -18919,8 +18886,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__11__zdwkhm",
-        "number": "11",
+        "id": "urology__lecture__infertility-andrology__10__zdwkhm",
+        "number": "10",
         "text": "A patient presents with infertility, small testes, azoospermia, and an elevated FSH level. This clinical picture is most consistent with which of the following?",
         "options": [
           "Hypogonadotropic hypogonadism (central/secondary cause)",
@@ -18950,8 +18917,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__12__1oye7y",
-        "number": "12",
+        "id": "urology__lecture__infertility-andrology__11__1oye7y",
+        "number": "11",
         "text": "In a patient with azoospermia, which hormone finding suggests an obstructive cause rather than testicular failure?",
         "options": [
           "Elevated LH",
@@ -18981,8 +18948,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__13__ructil",
-        "number": "13",
+        "id": "urology__lecture__infertility-andrology__12__ructil",
+        "number": "12",
         "text": "The anatomical basis of the blood-testis barrier is formed by which of the following?",
         "options": [
           "The basement membrane of the seminiferous tubule",
@@ -19012,8 +18979,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__14__nlgjub",
-        "number": "14",
+        "id": "urology__lecture__infertility-andrology__13__nlgjub",
+        "number": "13",
         "text": "Which of the following is a recognized complication of cryptorchidism?",
         "options": [
           "Kidney failure",
@@ -19043,8 +19010,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__15__ur6zwr",
-        "number": "15",
+        "id": "urology__lecture__infertility-andrology__14__ur6zwr",
+        "number": "14",
         "text": "What is the karyotype of Klinefelter syndrome?",
         "options": [
           "46,XY",
@@ -19074,8 +19041,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__16__g34gzp",
-        "number": "16",
+        "id": "urology__lecture__infertility-andrology__15__g34gzp",
+        "number": "15",
         "text": "Infertility is defined as the failure of a couple to achieve pregnancy after which duration of regular, unprotected sexual intercourse?",
         "options": [
           "3 months",
@@ -19107,8 +19074,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__17__8dtcf7",
-        "number": "17",
+        "id": "urology__lecture__infertility-andrology__16__8dtcf7",
+        "number": "16",
         "text": "Which of the following pairs correctly represents the prevalence of varicocele in the general male population versus in infertile men?",
         "options": [
           "General population 5% — Infertile men 15%",
@@ -19140,8 +19107,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__18__7cnhiu",
-        "number": "18",
+        "id": "urology__lecture__infertility-andrology__17__7cnhiu",
+        "number": "17",
         "text": "Which of the following is considered a favorable prognostic factor in male infertility?",
         "options": [
           "Long duration of infertility",
@@ -19173,8 +19140,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__19__pgq9gh",
-        "number": "19",
+        "id": "urology__lecture__infertility-andrology__18__pgq9gh",
+        "number": "18",
         "text": "All of the following are recognized categories of causes of male infertility EXCEPT:",
         "options": [
           "Pre-testicular causes (endocrine/hypothalamic-pituitary)",
@@ -19206,8 +19173,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__20__8sre7e",
-        "number": "20",
+        "id": "urology__lecture__infertility-andrology__19__8sre7e",
+        "number": "19",
         "text": "All of the following are recognized causes of obstructive azoospermia EXCEPT:",
         "options": [
           "Congenital bilateral absence of the vas deferens",
@@ -19239,8 +19206,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__21__nfb6db",
-        "number": "21",
+        "id": "urology__lecture__infertility-andrology__20__nfb6db",
+        "number": "20",
         "text": "Which of the following statements regarding semen fluid analysis in obstructive azoospermia is correct?",
         "options": [
           "Typical obstructive azoospermia shows no sperm with usually normal semen volume; ejaculatory duct obstruction specifically shows low volume with acidic, low-fructose semen",
@@ -19272,8 +19239,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__infertility-andrology__22__63jo1y",
-        "number": "22",
+        "id": "urology__lecture__infertility-andrology__21__63jo1y",
+        "number": "21",
         "text": "Which of the following pairs represents andrological conditions correctly associated with varicocele?",
         "options": [
           "Male infertility — Testicular hypotrophy/atrophy",
@@ -19296,6 +19263,39 @@
         "isMultiple": false,
         "correctAnswerLetter": "A",
         "explanation": "Varicocele is classically associated with male infertility (abnormal semen parameters) and testicular hypotrophy/atrophy due to impaired thermoregulation and venous stasis; the other listed pairings are unrelated conditions not causally linked to varicocele.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Urology",
+        "subjectId": "urology",
+        "lectureName": "Infertility & Andrology",
+        "groupName": "Infertility & Andrology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "urology__lecture__infertility-andrology__22__to7bft",
+        "number": "22",
+        "text": "A young infertile male undergoes karyotype analysis. Which of the following is the most common genetic cause of male infertility?",
+        "options": [
+          "47,XXY",
+          "r(Y) (ring Y chromosome)",
+          "45,X0",
+          "46,XY/47,XXY mosaicism",
+          "47,XYY"
+        ],
+        "originalOptions": [
+          "47,XXY",
+          "r(Y) (ring Y chromosome)",
+          "45,X0",
+          "46,XY/47,XXY mosaicism",
+          "47,XYY"
+        ],
+        "correctAnswer": "A) 47,XXY",
+        "correctAnswerText": "47,XXY",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Klinefelter syndrome (47,XXY) is the most common sex chromosome abnormality and genetic cause of male infertility, presenting with small firm testes, azoospermia, and elevated FSH/LH with low testosterone.",
         "batchName": "",
         "pageNumber": "",
         "subjectName": "Urology",
