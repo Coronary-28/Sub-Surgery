@@ -28,11 +28,11 @@ Transurethral instrumentation should be avoided in acute bacterial prostatitis b
 ###
 All of the following bacteria produce urease (potentially causing infection stones) EXCEPT:
 A) Proteus spp
-B) E. coli
-C) Klebsiella spp
+B) Klebsiella spp
+C) E. coli
 D) Pseudomonas spp
 E) Staph epidermidis
-Correct Answer: B) E. coli
+Correct Answer: C) E. coli
 Explanation:
 Proteus, Klebsiella, Pseudomonas, and staphylococci commonly produce urease and are linked to struvite (infection) stones, whereas E. coli only rarely secretes urease.
 ###
