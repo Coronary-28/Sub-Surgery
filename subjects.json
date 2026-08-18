@@ -12204,23 +12204,23 @@
             "number": "52",
             "text": "A patient is diagnosed with xanthogranulomatous pyelonephritis based on the CT findings shown below. What is the definitive treatment? [img: xanthogranulomatous.png]",
             "options": [
-              "Antibiotics alone",
+              "Nephrectomy",
               "Percutaneous drainage alone",
               "Nephron-sparing partial nephrectomy",
-              "Nephrectomy"
+              "Antibiotics alone"
             ],
             "originalOptions": [
-              "Antibiotics alone",
+              "Nephrectomy",
               "Percutaneous drainage alone",
               "Nephron-sparing partial nephrectomy",
-              "Nephrectomy"
+              "Antibiotics alone"
             ],
-            "correctAnswer": "D) Nephrectomy",
+            "correctAnswer": "A) Nephrectomy",
             "correctAnswerText": "Nephrectomy",
-            "correctIndex": 3,
+            "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
-            "correctAnswerLetter": "D",
+            "correctAnswerLetter": "A",
             "explanation": "Because the affected kidney is almost always hydronephrotic, obstructed, and functionally destroyed, nephrectomy is the standard definitive treatment for xanthogranulomatous pyelonephritis.",
             "batchName": "",
             "pageNumber": "",
@@ -25065,23 +25065,23 @@
         "number": "52",
         "text": "A patient is diagnosed with xanthogranulomatous pyelonephritis based on the CT findings shown below. What is the definitive treatment? [img: xanthogranulomatous.png]",
         "options": [
-          "Antibiotics alone",
+          "Nephrectomy",
           "Percutaneous drainage alone",
           "Nephron-sparing partial nephrectomy",
-          "Nephrectomy"
+          "Antibiotics alone"
         ],
         "originalOptions": [
-          "Antibiotics alone",
+          "Nephrectomy",
           "Percutaneous drainage alone",
           "Nephron-sparing partial nephrectomy",
-          "Nephrectomy"
+          "Antibiotics alone"
         ],
-        "correctAnswer": "D) Nephrectomy",
+        "correctAnswer": "A) Nephrectomy",
         "correctAnswerText": "Nephrectomy",
-        "correctIndex": 3,
+        "correctIndex": 0,
         "correctIndices": [],
         "isMultiple": false,
-        "correctAnswerLetter": "D",
+        "correctAnswerLetter": "A",
         "explanation": "Because the affected kidney is almost always hydronephrotic, obstructed, and functionally destroyed, nephrectomy is the standard definitive treatment for xanthogranulomatous pyelonephritis.",
         "batchName": "",
         "pageNumber": "",
