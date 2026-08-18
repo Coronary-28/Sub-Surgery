@@ -1,13 +1,3 @@
-A young infertile male undergoes karyotype analysis. Which of the following is the most common genetic cause of male infertility?
-A) 47,XYY
-B) r(Y) (ring Y chromosome)
-C) 45,X0
-D) 46,XY/47,XXY mosaicism
-E) 47,XXY
-Correct Answer: E) 47,XXY
-Explanation:
-Klinefelter syndrome (47,XXY) is the most common sex chromosome abnormality and genetic cause of male infertility, presenting with small firm testes, azoospermia, and elevated FSH/LH with low testosterone.
-###
 Which of the following syndromes represents the most common chromosomal cause of male infertility?
 A) Kallmann syndrome
 B) Turner syndrome
@@ -203,3 +193,14 @@ E) Epididymo-orchitis — Prostate cancer
 Correct Answer: A) Male infertility — Testicular hypotrophy/atrophy
 Explanation:
 Varicocele is classically associated with male infertility (abnormal semen parameters) and testicular hypotrophy/atrophy due to impaired thermoregulation and venous stasis; the other listed pairings are unrelated conditions not causally linked to varicocele.
+###
+A young infertile male undergoes karyotype analysis. Which of the following is the most common genetic cause of male infertility?
+A) 47,XXY
+B) r(Y) (ring Y chromosome)
+C) 45,X0
+D) 46,XY/47,XXY mosaicism
+E) 47,XYY
+Correct Answer: A) 47,XXY
+Explanation:
+Klinefelter syndrome (47,XXY) is the most common sex chromosome abnormality and genetic cause of male infertility, presenting with small firm testes, azoospermia, and elevated FSH/LH with low testosterone.
+###
