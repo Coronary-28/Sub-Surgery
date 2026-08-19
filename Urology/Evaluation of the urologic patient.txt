@@ -6,7 +6,7 @@ D) Skin irritation
 E) Cataracts
 Correct Answer: C) Induction of malignancy
 Explanation: Ionizing radiation from CT and fluoroscopic urological studies carries a cumulative risk of carcinogenesis, making malignancy induction the most clinically significant long-term hazard. Skin irritation and cataracts require far higher cumulative doses to manifest.
-##
+###
 All of the following are true about kidney anatomy, EXCEPT:
 A) An oval intraperitoneal organ
 B) Left kidney has a longer renal vein
