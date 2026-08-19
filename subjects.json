@@ -4130,7 +4130,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "Ionizing radiation from CT and fluoroscopic urological studies carries a cumulative risk of carcinogenesis, making malignancy induction the most clinically significant long-term hazard. Skin irritation and cataracts require far higher cumulative doses to manifest. ## All of the following are true about kidney anatomy, EXCEPT: A) An oval intraperitoneal organ B) Left kidney has a longer renal vein C) Right kidney is smaller than the left kidney D) Kidneys are bean-shaped structures E) Kidneys are bilateral structures Correct Answer: A) An oval intraperitoneal organ Explanation: Kidneys are retroperitoneal, bean-shaped structures, not intraperitoneal. The right kidney sits lower and is often described as slightly smaller, while the left renal vein is longer as it crosses the aorta to reach the IVC.",
+            "explanation": "Ionizing radiation from CT and fluoroscopic urological studies carries a cumulative risk of carcinogenesis, making malignancy induction the most clinically significant long-term hazard. Skin irritation and cataracts require far higher cumulative doses to manifest.",
             "batchName": "",
             "pageNumber": "",
             "subjectName": "Urology",
@@ -4140,8 +4140,41 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__2__9jsr0m",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__2__2btel7",
             "number": "2",
+            "text": "All of the following are true about kidney anatomy, EXCEPT:",
+            "options": [
+              "An oval intraperitoneal organ",
+              "Left kidney has a longer renal vein",
+              "Right kidney is smaller than the left kidney",
+              "Kidneys are bean-shaped structures",
+              "Kidneys are bilateral structures"
+            ],
+            "originalOptions": [
+              "An oval intraperitoneal organ",
+              "Left kidney has a longer renal vein",
+              "Right kidney is smaller than the left kidney",
+              "Kidneys are bean-shaped structures",
+              "Kidneys are bilateral structures"
+            ],
+            "correctAnswer": "A) An oval intraperitoneal organ",
+            "correctAnswerText": "An oval intraperitoneal organ",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Kidneys are retroperitoneal, bean-shaped structures, not intraperitoneal. The right kidney sits lower and is often described as slightly smaller, while the left renal vein is longer as it crosses the aorta to reach the IVC.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Urology",
+            "subjectId": "urology",
+            "lectureName": "Evaluation of the urologic patient",
+            "groupName": "Evaluation of the urologic patient",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__3__9jsr0m",
+            "number": "3",
             "text": "Which of the following is FALSE about kidney anatomy?",
             "options": [
               "Kidneys are retroperitoneal organs",
@@ -4173,8 +4206,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__3__8f1spf",
-            "number": "3",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__4__8f1spf",
+            "number": "4",
             "text": "The correct order of the division of the intrarenal branches of the renal artery is:",
             "options": [
               "Segmental, interlobar (infundibular), arcuate, interlobular",
@@ -4206,8 +4239,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__4__jabezp",
-            "number": "4",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__5__jabezp",
+            "number": "5",
             "text": "The only segment of the urethra that does NOT have transitional epithelium is the:",
             "options": [
               "Prostatic urethra",
@@ -4239,8 +4272,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__5__es2w42",
-            "number": "5",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__6__es2w42",
+            "number": "6",
             "text": "Ultrasound has many advantages which include all of the following EXCEPT:",
             "options": [
               "It is safe and does not use ionizing radiation",
@@ -4272,8 +4305,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__6__3wm22d",
-            "number": "6",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__7__3wm22d",
+            "number": "7",
             "text": "Which of the following is associated with suprapubic pain?",
             "options": [
               "Renal colic",
@@ -4305,8 +4338,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__7__mkwbtr",
-            "number": "7",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__8__mkwbtr",
+            "number": "8",
             "text": "Which of the following statements is FALSE regarding physical examination?",
             "options": [
               "The testes in men should be the same size",
@@ -4338,8 +4371,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__8__bupjtt",
-            "number": "8",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__9__bupjtt",
+            "number": "9",
             "text": "All the following can cause a DECREASE in specific gravity of urine EXCEPT:",
             "options": [
               "Dehydration",
@@ -4371,8 +4404,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__9__ablsij",
-            "number": "9",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__10__ablsij",
+            "number": "10",
             "text": "Which of the following are used in the calculation of plasma osmolarity?",
             "options": [
               "Urea and sodium",
@@ -4404,8 +4437,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__10__ylsgtg",
-            "number": "10",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__11__ylsgtg",
+            "number": "11",
             "text": "Which of the following is true about renal pain?",
             "options": [
               "Caused by acute distension of renal capsule from obstruction or inflammation",
@@ -4437,8 +4470,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__11__b38i44",
-            "number": "11",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__12__b38i44",
+            "number": "12",
             "text": "Choose the WRONG statement about kidney anatomy:",
             "options": [
               "Right kidney is 1 cm higher than the left kidney",
@@ -4470,8 +4503,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__12__2958sq",
-            "number": "12",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__13__2958sq",
+            "number": "13",
             "text": "Choose the WRONG statement:",
             "options": [
               "Inflamed kidney causes colicky pain and obstruction causes steady pain",
@@ -4503,8 +4536,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__13__daj7c4",
-            "number": "13",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__14__daj7c4",
+            "number": "14",
             "text": "Radiographically, the ureter is divided into how many parts?",
             "options": [
               "Two",
@@ -4536,8 +4569,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__14__85aamv",
-            "number": "14",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__15__85aamv",
+            "number": "15",
             "text": "Which of the following drugs does NOT cause renal failure?",
             "options": [
               "ACE inhibitor",
@@ -4569,8 +4602,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__15__6bj2pj",
-            "number": "15",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__16__6bj2pj",
+            "number": "16",
             "text": "Which imaging modality is safest for a patient in renal failure?",
             "options": [
               "CT with contrast",
@@ -4602,8 +4635,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__16__xd21lp",
-            "number": "16",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__17__xd21lp",
+            "number": "17",
             "text": "Renal pain classically radiates to which of the following?",
             "options": [
               "Shoulder",
@@ -4635,8 +4668,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__17__wd42rz",
-            "number": "17",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__18__wd42rz",
+            "number": "18",
             "text": "Which of the following is the correct sequence of the male urethra from proximal to distal?",
             "options": [
               "Membranous, prostatic, bulbar, penile",
@@ -4668,8 +4701,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__18__ucj41i",
-            "number": "18",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__19__ucj41i",
+            "number": "19",
             "text": "A patient presents with flank pain. Which feature would favor a urological (renal) rather than an intraperitoneal cause?",
             "options": [
               "Pain is steady and patient lies motionless",
@@ -4701,8 +4734,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__19__9oofp",
-            "number": "19",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__20__9oofp",
+            "number": "20",
             "text": "Pneumaturia is best defined as which of the following?",
             "options": [
               "Painful urination due to inflammation",
@@ -4734,8 +4767,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__20__b2b4v2",
-            "number": "20",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__21__b2b4v2",
+            "number": "21",
             "text": "Which of the following is a FALSE statement about gonadal veins?",
             "options": [
               "The right gonadal vein terminates in the inferior vena cava below the level of the right renal vein",
@@ -4767,8 +4800,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__21__u1jofc",
-            "number": "21",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__22__u1jofc",
+            "number": "22",
             "text": "A 28-year-old woman at 24 weeks of gestation presents with new-onset gross hematuria and mild flank discomfort, with no fever or dysuria. What is the best initial investigation?",
             "options": [
               "US",
@@ -4800,8 +4833,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__22__5kbk17",
-            "number": "22",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__23__5kbk17",
+            "number": "23",
             "text": "One of the following is true about the prostate:",
             "options": [
               "It secretes citric acid",
@@ -4833,8 +4866,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__23__ajhpqg",
-            "number": "23",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__24__ajhpqg",
+            "number": "24",
             "text": "In a 30-year-old patient with microscopic hematuria confirmed on two consecutive urinalyses, which combination correctly represents the essential investigations and the causes of hematuria to consider?",
             "options": [
               "Essential investigations: cystoscopy and upper tract imaging; Causes: urinary tract stones, urothelial/renal malignancy, glomerular disease",
@@ -4866,8 +4899,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__24__cul0ip",
-            "number": "24",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__25__cul0ip",
+            "number": "25",
             "text": "All of the following are appropriate questions to ask when taking a history of hematuria EXCEPT:",
             "options": [
               "Is the blood present at the start, throughout, or at the end of the urinary stream?",
@@ -4899,8 +4932,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__25__l522rc",
-            "number": "25",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__26__l522rc",
+            "number": "26",
             "text": "All of the following are irritative LUTS symptoms EXCEPT:",
             "options": [
               "Frequency",
@@ -4932,8 +4965,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "urology__lecture__evaluation-of-the-urologic-patient__26__w60hsh",
-            "number": "26",
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__27__w60hsh",
+            "number": "27",
             "text": "A 68-year-old man reports voiding 10 times during the day and waking up 3 times at night to urinate, each time passing only a small volume, with a strong sudden desire to void that is difficult to defer. His total 24-hour urine output is normal. Which category of symptoms best describes this presentation?",
             "options": [
               "Obstructive symptoms",
@@ -17072,7 +17105,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "C",
-        "explanation": "Ionizing radiation from CT and fluoroscopic urological studies carries a cumulative risk of carcinogenesis, making malignancy induction the most clinically significant long-term hazard. Skin irritation and cataracts require far higher cumulative doses to manifest. ## All of the following are true about kidney anatomy, EXCEPT: A) An oval intraperitoneal organ B) Left kidney has a longer renal vein C) Right kidney is smaller than the left kidney D) Kidneys are bean-shaped structures E) Kidneys are bilateral structures Correct Answer: A) An oval intraperitoneal organ Explanation: Kidneys are retroperitoneal, bean-shaped structures, not intraperitoneal. The right kidney sits lower and is often described as slightly smaller, while the left renal vein is longer as it crosses the aorta to reach the IVC.",
+        "explanation": "Ionizing radiation from CT and fluoroscopic urological studies carries a cumulative risk of carcinogenesis, making malignancy induction the most clinically significant long-term hazard. Skin irritation and cataracts require far higher cumulative doses to manifest.",
         "batchName": "",
         "pageNumber": "",
         "subjectName": "Urology",
@@ -17082,8 +17115,41 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__2__9jsr0m",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__2__2btel7",
         "number": "2",
+        "text": "All of the following are true about kidney anatomy, EXCEPT:",
+        "options": [
+          "An oval intraperitoneal organ",
+          "Left kidney has a longer renal vein",
+          "Right kidney is smaller than the left kidney",
+          "Kidneys are bean-shaped structures",
+          "Kidneys are bilateral structures"
+        ],
+        "originalOptions": [
+          "An oval intraperitoneal organ",
+          "Left kidney has a longer renal vein",
+          "Right kidney is smaller than the left kidney",
+          "Kidneys are bean-shaped structures",
+          "Kidneys are bilateral structures"
+        ],
+        "correctAnswer": "A) An oval intraperitoneal organ",
+        "correctAnswerText": "An oval intraperitoneal organ",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Kidneys are retroperitoneal, bean-shaped structures, not intraperitoneal. The right kidney sits lower and is often described as slightly smaller, while the left renal vein is longer as it crosses the aorta to reach the IVC.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Urology",
+        "subjectId": "urology",
+        "lectureName": "Evaluation of the urologic patient",
+        "groupName": "Evaluation of the urologic patient",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__3__9jsr0m",
+        "number": "3",
         "text": "Which of the following is FALSE about kidney anatomy?",
         "options": [
           "Kidneys are retroperitoneal organs",
@@ -17115,8 +17181,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__3__8f1spf",
-        "number": "3",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__4__8f1spf",
+        "number": "4",
         "text": "The correct order of the division of the intrarenal branches of the renal artery is:",
         "options": [
           "Segmental, interlobar (infundibular), arcuate, interlobular",
@@ -17148,8 +17214,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__4__jabezp",
-        "number": "4",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__5__jabezp",
+        "number": "5",
         "text": "The only segment of the urethra that does NOT have transitional epithelium is the:",
         "options": [
           "Prostatic urethra",
@@ -17181,8 +17247,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__5__es2w42",
-        "number": "5",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__6__es2w42",
+        "number": "6",
         "text": "Ultrasound has many advantages which include all of the following EXCEPT:",
         "options": [
           "It is safe and does not use ionizing radiation",
@@ -17214,8 +17280,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__6__3wm22d",
-        "number": "6",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__7__3wm22d",
+        "number": "7",
         "text": "Which of the following is associated with suprapubic pain?",
         "options": [
           "Renal colic",
@@ -17247,8 +17313,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__7__mkwbtr",
-        "number": "7",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__8__mkwbtr",
+        "number": "8",
         "text": "Which of the following statements is FALSE regarding physical examination?",
         "options": [
           "The testes in men should be the same size",
@@ -17280,8 +17346,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__8__bupjtt",
-        "number": "8",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__9__bupjtt",
+        "number": "9",
         "text": "All the following can cause a DECREASE in specific gravity of urine EXCEPT:",
         "options": [
           "Dehydration",
@@ -17313,8 +17379,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__9__ablsij",
-        "number": "9",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__10__ablsij",
+        "number": "10",
         "text": "Which of the following are used in the calculation of plasma osmolarity?",
         "options": [
           "Urea and sodium",
@@ -17346,8 +17412,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__10__ylsgtg",
-        "number": "10",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__11__ylsgtg",
+        "number": "11",
         "text": "Which of the following is true about renal pain?",
         "options": [
           "Caused by acute distension of renal capsule from obstruction or inflammation",
@@ -17379,8 +17445,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__11__b38i44",
-        "number": "11",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__12__b38i44",
+        "number": "12",
         "text": "Choose the WRONG statement about kidney anatomy:",
         "options": [
           "Right kidney is 1 cm higher than the left kidney",
@@ -17412,8 +17478,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__12__2958sq",
-        "number": "12",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__13__2958sq",
+        "number": "13",
         "text": "Choose the WRONG statement:",
         "options": [
           "Inflamed kidney causes colicky pain and obstruction causes steady pain",
@@ -17445,8 +17511,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__13__daj7c4",
-        "number": "13",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__14__daj7c4",
+        "number": "14",
         "text": "Radiographically, the ureter is divided into how many parts?",
         "options": [
           "Two",
@@ -17478,8 +17544,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__14__85aamv",
-        "number": "14",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__15__85aamv",
+        "number": "15",
         "text": "Which of the following drugs does NOT cause renal failure?",
         "options": [
           "ACE inhibitor",
@@ -17511,8 +17577,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__15__6bj2pj",
-        "number": "15",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__16__6bj2pj",
+        "number": "16",
         "text": "Which imaging modality is safest for a patient in renal failure?",
         "options": [
           "CT with contrast",
@@ -17544,8 +17610,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__16__xd21lp",
-        "number": "16",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__17__xd21lp",
+        "number": "17",
         "text": "Renal pain classically radiates to which of the following?",
         "options": [
           "Shoulder",
@@ -17577,8 +17643,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__17__wd42rz",
-        "number": "17",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__18__wd42rz",
+        "number": "18",
         "text": "Which of the following is the correct sequence of the male urethra from proximal to distal?",
         "options": [
           "Membranous, prostatic, bulbar, penile",
@@ -17610,8 +17676,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__18__ucj41i",
-        "number": "18",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__19__ucj41i",
+        "number": "19",
         "text": "A patient presents with flank pain. Which feature would favor a urological (renal) rather than an intraperitoneal cause?",
         "options": [
           "Pain is steady and patient lies motionless",
@@ -17643,8 +17709,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__19__9oofp",
-        "number": "19",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__20__9oofp",
+        "number": "20",
         "text": "Pneumaturia is best defined as which of the following?",
         "options": [
           "Painful urination due to inflammation",
@@ -17676,8 +17742,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__20__b2b4v2",
-        "number": "20",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__21__b2b4v2",
+        "number": "21",
         "text": "Which of the following is a FALSE statement about gonadal veins?",
         "options": [
           "The right gonadal vein terminates in the inferior vena cava below the level of the right renal vein",
@@ -17709,8 +17775,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__21__u1jofc",
-        "number": "21",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__22__u1jofc",
+        "number": "22",
         "text": "A 28-year-old woman at 24 weeks of gestation presents with new-onset gross hematuria and mild flank discomfort, with no fever or dysuria. What is the best initial investigation?",
         "options": [
           "US",
@@ -17742,8 +17808,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__22__5kbk17",
-        "number": "22",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__23__5kbk17",
+        "number": "23",
         "text": "One of the following is true about the prostate:",
         "options": [
           "It secretes citric acid",
@@ -17775,8 +17841,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__23__ajhpqg",
-        "number": "23",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__24__ajhpqg",
+        "number": "24",
         "text": "In a 30-year-old patient with microscopic hematuria confirmed on two consecutive urinalyses, which combination correctly represents the essential investigations and the causes of hematuria to consider?",
         "options": [
           "Essential investigations: cystoscopy and upper tract imaging; Causes: urinary tract stones, urothelial/renal malignancy, glomerular disease",
@@ -17808,8 +17874,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__24__cul0ip",
-        "number": "24",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__25__cul0ip",
+        "number": "25",
         "text": "All of the following are appropriate questions to ask when taking a history of hematuria EXCEPT:",
         "options": [
           "Is the blood present at the start, throughout, or at the end of the urinary stream?",
@@ -17841,8 +17907,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__25__l522rc",
-        "number": "25",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__26__l522rc",
+        "number": "26",
         "text": "All of the following are irritative LUTS symptoms EXCEPT:",
         "options": [
           "Frequency",
@@ -17874,8 +17940,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "urology__lecture__evaluation-of-the-urologic-patient__26__w60hsh",
-        "number": "26",
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__27__w60hsh",
+        "number": "27",
         "text": "A 68-year-old man reports voiding 10 times during the day and waking up 3 times at night to urinate, each time passing only a small volume, with a strong sudden desire to void that is difficult to defer. His total 24-hour urine output is normal. Which category of symptoms best describes this presentation?",
         "options": [
           "Obstructive symptoms",
@@ -25835,7 +25901,7 @@
         "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 405,
+    "totalQuestions": 406,
     "totalLectures": 15,
     "hasAiFolder": false
   }
