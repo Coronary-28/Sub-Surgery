@@ -193,7 +193,7 @@ B) CT scan
 C) IVP
 D) MRI with gadolinium
 E) Cystoscopy
-Correct Answer: B) US
+Correct Answer: A) US
 Explanation: Ultrasound avoids ionizing radiation and contrast, making it the safest first-line imaging choice in pregnancy for evaluating hematuria.
 ###
 One of the following is true about the prostate:
