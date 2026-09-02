@@ -1,0 +1,145 @@
+A 28-year-old man is brought to the ER after a motorcycle accident with a deceleration mechanism. He has flank ecchymosis and gross hematuria. What is the single best indicator of significant renal injury in this patient?
+A) Presence of hematuria
+B) Degree of flank ecchymosis
+C) Rib fracture
+D) Mechanism of injury alone
+E) Blood pressure on arrival
+Correct Answer: A) Presence of hematuria
+Explanation: Hematuria is the best indicator of significant renal injury, though its degree does not correlate reliably with injury severity, so imaging decisions are not based on hematuria grade alone.
+### 
+A 40-year-old man sustains a stab wound to the flank. Compared to blunt renal trauma, penetrating renal trauma is characterized by:
+A) Lower rate of complications
+B) Higher percentage of complications and need for surgical intervention
+C) Lower likelihood of requiring surgical intervention
+D) Absence of hematuria
+E) Predominantly reno-vascular injury from deceleration
+Correct Answer: B) Higher percentage of complications and need for surgical intervention
+Explanation: Penetrating trauma (gunshot/stab) causes a higher rate of complications and more often requires surgical intervention than blunt trauma.
+### 
+Which finding is most specifically associated with reno-vascular (pedicle) injury after blunt trauma?
+A) Rib fracture
+B) Flank tenderness
+C) Significant acceleration/deceleration mechanism
+D) Low-velocity mechanism
+E) Isolated microscopic hematuria
+Correct Answer: C) Significant acceleration/deceleration mechanism
+Explanation: Significant deceleration causes tearing at points of fixation such as the renal hilum, making this the key historical clue for vascular injury.
+### 
+A hemodynamically stable adult sustains blunt abdominal trauma with one documented episode of hypotension (SBP <90 mmHg) and microscopic hematuria. Renal imaging is indicated because:
+A) Microscopic hematuria with an episode of hypotension is an indication for imaging
+B) All blunt trauma requires imaging regardless of findings
+C) Imaging is never needed if hematuria is microscopic
+D) Only gross hematuria warrants imaging
+E) Imaging is reserved for penetrating trauma only
+Correct Answer: A) Microscopic hematuria with an episode of hypotension is an indication for imaging
+Explanation: Blunt trauma with microscopic hematuria plus even one episode of hypotension (SBP <90) is a specific indication for renal imaging, unlike simple stable microscopic hematuria.
+### 
+The gold standard imaging modality for suspected renal trauma is:
+A) Renal ultrasound
+B) MRI
+C) Intravenous pyelogram
+D) Contrast-enhanced CT scan
+E) Plain KUB radiograph
+Correct Answer: D) Contrast-enhanced CT scan
+Explanation: Contrast-enhanced CT is the gold standard for renal trauma, allowing grading of injury and assessment of associated structures (hilum, perinephric space, vena cava).
+### 
+One-shot intraoperative IVP performed during renal trauma surgery is primarily used to:
+A) Grade the degree of renal laceration
+B) Diagnose bladder rupture
+C) Assess function of the contralateral kidney
+D) Detect ureteral stones
+E) Replace CT imaging entirely
+Correct Answer: C) Assess function of the contralateral kidney
+Explanation: The one-shot IVP (10 minutes after IV contrast push) is mainly used intraoperatively to confirm that the contralateral kidney is functioning before proceeding with nephrectomy if needed.
+### 
+Which of the following is the primary criterion guiding management of renal trauma?
+A) Grade of injury on CT
+B) Hemodynamic stability
+C) Presence of gross vs microscopic hematuria
+D) Patient age
+E) Mechanism (blunt vs penetrating)
+Correct Answer: B) Hemodynamic stability
+Explanation: Hemodynamic stability is the primary criterion determining management; stable patients are typically managed conservatively regardless of imaging grade, unstable patients require intervention.
+### 
+Selective angio-embolization is most indicated in renal trauma when CT shows:
+A) Contrast leak, AV fistula, or aneurysm
+B) Small subcapsular hematoma only
+C) Isolated cortical laceration without bleeding
+D) Normal contralateral kidney
+E) Perinephric fat stranding only
+Correct Answer: A) Contrast leak, AV fistula, or aneurysm
+Explanation: CT findings of active contrast extravasation, arteriovenous fistula, or aneurysm are indications for selective angio-embolization.
+### 
+Which of the following is an indication for renal exploration after trauma?
+A) Stable microscopic hematuria
+B) Grade 1 renal contusion
+C) Expanding or pulsatile perirenal hematoma found at laparotomy
+D) Stable patient with contrast leak amenable to embolization
+E) Isolated flank ecchymosis without hematuria
+Correct Answer: C) Expanding or pulsatile perirenal hematoma found at laparotomy
+Explanation: An expanding or pulsatile perirenal hematoma discovered at laparotomy, along with non-response to resuscitation, grade 5 vascular injury, or failed embolization, are indications for surgical exploration.
+### 
+A patient with pelvic fracture and gross hematuria is suspected of having a bladder injury. Which imaging study should be performed to exclude bladder rupture?
+A) Renal ultrasound
+B) Retrograde urethrogram
+C) Non-contrast CT KUB
+D) Cystography
+E) MRI pelvis
+Correct Answer: D) Cystography
+Explanation: Any patient with pelvic fracture and gross (visible) hematuria should undergo cystography to exclude bladder rupture, as visible hematuria is the principal sign of bladder trauma.
+### 
+Extraperitoneal bladder rupture most commonly results from:
+A) A sudden blow to a distended bladder
+B) Pelvic fracture
+C) Iatrogenic catheter trauma
+D) Penetrating abdominal injury
+E) Spontaneous rupture in a healthy bladder
+Correct Answer: B) Pelvic fracture
+Explanation: Extraperitoneal bladder injury is almost always secondary to pelvic fracture, whereas intraperitoneal rupture typically results from a blow to a distended bladder raising intravesical pressure.
+### 
+On cystography, intraperitoneal bladder rupture is classically identified by:
+A) Contrast leak outlining bowel loops
+B) Flame-shaped extravasation in perivesical soft tissue
+C) No extravasation at all
+D) Contrast pooling only within the bladder lumen
+E) Extravasation limited to the prostatic urethra
+Correct Answer: A) Contrast leak outlining bowel loops
+Explanation: Intraperitoneal rupture shows contrast outlining bowel loops as it leaks into the peritoneal cavity, while extraperitoneal rupture shows a flame-shaped perivesical extravasation pattern.
+### 
+Management of an isolated extraperitoneal bladder rupture without bladder neck involvement is:
+A) Immediate surgical repair
+B) Suprapubic cystostomy only, no catheter
+C) Conservative management with Foley catheter drainage
+D) Percutaneous nephrostomy
+E) Cystectomy
+Correct Answer: C) Conservative management with Foley catheter drainage
+Explanation: Uncomplicated extraperitoneal bladder rupture is managed conservatively with Foley catheter drainage; surgery is reserved for bladder neck involvement or associated injuries. Intraperitoneal rupture, in contrast, always requires surgical repair.
+### 
+A man reports a popping sound during vigorous intercourse followed by immediate detumescence, pain, and eggplant-shaped swelling of the penis. Blood is noted at the urethral meatus. The most appropriate next step is:
+A) Immediate surgical exploration without further workup
+B) CT scan of the pelvis
+C) Reassurance and outpatient follow-up
+D) Retrograde urethrography before catheterization
+E) Blind Foley catheter placement to relieve retention
+Correct Answer: D) Retrograde urethrography before catheterization
+Explanation: Blood at the urethral meatus after suspected penile fracture indicates possible urethral injury; a retrograde urethrogram must be performed before attempting catheterization.
+### 
+In penile fracture, the structure that must be surgically repaired is the:
+A) Tunica albuginea
+B) Buck’s fascia
+C) Dartos fascia
+D) Corpus spongiosum only
+E) Skin alone
+Correct Answer: A) Tunica albuginea
+Explanation: Penile fracture is a tear of the tunica albuginea; surgical exploration, hematoma evacuation, and closure of this tear is the definitive management and reduces complications compared with conservative treatment.
+###
+A 58-year-old male smoker presents with one episode of microscopic hematuria. What is the next best step in management?
+A) CT abdomen and pelvis without contrast
+B) Renal ultrasound
+C) CT urography with delayed (excretory) phase
+D) Repeat urinalysis after 3 months
+E) MRI abdomen and pelvis
+Correct Answer: C) CT urography with delayed (excretory) phase
+Explanation:
+In an older smoker (high malignancy risk), microscopic hematuria warrants full upper tract evaluation with CT urography including the delayed excretory phase to assess the collecting system, plus cystoscopy — a non-contrast study or ultrasound alone would miss urothelial lesions and collecting-system pathology.
+Coronary - 5 Mini-OSCE (Group B)

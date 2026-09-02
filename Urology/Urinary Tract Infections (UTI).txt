@@ -1,0 +1,560 @@
+A female patient presents with flank pain and fever. She was treated with antibiotics, but after 3 days she still has fever and fatigue. What is the best next step in management?
+A) Renal ultrasound
+B) Add NSAIDs
+C) CT scan of the abdomen and pelvis
+D) Change antibiotics empirically
+Correct Answer: C) CT scan of the abdomen and pelvis
+Explanation:
+Persistent fever despite 48–72 hours of appropriate antibiotics for pyelonephritis mandates a contrast CT to exclude a complication such as perinephric/renal abscess, obstruction, or emphysematous pyelonephritis; simply switching antibiotics or relying on ultrasound alone risks missing these findings.
+###
+Bacterial prostatitis is usually caused by:
+A) A single pathogen
+B) Ascending infection with enteric gram-negative bacteria
+C) Hematogenous infection
+D) Anaerobic pathogens
+E) Gram-positive pathogens
+Correct Answer: B) Ascending infection with enteric gram-negative bacteria
+Explanation:
+Acute bacterial prostatitis is most commonly caused by ascending infection with enteric gram-negative organisms, chiefly E. coli, rather than by hematogenous spread or anaerobic organisms.
+###
+In acute bacterial prostatitis, which of the following should be avoided?
+A) Antipyretics
+B) Pain control
+C) Routine urethral Foley catheterization
+D) Antibiotics
+Correct Answer: C) Routine urethral Foley catheterization
+Explanation:
+Transurethral instrumentation should be avoided in acute bacterial prostatitis because it can worsen inflammation and precipitate bacteremia; a suprapubic catheter is used instead if urinary retention develops.
+###
+All of the following bacteria produce urease (potentially causing infection stones) EXCEPT:
+A) Proteus spp
+B) E. coli
+C) Klebsiella spp
+D) Pseudomonas spp
+E) Staph epidermidis
+Correct Answer: B) E. coli
+Explanation:
+Proteus, Klebsiella, Pseudomonas, and staphylococci commonly produce urease and are linked to struvite (infection) stones, whereas E. coli only rarely secretes urease.
+###
+Nosocomial urinary tract infections (UTIs):
+A) Are due to bacterial persistence
+B) Are only caused by bowel bacteria
+C) Occur in patients who are hospitalized or institutionalized
+D) Are due to reinfection
+E) Can be suppressed by low-dose antimicrobial therapy
+Correct Answer: C) Occur in patients who are hospitalized or institutionalized
+Explanation:
+Nosocomial UTIs are, by definition, acquired during hospitalization or institutionalization, most often catheter-associated and caused by resistant organisms.
+###
+Most common organism associated with uncomplicated cystitis:
+A) Proteus mirabilis
+B) E. coli
+C) P. aeruginosa
+D) S. aureus
+Correct Answer: B) E. coli
+Explanation:
+E. coli accounts for roughly 80–85% of uncomplicated community-acquired cystitis cases.
+###
+A 70-year-old female is found to have asymptomatic bacteriuria. What is the best next step in management?
+A) Observation
+B) Ciprofloxacin
+C) Nitrofurantoin
+D) TMP-SMX
+Correct Answer: A) Observation
+Explanation:
+Asymptomatic bacteriuria in elderly, non-pregnant women should not be treated, since antibiotics do not improve outcomes and only promote resistance.
+###
+The virulence factor most important for bacterial adherence in the kidney (pyelonephritis-associated) uropathogenic E. coli is:
+A) Tamm-Horsfall protein
+B) Hemolysin
+C) K-antigen
+D) Type 1 pili
+E) Type P pili
+Correct Answer: E) Type P pili
+Explanation:
+P-Pili (type P fimbriae) bind uroepithelial receptors and confer renal tropism, making them the key adherence factor in pyelonephritis-associated E. coli, distinct from type 1 fimbriae, which mediate bladder mucosal adherence.
+###
+Which of the following is the virulence factor of uropathogenic E. coli that aids in bladder colonization?
+A) Type 1 pili
+B) Flagella
+C) Endotoxin
+D) Capsule
+E) Type P pili
+Correct Answer: A) Type 1 pili
+Explanation:
+Pili-1 (type 1 fimbriae) are mannose-sensitive and mediate adherence to bladder mucosa, promoting lower urinary tract colonization, while type P fimbriae mediate upper tract (renal) tropism.
+###
+Acute pyelonephritis is the most likely diagnosis in a patient presenting with:
+A) Bacteria and pyuria alone
+B) Vesicoureteral reflux
+C) Focal scar in the renal cortex
+D) Chills, fever, and flank pain
+E) Delayed renal function
+Correct Answer: D) Chills, fever, and flank pain
+Explanation:
+Chills, fever, and flank pain with costovertebral angle tenderness form the classic clinical triad of acute pyelonephritis.
+###
+The most reliable (least contaminated) urine specimen is obtained by:
+A) Antiseptic periurethral preparation
+B) Urethral catheterization
+C) Midstream voiding
+D) Catheter aspiration
+E) Suprapubic aspiration
+Correct Answer: E) Suprapubic aspiration
+Explanation:
+Suprapubic aspiration bypasses the urethra entirely and is considered the gold-standard, least-contaminated method of urine collection, though it is rarely used due to its invasiveness.
+###
+The most sensitive imaging modality for diagnosing a renal abscess is:
+A) Excretory urography
+B) Ultrasound
+C) CT
+D) Gallium scanning
+E) Indium scanning
+Correct Answer: C) CT
+Explanation:
+Contrast-enhanced CT is the most sensitive imaging study for renal/perinephric abscess, classically showing a rim-enhancing ("ring sign") lesion.
+###
+Which of the following is NOT classified as a complicated UTI?
+A) Diabetic female with UTI
+B) Catheter-associated UTI
+C) Healthy non-pregnant female with UTI
+D) Male UTI
+Correct Answer: C) Healthy non-pregnant female with UTI
+Explanation:
+A UTI in a healthy, non-pregnant, structurally and functionally normal female is uncomplicated; UTIs in males, diabetics, or catheterized patients are complicated due to underlying anatomical or functional abnormalities.
+###
+Indications for imaging in UTI include all of the following EXCEPT:
+A) Hematuria
+B) Recurrent infections
+C) Single episode of uncomplicated cystitis in a healthy female
+D) Fever >38.5°C not responding to antibiotics
+Correct Answer: C) Single episode of uncomplicated cystitis in a healthy female
+Explanation:
+A single episode of uncomplicated cystitis in an otherwise healthy female does not require imaging and should be treated empirically; imaging is reserved for recurrent, refractory, or complicated presentations.
+###
+Which of the following is a common cause of recurrent UTIs in premenopausal women?
+A) Poor hygiene
+B) Single antibiotic dose
+C) Low estrogen
+D) Frequent sexual activity
+Correct Answer: D) Frequent sexual activity
+Explanation:
+Sexual intercourse is a major precipitant of recurrent UTI in premenopausal women; low estrogen becomes the more relevant risk factor after menopause.
+###
+Colonization of the urinary tract includes all of the following EXCEPT:
+A) Bacterial invasion of urothelium
+B) Asymptomatic presence in the urinary tract
+C) Bacterial adherence to uroepithelium
+D) Multiplication of organisms
+Correct Answer: A) Bacterial invasion of urothelium
+Explanation:
+Colonization refers to bacterial presence, adherence, and multiplication without tissue invasion; invasion of the urothelium with an inflammatory response defines true infection, not colonization.
+###
+Which of the following is NOT a bacterial virulence factor in UTIs?
+A) Hemolysin
+B) Fimbriae
+C) Tamm-Horsfall protein
+D) Capsule
+Correct Answer: C) Tamm-Horsfall protein
+Explanation:
+Tamm-Horsfall protein (uromodulin) is a host-derived defense factor that binds bacterial pili and prevents their adherence to the urothelium; it is not a bacterial virulence factor.
+###
+Sterile pyuria may be seen in all of the following EXCEPT:
+A) Renal stones
+B) Untreated bacterial UTI
+C) Tuberculosis
+D) Interstitial nephritis
+Correct Answer: B) Untreated bacterial UTI
+Explanation:
+Sterile pyuria means WBCs in the urine with a negative standard culture; an untreated, ordinary bacterial UTI produces pyuria with a positive culture, whereas TB, interstitial nephritis, and stones can cause pyuria with a negative routine culture.
+###
+Which of the following is TRUE about urinary tract infections?
+A) They always cause fever
+B) They only affect females
+C) Recurrent UTIs are unrelated to previous episodes
+D) Recurrent UTI risk increases with prior UTI frequency
+Correct Answer: D) Recurrent UTI risk increases with prior UTI frequency
+Explanation:
+The probability of recurrence increases with the number of previous UTIs and is inversely related to the time between episodes, making prior infection frequency the strongest predictor of recurrence.
+###
+A pregnant woman in her first trimester with G6PD deficiency presents with bacterial cystitis. What is the appropriate antibiotic?
+A) Fluoroquinolones
+B) Trimethoprim
+C) Nitrofurantoin
+D) Cephalexin
+Correct Answer: D) Cephalexin
+Explanation:
+Cephalexin is safe in both pregnancy and G6PD deficiency; nitrofurantoin should be avoided in G6PD deficiency, trimethoprim (TMP) is avoided in the first trimester (folate antagonist), and fluoroquinolones are contraindicated in pregnancy.
+###
+A 40-year-old woman presents with pelvic pain and fever; a contrast-enhanced CT was performed. What is the most likely diagnosis? [img: acutepyelonephritis.png]
+A) Acute pyelonephritis
+B) Acute urinary obstruction
+C) Renal abscess
+D) Emphysematous pyelonephritis
+Correct Answer: A) Acute pyelonephritis
+Explanation:
+The combination of fever with pelvic/flank pain and a CT perfusion-defect appearance is characteristic of acute pyelonephritis rather than simple obstruction, abscess, or gas-forming infection.
+###
+What is the most common cause of community-acquired UTI?
+A) Enterococcus
+B) E. coli
+C) Klebsiella
+D) Pseudomonas
+Correct Answer: B) E. coli
+Explanation:
+E. coli is responsible for approximately 85% of community-acquired UTIs.
+###
+Which of the following features differentiates pyelonephritis from cystitis?
+A) Costovertebral angle tenderness
+B) Pyuria
+C) Frequency
+D) Dysuria
+Correct Answer: A) Costovertebral angle tenderness
+Explanation:
+Costovertebral angle (renal angle) tenderness reflects renal parenchymal/pelvic involvement and is specific to pyelonephritis, whereas frequency, dysuria, and pyuria can occur in both cystitis and pyelonephritis.
+###
+Fever, chills, and flank pain are most likely to indicate:
+A) Pyelonephritis
+B) Urethritis
+C) Cystitis
+D) Prostatitis
+Correct Answer: A) Pyelonephritis
+Explanation:
+Fever, chills, and flank pain form the classic presentation of acute pyelonephritis, distinguishing it from lower tract infections such as cystitis or urethritis, which are typically afebrile.
+###
+A male with acute bacterial prostatitis was started on IV antibiotics but showed no improvement after 72 hours. What is the next step?
+A) Prostatic massage
+B) Change antibiotics
+C) Transrectal ultrasound (TRUS)
+D) Discharge home on oral antibiotics
+Correct Answer: C) Transrectal ultrasound (TRUS)
+Explanation:
+Failure to improve after appropriate IV antibiotics should prompt TRUS to evaluate for a prostatic abscess requiring drainage; prostatic massage is contraindicated because of bacteremia risk.
+###
+A case of pyelonephritis with persistent symptoms after 72 hours of appropriate antibiotics. What is the next step?
+A) CT with contrast
+B) Continue the same antibiotics
+C) Discharge
+D) Change to oral antibiotics
+Correct Answer: A) CT with contrast
+Explanation:
+Lack of clinical response after 48–72 hours of appropriate antibiotic therapy in pyelonephritis warrants a contrast CT to look for an abscess, obstruction, or other complication.
+###
+Which of the following is NOT considered a host defense mechanism against urinary tract infections?
+A) Urine flow
+B) Epithelium lining the urinary tract
+C) Urine exfoliation and immune system
+D) Type 1 pili
+Correct Answer: D) Type 1 pili
+Explanation:
+Type 1 pili are a bacterial virulence factor that promotes adherence, not a host defense mechanism; urine flow, urothelial exfoliation, and the immune response all protect the host.
+###
+In which of the following cases should asymptomatic bacteriuria be treated?
+A) Pregnant woman
+B) Diabetic patient
+C) Patient with neurogenic bladder
+D) Elderly institutionalized patient
+Correct Answer: A) Pregnant woman
+Explanation:
+Asymptomatic bacteriuria is treated in pregnancy because of the risk of progression to pyelonephritis and adverse pregnancy outcomes; it is not routinely treated in diabetics, patients with neurogenic bladder, or the elderly.
+Coronary - 5 Mini-OSCE (Group B)
+###
+Which of the following is classified as a complicated UTI?
+A) Cystitis in a healthy woman
+B) Recurrent infection
+C) Catheterized patient
+D) Isolated infection with no risk factors
+Correct Answer: C) Catheterized patient
+Explanation:
+A UTI in a patient with an indwelling catheter is classified as complicated due to the anatomical/functional abnormality predisposing to infection and reducing treatment efficacy.
+###
+Which of the following conditions is associated with increased UTI-related morbidity?
+A) Simple cystitis
+B) Recurrent cystitis
+C) Pregnancy
+D) Isolated uncomplicated UTI
+Correct Answer: C) Pregnancy
+Explanation:
+Pregnancy increases UTI-related morbidity because untreated infection can progress to pyelonephritis with adverse maternal and fetal outcomes.
+###
+The presence of air (gas) in the urine is referred to as:
+A) Pneumaturia
+B) Hematuria
+C) Pyuria
+D) Chyluria
+Correct Answer: A) Pneumaturia
+Explanation:
+Pneumaturia is gas in the urine, caused by recent catheterization, an enteric fistula, or infection with a gas-forming organism.
+###
+What is the best urine sample for the diagnosis of urethritis?
+A) Suprapubic urine sample
+B) Midstream urine
+C) First-void (first-catch) urine
+D) Catheterized urine sample
+Correct Answer: C) First-void (first-catch) urine
+Explanation:
+First-void urine concentrates urethral secretions and organisms and is the preferred specimen for diagnosing urethritis, unlike midstream or suprapubic samples, which are used for bladder or upper tract infections.
+###
+In which condition is bacteriuria most dangerous?
+A) Vesicoureteral reflux
+B) Diabetes Mellitus
+C) Pregnancy
+D) Neurogenic bladder
+Correct Answer: C) Pregnancy
+Explanation:
+Bacteriuria in pregnancy carries the highest risk because of its potential to progress to pyelonephritis and cause pregnancy complications, which is why it is screened for and treated even when asymptomatic.
+###
+Which of the following medications is contraindicated in G6PD deficiency?
+A) Gentamicin
+B) Cotrimoxazole
+C) Ciprofloxacin
+D) Cephalexin
+Correct Answer: B) Cotrimoxazole (Sulfamethoxazole)
+Explanation:
+Sulfonamide-containing agents such as cotrimoxazole can precipitate hemolysis in G6PD-deficient patients and should be avoided.
+###
+The presence of nitrites in urine indicates infection with:
+A) Fungi
+B) Nitrite-producing gram-negative bacteria
+C) Gram-positive bacteria
+D) Anaerobic bacteria
+Correct Answer: B) Nitrite-producing gram-negative bacteria
+Explanation:
+Gram-negative bacteria (e.g., E. coli) reduce urinary nitrate to nitrite, which is detected on dipstick testing; gram-positive organisms and fungi typically do not produce this reaction.
+###
+A patient presents with acute bacterial prostatitis. What is the appropriate management?
+A) Prostatic massage followed by sample collection
+B) Discharge on oral antibiotics without workup
+C) Routine suprapubic catheterization
+D) Obtain a urine culture and start appropriate antibiotics
+Correct Answer: D) Obtain a urine culture and start appropriate antibiotics
+Explanation:
+Management of acute bacterial prostatitis is based on obtaining a urine culture and promptly starting antibiotics (IV if systemically ill); prostatic massage is avoided because of bacteremia risk, and catheterization is reserved for urinary retention rather than performed routinely.
+###
+A patient presents to the ER with irritative voiding symptoms, fever, and tachycardia. Digital rectal examination could not be tolerated due to pain. What is the most appropriate next step?
+A) Transurethral catheter to relieve obstruction
+B) Transurethral catheter to obtain a urine sample
+C) Suprapubic catheter to obtain a urine sample
+D) Obtain a midstream urine sample and start empirical antibiotics
+Correct Answer: D) Obtain a midstream urine sample and start empirical antibiotics
+Explanation:
+In suspected acute bacterial prostatitis, a midstream urine sample should be collected and empirical antibiotics started promptly; transurethral instrumentation is avoided due to bacteremia risk, and suprapubic catheterization is reserved for urinary retention, not routine sampling.
+###
+Bacterial urinary tract infections typically involve:
+A) Hematogenous infection
+B) A single pathogen
+C) Anaerobic pathogens
+D) Gram-positive pathogens
+E) Direct invasion by rectal bacteria
+Correct Answer: B) A single pathogen
+Explanation:
+Most UTIs are caused by a single uropathogenic strain (most often E. coli) ascending from the bowel flora, rather than being polymicrobial or hematogenous in origin.
+###
+A patient with persistent left flank pain is diagnosed with xanthogranulomatous pyelonephritis. What is the treatment of this condition?
+A) Antibiotics
+B) Nephron-sparing surgery
+C) Nephrectomy
+D) Observation
+Correct Answer: C) Nephrectomy
+Explanation:
+Xanthogranulomatous pyelonephritis is a chronic destructive renal infection that typically destroys the affected kidney's function; nephrectomy is the definitive treatment.
+###
+Which of the following is NOT a cause of pneumaturia?
+A) Diverticulitis
+B) IBD
+C) Colon cancer
+D) Ectopic ureter
+Correct Answer: D) Ectopic ureter
+Explanation:
+Pneumaturia results from recent catheterization, an enteric fistula (as with diverticulitis, IBD, or colon cancer), or infection with gas-forming organisms; an ectopic ureter is unrelated to gas in the urine.
+###
+Which of the following typically presents as a UTI without fever?
+A) Renal abscess
+B) Lower UTI (cystitis)
+C) Upper UTI (pyelonephritis)
+D) Prostatitis
+Correct Answer: B) Lower UTI (cystitis)
+Explanation:
+Cystitis (lower UTI) typically presents with frequency, dysuria, and urgency without fever, whereas pyelonephritis, prostatitis, and renal abscess are usually associated with systemic fever.
+###
+What is the key difference between prostatitis and cystitis?
+A) Both are identical
+B) Cystitis always causes fever
+C) Prostatitis causes only dysuria
+D) Prostatitis presents with fever
+Correct Answer: D) Prostatitis presents with fever
+Explanation:
+Acute prostatitis is a parenchymal infection causing systemic symptoms (fever, perineal pain, a tender gland on DRE), while cystitis is a mucosal bladder infection causing irritative voiding symptoms that is rarely associated with fever.
+###
+Which organism is the classic cause of urease-associated infection (struvite) stones?
+A) E. coli
+B) Proteus
+C) Klebsiella
+D) Enterococcus
+Correct Answer: B) Proteus
+Explanation:
+Proteus is the classic and most common urease-producing organism responsible for struvite (infection) stones, though Klebsiella can produce urease to a lesser extent.
+###
+Dysuria occurring at the very beginning of urination suggests involvement of the:
+A) Renal colic
+B) Pyelonephritis
+C) Cystitis
+D) Urethritis
+Correct Answer: D) Urethritis
+Explanation:
+Initial (beginning-of-stream) symptoms localize to the urethra, consistent with urethritis, as opposed to total or terminal symptoms, which point to bladder or prostatic urethral origin.
+###
+A febrile diabetic patient presents with flank pain. Which imaging study is most appropriate to evaluate this presentation?
+A) Contrast-enhanced CT
+B) Renal ultrasound only
+C) KUB radiograph
+D) MRI without contrast
+Correct Answer: A) Contrast-enhanced CT
+Explanation:
+Contrast-enhanced CT is the imaging modality of choice to fully characterize renal infection in a febrile, immunocompromised (diabetic) patient with flank pain, as ultrasound alone cannot reliably detect renal inflammation.
+###
+A febrile diabetic patient presents with flank pain and undergoes contrast-enhanced CT, shown below. Which of the following best describes the expected findings? [img: dmpyelonephritis.png]
+A) Gas within the renal parenchyma
+B) Wedge-shaped perfusion defect with an enlarged kidney
+C) A rim-enhancing fluid collection ("ring sign")
+D) Calyceal dilatation with a large staghorn calculus
+Correct Answer: B) Wedge-shaped perfusion defect with an enlarged kidney
+Explanation:
+Acute bacterial infection causes constriction of peripheral arterioles, producing wedge-shaped perfusion defects and renal enlargement on contrast CT; gas within the parenchyma would instead suggest emphysematous pyelonephritis.
+###
+A febrile diabetic patient presents with flank pain. Contrast-enhanced CT, shown below, reveals a wedge-shaped perfusion defect with an enlarged kidney. What is the most probable diagnosis? [img: dmpyelonephritis.png]
+A) Acute pyelonephritis
+B) Emphysematous pyelonephritis
+C) Renal cell carcinoma
+D) Renal abscess
+Correct Answer: A) Acute pyelonephritis
+Explanation:
+Fever, flank pain, and a wedge-shaped perfusion defect on CT are classic for acute pyelonephritis; the absence of gas argues against emphysematous pyelonephritis, and there is no described rim-enhancing collection to suggest abscess.
+###
+A diabetic patient is diagnosed with acute pyelonephritis based on the clinical picture and CT findings shown below. What is the primary indication for hospital admission in this patient? [img: dmpyelonephritis.png]
+A) Mild leukocytosis
+B) Presence of microscopic hematuria
+C) Immunocompromised state secondary to diabetes mellitus
+D) Age over 60 years
+Correct Answer: C) Immunocompromised state secondary to diabetes mellitus
+Explanation:
+Diabetes mellitus renders the patient immunocompromised and at higher risk of complicated pyelonephritis (including emphysematous pyelonephritis), which is an indication for admission and closer monitoring.
+###
+A patient with chronic flank pain undergoes CT of the kidney, shown below. Which of the following best describes the CT findings? [img: xanthogranulomatous.png]
+A) Bilateral small atrophic kidneys
+B) Enlarged left kidney with a hyperdense renal pelvic stone and destroyed parenchyma
+C) Multiple simple cortical cysts
+D) Wedge-shaped cortical perfusion defect
+Correct Answer: B) Enlarged left kidney with a hyperdense renal pelvic stone and destroyed parenchyma
+Explanation:
+Xanthogranulomatous pyelonephritis classically shows an enlarged, hydronephrotic kidney with a large renal pelvic calculus and destruction of the parenchyma by lipid-laden macrophages, often mimicking RCC radiologically.
+###
+A patient is diagnosed with xanthogranulomatous pyelonephritis based on the CT findings shown below. Which of the following combinations of features is most consistent with this diagnosis? [img: xanthogranulomatous.png]
+A) Painless gross hematuria with weight loss
+B) Sudden severe colicky pain with hematuria only
+C) Chronic flank pain, weight loss, and malaise
+D) Acute scrotal pain with fever
+Correct Answer: C) Chronic flank pain, weight loss, and malaise
+Explanation:
+Xanthogranulomatous pyelonephritis is a chronic, destructive infection presenting with chronic flank pain, fever, malaise, and weight loss, distinct from the acute colicky pain of stone disease or the scrotal pain of testicular pathology.
+###
+A patient is diagnosed with xanthogranulomatous pyelonephritis based on the CT findings shown below. Which pair of organisms is most commonly implicated as causative? [img: xanthogranulomatous.png]
+A) Chlamydia and Neisseria
+B) Proteus and E. coli
+C) Candida and Aspergillus
+D) Staphylococcus aureus and Streptococcus pyogenes
+Correct Answer: B) Proteus and E. coli
+Explanation:
+Proteus is reported as the most common causative organism in xanthogranulomatous pyelonephritis, with E. coli also commonly implicated.
+###
+A patient is diagnosed with xanthogranulomatous pyelonephritis based on the CT findings shown below. What is the definitive treatment? [img: xanthogranulomatous.png]
+A) Antibiotics alone
+B) Percutaneous drainage alone
+C) Nephron-sparing partial nephrectomy
+D) Nephrectomy
+Correct Answer: D) Nephrectomy
+Explanation:
+Because the affected kidney is almost always hydronephrotic, obstructed, and functionally destroyed, nephrectomy is the standard definitive treatment for xanthogranulomatous pyelonephritis.
+###
+A newly married woman presents with irritative urinary symptoms consistent with "honeymoon cystitis." Which of the following correctly pairs the most likely causative organism with the typical antibiotic treatment duration?
+A) Chlamydia trachomatis — single dose
+B) E. coli — 3–5 days
+C) Staphylococcus saprophyticus — 10–14 days
+D) Proteus mirabilis — 6 weeks
+Correct Answer: B) E. coli — 3–5 days
+Explanation:
+"Honeymoon cystitis" is uncomplicated cystitis related to intercourse, most commonly caused by E. coli and treated with a short course of oral antibiotics (typically 3–5 days depending on the agent chosen); routine culture is not required in a typical uncomplicated case.
+###
+Which pair of organisms below are BOTH urease-producing organisms that can cause urinary tract infection?
+A) Proteus and Klebsiella
+B) E. coli and Enterococcus
+C) Pseudomonas and Staphylococcus saprophyticus
+D) Chlamydia and Candida
+Correct Answer: A) Proteus and Klebsiella
+Explanation:
+Proteus and Klebsiella are both urease-producing organisms capable of alkalinizing urine and promoting struvite (infection) stone formation, unlike E. coli, which rarely secretes urease.
+###
+Which pair of organisms is most typically implicated in obstructive (stone-associated) pyelonephritis?
+A) Chlamydia and Ureaplasma
+B) E. coli and Proteus
+C) Candida and Aspergillus
+D) Staphylococcus aureus and Streptococcus pneumoniae
+Correct Answer: B) E. coli and Proteus
+Explanation:
+E. coli and stone-forming/urease-producing organisms such as Proteus are typically implicated in obstructive pyelonephritis associated with infected calculi.
+###
+Which of the following statements correctly differentiates obstructive from non-obstructive acute pyelonephritis?
+A) Non-obstructive pyelonephritis requires emergency decompression
+B) Obstructive pyelonephritis is always painless
+C) Both are managed identically with oral antibiotics alone
+D) Obstructive pyelonephritis has an underlying blockage causing impaired drainage and risk of rapid deterioration/urosepsis, while non-obstructive pyelonephritis has normal urinary drainage
+Correct Answer: D) Obstructive pyelonephritis has an underlying blockage causing impaired drainage and risk of rapid deterioration/urosepsis, while non-obstructive pyelonephritis has normal urinary drainage
+Explanation:
+An obstructed, infected kidney is a urological emergency requiring urgent decompression (JJ stent or nephrostomy) because of the risk of rapid deterioration and urosepsis, unlike non-obstructive pyelonephritis, which is managed with antibiotics alone.
+###
+Which pair correctly represents the two main routes of bacterial entry into the urinary tract?
+A) Lymphatic and ascending
+B) Ascending and hematogenous
+C) Hematogenous and direct extension from bowel perforation only
+D) Iatrogenic and lymphatic
+Correct Answer: B) Ascending and hematogenous
+Explanation:
+Most UTIs occur via the ascending route (bacteria from the bowel reservoir ascending through the urethra), while hematogenous spread is an uncommon route seen mainly in immunocompromised patients and neonates.
+###
+Regarding recurrent urinary tract infection, which of the following statements is TRUE?
+A) Persistent infection always involves reintroduction of bacteria from outside the urinary tract
+B) Reinfection indicates an infected stone or prostate as the source
+C) Reinfection involves a new organism introduced from outside the urinary tract
+D) Reinfection and persistent infection are managed identically regardless of cause
+Correct Answer: C) Reinfection involves a new organism introduced from outside the urinary tract
+Explanation:
+Reinfection results from reintroduction of bacteria from outside the urinary tract, whereas bacterial persistence occurs when the same organism re-emerges from a focus within the tract, such as an infected stone or prostate, which has management implications (e.g., need for source removal).
+###
+Which of the following options lists factors that are ALL genuine host-defense mechanisms against UTI?
+A) Urine flow, type 1 pili, and hemolysin
+B) Tamm-Horsfall protein, K-antigen, and P-fimbriae
+C) Urine flow, urothelial barrier, and bladder mucosal exfoliation
+D) Urothelial barrier, capsule, and flagella
+Correct Answer: C) Urine flow, urothelial barrier, and bladder mucosal exfoliation
+Explanation:
+Urine flow, the urothelial barrier, and bladder mucosal exfoliation are genuine host-defense mechanisms; type 1 pili, hemolysin, K-antigen, capsule, and flagella are bacterial virulence factors, not host defenses.
+###
+Asymptomatic bacteriuria is defined as bacterial growth in the urine without symptoms. In which of the following situations should it be actively screened for and treated?
+A) Pregnancy and prior to urologic intervention
+B) Elderly institutionalized patients and diabetics
+C) Young healthy non-pregnant women
+D) Patients with indwelling catheters only
+Correct Answer: A) Pregnancy and prior to urologic intervention
+Explanation:
+Asymptomatic bacteriuria is screened for and treated mainly in pregnancy (due to risk of progression to pyelonephritis) and before urologic procedures (to reduce bacteremia risk); it is not treated in the elderly, diabetics, or healthy young women.
+###
+A patient has 4 recurrent episodes of infection throughout the year. Each episode resolves completely with treatment, but the infection recurs after a period of time. The culture obtained during the latest episode shows the same organism as in previous episodes. What is the most likely explanation?
+A) Persistent infection
+B) Resistant infection
+C) Reinfection
+D) Unresolved infection
+Correct Answer: C) Reinfection
+Explanation:
+Complete resolution between episodes (documented successful treatment) followed by recurrence with the same organism defines reinfection; bacterial persistence would imply an ongoing focus (e.g., infected stone/prostate) without true resolution, and unresolved infection implies failure to respond to therapy in the first place.
+Coronary - 5 Mini-OSCE (Group B)
+###
