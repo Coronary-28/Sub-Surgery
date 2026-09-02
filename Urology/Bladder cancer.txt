@@ -1,0 +1,355 @@
+Which bladder tumor originates from the urachus?
+A) Transitional cell carcinoma
+B) Sarcoma
+C) Squamous cell carcinoma
+D) Adenocarcinoma
+E) Small cell carcinoma
+Correct Answer: D) Adenocarcinoma
+Explanation: Urachal remnants at the bladder dome give rise to adenocarcinoma, often presenting with mucusuria. TCC and SCC arise from urothelium and chronic irritation respectively, not urachal remnants.
+###
+Which type of bladder cancer is caused due to chronic irritation?
+A) Transitional cell carcinoma
+B) Adenocarcinoma
+C) Squamous cell carcinoma
+D) Sarcoma
+E) Small cell carcinoma
+Correct Answer: C) Squamous cell carcinoma
+Explanation: Chronic irritation (Schistosoma, long-term catheterization, bladder stones, recurrent UTI) causes squamous metaplasia of the urothelium, progressing to SCC over time.
+###
+Which of the following environmental factors is highly associated with bladder cancer?
+A) Smoking
+B) Irradiation
+C) Occupation
+D) Age
+E) Diet
+Correct Answer: A) Smoking
+Explanation: Smoking accounts for roughly half of bladder cancers, conferring a 2–6× increased risk via carcinogenic arylamines. Occupational and radiation exposure are recognized risk factors but contribute far less overall.
+###
+Typical presentation of bladder cancer:
+A) Painful urination
+B) Dysuria
+C) Painless intermittent gross hematuria
+D) Urinary frequency
+E) Urgency
+Correct Answer: C) Painless intermittent gross hematuria
+Explanation: This is the classic presentation, seen in 80–85% of patients, and represents total hematuria from the bladder. Irritative symptoms like frequency or dysuria are less common and suggest CIS.
+###
+68-year-old male patient diagnosed with bladder TCC; on TURBT histology came back as T2 bladder TCC. Best next treatment option is:
+A) Radical cystoprostatectomy
+B) Intravesical immunotherapy
+C) Intravenous chemotherapy and TURBT
+D) Re-do TURBT in 3 months
+E) Intravesical chemotherapy
+Correct Answer: A) Radical cystoprostatectomy
+Explanation: T2 disease invades the muscularis propria, defining muscle-invasive bladder cancer, which requires radical cystectomy (± neoadjuvant cisplatin-based chemotherapy). Intravesical therapies are reserved for non-muscle-invasive disease.
+###
+Which is considered the best for follow-up of bladder cancer after resection?
+A) Cystoscopy
+B) Ultrasound
+C) CT urography
+D) IVU
+E) Cystometry
+Correct Answer: A) Cystoscopy
+Explanation: Cystoscopy is the gold standard for surveillance, allowing direct visualization and biopsy of recurrent lesions. Imaging modalities lack the sensitivity to detect small mucosal recurrences.
+###
+Which one of the following intravesical treatments CANNOT be given immediately after bladder cancer resection?
+A) Mitomycin
+B) BCG
+C) Thiotepa
+D) Gemcitabine
+E) Doxorubicin
+Correct Answer: B) BCG
+Explanation: Intravesical chemotherapy (such as Mitomycin) can be administered as a single dose within 24 hours of resection to eliminate circulating tumor cells. However, intravesical BCG (an attenuated strain of mycobacteria) must be delayed for at least 2 weeks post-resection. This delay allows the resection site to heal completely, preventing potentially fatal systemic mycobacterial dissemination and BCG-sepsis.
+###
+High-grade bladder tumor characteristics:
+A) High progression AND high recurrence
+B) High progression AND low recurrence
+C) Low progression AND low recurrence
+D) Low progression AND high recurrence
+E) No recurrence and no progression
+Correct Answer: A) High progression AND high recurrence
+Explanation: High-grade tumors carry both high recurrence and high progression risk, whereas low-grade tumors have high recurrence but low progression potential.
+###
+A 62-year-old male presents with intermittent, painless gross hematuria. Cystoscopy reveals a papillary bladder tumor, and he undergoes a complete transurethral resection of bladder tumor (TURBT). The final histopathology report confirms a Ta, low-grade non-muscle-invasive bladder cancer (NMIBC).Which of the following is the most appropriate next step in the immediate management of this patient?
+A) Intravesical BCG
+B) Intravesical Mitomycin C
+C) Radical cystectomy
+D) Observation only
+E) Partial cystectomy
+Correct Answer: B) Intravesical Mitomycin C
+Explanation: A single immediate instillation post-TURBT reduces recurrence by ~50% in Ta low-grade tumors. BCG is reserved for T1, CIS, or high-grade Ta disease due to its higher toxicity.
+###
+Egyptian man with previous Schistosoma parasite infection — most common bladder cancer type:
+A) Transitional cell carcinoma
+B) Adenocarcinoma
+C) Squamous cell carcinoma
+D) Sarcoma
+E) Small cell carcinoma
+Correct Answer: C) Squamous cell carcinoma
+Explanation: S. haematobium is endemic in Egypt; eggs deposited in the bladder wall trigger chronic inflammation and squamous metaplasia, leading to SCC rather than TCC.
+###
+Risk factor for bladder cancer from occupation:
+A) Obesity
+B) Working in rubber/dye/textile/paint industry
+C) Hypertension
+D) Diabetes mellitus
+E) Physical inactivity
+Correct Answer: B) Working in rubber/dye/textile/paint industry
+Explanation: Aromatic amines such as benzidine and beta-naphthylamine are established occupational carcinogens in these industries, as well as in painting and hairdressing.
+###
+What is the definitive treatment for muscle-invasive bladder cancer?
+A) Chemotherapy alone
+B) Cystoscopy + biopsy
+C) Partial cystectomy
+D) Radical cystectomy (+ ileal conduit/neobladder)
+E) Intravesical BCG
+Correct Answer: D) Radical cystectomy (+ ileal conduit/neobladder)
+Explanation: Radical cystectomy with urinary diversion is the gold standard for T2+ disease. Chemotherapy alone and intravesical therapy are inadequate once muscularis propria is invaded.
+###
+Which group is more affected by bladder cancer?
+A) Women
+B) Children
+C) Older males (especially smokers)
+D) Diabetics
+E) Young adults
+Correct Answer: C) Older males (especially smokers)
+Explanation: Male:female ratio is roughly 3:1, with peak incidence at 60–70 years; smoking further amplifies this predominant demographic risk.
+###
+Which of the following is a risk factor for bladder cancer?
+A) Obesity
+B) Working in rubber industry
+C) Hypertension
+D) Family history of bladder cancer
+E) Diabetes mellitus
+Correct Answer: B) Working in rubber industry
+Explanation: Occupational exposure to aromatic amines in the rubber industry is a well-established, strong risk factor. Family history confers only a modest (two-fold) increase in comparison.
+###
+Patient with uncontrolled HTN, colon cancer treated with cyclophosphamide + radiotherapy, now has invasive bladder cancer — what is LEAST likely to increase bladder cancer risk?
+A) Smoking
+B) Radiotherapy
+C) Cyclophosphamide chemotherapy
+D) Poor control of hypertension
+E) Pelvic irradiation
+Correct Answer: D) Poor control of hypertension
+Explanation: Hypertension is not a recognized bladder cancer risk factor, whereas cyclophosphamide, pelvic radiotherapy, and smoking are all established causative agents.
+###
+Which of the following is a common risk factor for squamous cell carcinoma of the bladder?
+A) Staphylococcus aureus
+B) Schistosoma haematobium
+C) Escherichia coli
+D) Proteus mirabilis
+E) All of the above
+Correct Answer: B) Schistosoma haematobium
+Explanation: Eggs lodging in the bladder wall provoke chronic granulomatous inflammation and squamous metaplasia, culminating in SCC — unlike ordinary bacterial UTIs.
+###
+60-year-old smoker with painless intermittent gross hematuria. Most likely diagnosis?
+A) TCC (transitional cell carcinoma) bladder cancer
+B) Adenocarcinoma
+C) Small cell carcinoma
+D) Squamous cell carcinoma
+E) Sarcoma
+Correct Answer: A) TCC (transitional cell carcinoma) bladder cancer
+Explanation: TCC accounts for ~90% of bladder cancers and is strongly linked to smoking, presenting classically with painless intermittent gross hematuria.
+###
+Which of the following is NOT a risk factor for bladder cancer?
+A) Smoking
+B) Aromatic amine exposure
+C) Occupational exposure to paint
+D) Male gender
+E) Alcohol
+Correct Answer: E) Alcohol
+Explanation: Alcohol has no established causal link to bladder cancer, unlike smoking, occupational carcinogen exposure, and male gender, which are all recognized risk factors.
+###
+Most common cancer associated with persistent urachus:
+A) TCC
+B) Adenocarcinoma
+C) Squamous cell carcinoma
+D) Sarcoma
+E) Small cell carcinoma
+Correct Answer: B) Adenocarcinoma
+Explanation: A persistent urachal remnant at the bladder dome predisposes to adenocarcinoma, distinct from the urothelium-derived TCC affecting the rest of the bladder.
+###
+Patient with bladder cancer stage T1, high risk for progression, underwent resection; after 2 weeks what is the next step?
+A) Cystoscopy with intravesical BCG
+B) Radical cystectomy
+C) Chemotherapy
+D) Observation
+E) Repeat TURBT
+Correct Answer: E) Repeat TURBT
+Explanation: High-risk T1 tumors require re-resection (repeat TURBT) to exclude understaging or residual disease before committing to intravesical therapy.
+###
+Patient treated with BCG has a biopsy showing CIS with muscle invasion. What is the best management?
+A) Intravesical BCG re-induction
+B) Radical cystectomy with urinary diversion
+C) Chemotherapy
+D) Repeat TURBT
+E) Observation
+Correct Answer: B) Radical cystectomy with urinary diversion
+Explanation: Muscle invasion signifies progression beyond the scope of intravesical therapy; BCG failure with invasive disease mandates radical cystectomy.
+###
+Patient found to have bladder cancer; after TURBT the histology came back as T1. What is the next step?
+A) Cystoscopy follow-up and intravesical therapy
+B) Radical cystectomy and urinary diversion
+C) Chemotherapy
+D) Repeat TURBT immediately
+E) Observation only
+Correct Answer: A) Cystoscopy follow-up and intravesical therapy
+Explanation: T1 tumors are non-muscle-invasive, so management consists of surveillance cystoscopy with intravesical instillation rather than radical surgery.
+###
+The most common presentation of bladder cancer:
+A) Painless hematuria
+B) Painful hematuria
+C) Frequency
+D) Dysuria
+E) Urgency
+Correct Answer: A) Painless hematuria
+Explanation: Painless gross hematuria is the classic and most common presenting symptom, seen in the majority of bladder cancer patients.
+###
+Urine cytology is most sensitive for?
+A) Low-grade bladder tumors
+B) High-grade bladder cancer and carcinoma in situ (CIS)
+C) Renal stones
+D) BPH
+E) Ureteric strictures
+Correct Answer: B) High-grade bladder cancer and carcinoma in situ (CIS)
+Explanation: Urine cytology detects poorly differentiated cells shed from high-grade tumors and CIS with high sensitivity, but often misses well-differentiated low-grade lesions.
+###
+Which of the following is NOT a component of trimodal therapy for bladder-preserving treatment of muscle-invasive bladder cancer?
+A) Maximal TURBT
+B) Concurrent chemotherapy
+C) Radical cystectomy
+D) Radiotherapy
+Correct Answer: C) Radical cystectomy
+Explanation: Trimodal therapy combines maximal TURBT with concurrent chemotherapy and radiotherapy specifically to spare the bladder; radical cystectomy is the alternative it aims to avoid.
+###
+Which of the following best describes the classical presentation of bladder cancer, particularly when carcinoma in situ is present?
+A) Painless visible hematuria alone
+B) Painful gross hematuria with fever
+C) Painless intermittent hematuria with urgency, frequency, and dysuria
+D) Isolated microscopic hematuria only
+E) Flank pain radiating to the groin
+Correct Answer: C) Painless intermittent hematuria with urgency, frequency, and dysuria
+Explanation: Classic presentation is painless intermittent hematuria; irritative symptoms suggest CIS.
+###
+Which chemotherapeutic agent is itself a recognized risk factor for bladder cancer?
+A) Methotrexate
+B) Cyclophosphamide
+C) Doxorubicin
+D) Vincristine
+E) 5-Fluorouracil
+Correct Answer: B) Cyclophosphamide
+Explanation: Its urotoxic metabolite (acrolein) damages the urothelium, increasing bladder cancer risk.
+###
+A low-risk non-muscle-invasive tumor is resected. Most appropriate immediate management?
+A) Induction BCG course
+B) Radical cystectomy
+C) Single immediate intravesical chemotherapy (mitomycin/gemcitabine)
+D) Observation, no instillation
+E) Systemic chemotherapy
+Correct Answer: C) Single immediate intravesical chemotherapy (mitomycin/gemcitabine)
+Explanation: A single post-TURBT instillation reduces recurrence in low-risk disease without BCG-level toxicity.
+###
+A high-risk T1, high-grade tumor is found after TURBT. Recommended intravesical therapy?
+A) Single-dose mitomycin only
+B) Induction BCG followed by maintenance
+C) No intravesical treatment
+D) Intravesical gemcitabine first-line
+E) Systemic cisplatin
+Correct Answer: B) Induction BCG followed by maintenance
+Explanation: High-risk T1/high-grade or CIS requires induction BCG plus maintenance for optimal recurrence/progression control.
+###
+Which finding after TURBT mandates repeat TURBT?
+A) Ta low-grade tumor, clear margins
+B) T1 high-grade tumor or incomplete resection
+C) CIS confined to trigone
+D) Low-risk recurrence at 9 months
+E) Negative cystoscopy at 3 months
+Correct Answer: B) T1 high-grade tumor or incomplete resection
+Explanation: These carry understaging risk, so repeat TURBT confirms true depth of invasion before further treatment.
+###
+A patient has very-high-risk or BCG-unresponsive NMIBC. Best management?
+A) Repeat BCG induction indefinitely
+B) Radical cystectomy
+C) Cystoscopy surveillance only
+D) Switch to intravesical mitomycin
+E) Partial cystectomy
+Correct Answer: B) Radical cystectomy
+Explanation: BCG-unresponsive or very-high-risk disease carries high progression risk, favoring cystectomy over further intravesical salvage.
+###
+Which correctly differentiates timing of chemotherapy vs. BCG after TURBT?
+A) Both delayed ≥2 weeks
+B) Chemotherapy within 24 hours; BCG delayed ≥2 weeks for mucosal healing
+C) BCG within 24 hours; chemotherapy delayed 2 weeks
+D) Both immediate
+E) No timing restrictions
+Correct Answer: B) Chemotherapy within 24 hours; BCG delayed ≥2 weeks for mucosal healing
+Explanation: Immediate chemo reduces recurrence; BCG needs intact urothelium to avoid systemic dissemination.
+###
+An IVU during the bladder-filling phase shows a radiolucent filling defect. Most likely diagnosis? [img: Intravenousurography.png ]
+A) Bladder tumor (urothelial/TCC)
+B) Normal bladder anatomy
+C) Ureteric stricture
+D) Renal cyst
+E) Bladder diverticulum
+Correct Answer: A) Bladder tumor (urothelial/TCC)
+Explanation: A radiolucent filling defect on IVU most commonly represents a urothelial tumor projecting into the lumen.
+###
+Given a radiolucent bladder filling defect on IVU, which is LEAST likely as a differential? [img: Intravenousurography.png ]
+A) Blood clot
+B) Radiolucent bladder stone
+C) Foreign body
+D) Enlarged prostate impressing bladder base
+E) Acute pyelonephritis
+Correct Answer: E) Acute pyelonephritis
+Explanation: Pyelonephritis is a renal parenchymal infection and does not cause a bladder filling defect.
+###
+A radiolucent bladder filling defect is seen with hematuria. Next step? [img: Intravenousurography.png ]
+A) Repeat IVU in 6 months
+B) Cystoscopy with TURBT for diagnosis and staging
+C) Empirical antibiotics
+D) MRI pelvis only
+E) Observation with urine culture
+Correct Answer: B) Cystoscopy with TURBT for diagnosis and staging
+Explanation: TURBT gives histological diagnosis and staging; cytology/imaging are adjuncts, not substitutes.
+###
+This imaging study was performed during the bladder-filling phase, showing a radiolucent filling defect. What is the name of this imaging study? [img: Intravenousurography.png ]
+A) Intravenous urography
+B) CT urography
+C) Retrograde pyelography
+D) Voiding cystourethrogram
+E) Renal ultrasound
+Correct Answer: A) Intravenous urography (IVU)
+Explanation: IVU uses IV contrast excreted by the kidneys to opacify the collecting system, ureters, and bladder, allowing detection of filling defects such as tumors.
+###
+Bladder carcinoma in situ (CIS) is:
+A) Low-grade, flat, non-invasive urothelial carcinoma.
+B) High-grade papillary urothelial carcinoma invading the lamina propria.
+C) Muscle-invasive urothelial carcinoma (T2).
+D) Benign urothelial dysplasia.
+E) High-grade, flat, non-invasive urothelial carcinoma (Tis).
+Correct Answer: E) High-grade, flat, non-invasive urothelial carcinoma (Tis).
+Explanation:
+CIS is by definition a flat (non-papillary), high-grade, non-invasive lesion (Tis); papillary morphology with invasion into lamina propria describes T1 disease, not CIS.
+Coronary - 5 Mini-OSCE (Group B)
+###
+A patient is diagnosed with high-grade non–muscle-invasive bladder cancer (NMIBC) and undergoes TURBT. What is the appropriate treatment to be given 2 weeks after TURBT?
+A) Radical cystectomy
+B) Systemic chemotherapy
+C) Intravesical mitomycin only
+D) Radiotherapy
+E) Intravesical BCG
+Correct Answer: E) Intravesical BCG
+Explanation:
+Intravesical BCG is started about two weeks post-resection for high-grade NMIBC because it reduces both recurrence and progression more effectively than mitomycin, though with more side effects; it must not be given immediately post-op due to bleeding/perforation risk.
+Coronary - 5 Mini-OSCE (Group B)
+###
+Which of the following is FALSE regarding bladder cancer?
+A) Most bladder cancers are transitional cell (urothelial) carcinomas.
+B) Adenocarcinoma of the bladder is associated with Schistosoma haematobium.
+C) Cigarette smoking is an important risk factor.
+D) Painless hematuria is a common presentation.
+E) Squamous cell carcinoma of the bladder is associated with Schistosoma haematobium.
+Correct Answer: B) Adenocarcinoma of the bladder is associated with Schistosoma haematobium.
+Explanation:
+Chronic Schistosoma haematobium infection and other chronic irritants (stones, long-term catheters) specifically raise the risk of squamous cell carcinoma of the bladder, not adenocarcinoma.
+Coronary - 5 Mini-OSCE (Group B)

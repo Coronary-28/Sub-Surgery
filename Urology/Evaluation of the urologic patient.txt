@@ -1,0 +1,265 @@
+Regarding urological imaging studies, what is the most important risk of exposure to ionizing radiation?
+A) Alopecia
+B) Diarrhoea
+C) Induction of malignancy
+D) Skin irritation
+E) Cataracts
+Correct Answer: C) Induction of malignancy
+Explanation: Ionizing radiation from CT and fluoroscopic urological studies carries a cumulative risk of carcinogenesis, making malignancy induction the most clinically significant long-term hazard. Skin irritation and cataracts require far higher cumulative doses to manifest.
+##
+All of the following are true about kidney anatomy, EXCEPT:
+A) An oval intraperitoneal organ
+B) Left kidney has a longer renal vein
+C) Right kidney is smaller than the left kidney
+D) Kidneys are bean-shaped structures
+E) Kidneys are bilateral structures
+Correct Answer: A) An oval intraperitoneal organ
+Explanation: Kidneys are retroperitoneal, bean-shaped structures, not intraperitoneal. The right kidney sits lower and is often described as slightly smaller, while the left renal vein is longer as it crosses the aorta to reach the IVC.
+###
+Which of the following is FALSE about kidney anatomy?
+A) Kidneys are retroperitoneal organs
+B) Kidneys are bilateral
+C) Kidneys are bean-shaped
+D) Kidneys are intraperitoneal organs
+E) Kidneys lie posterior in the abdomen
+Correct Answer: D) Kidneys are intraperitoneal organs
+Explanation: Kidneys lie retroperitoneally against the posterior abdominal wall, not within the peritoneal cavity. All other listed features (bilateral, bean-shaped, posterior location) accurately describe renal anatomy.
+###
+The correct order of the division of the intrarenal branches of the renal artery is:
+A) Segmental, interlobar (infundibular), arcuate, interlobular
+B) Segmental, arcuate, interlobular, interlobar (infundibular)
+C) Interlobular, segmental, interlobar (infundibular), arcuate
+D) Segmental, arcuate, interlobar (infundibular), interlobular
+E) Interlobular, interlobar (infundibular), segmental, arcuate
+Correct Answer: A) Segmental, interlobar (infundibular), arcuate, interlobular
+Explanation: The renal artery branches sequentially from segmental arteries into interlobar arteries running between pyramids, then arcuate arteries arching at the corticomedullary junction, and finally interlobular arteries ascending into the cortex.
+###
+The only segment of the urethra that does NOT have transitional epithelium is the:
+A) Prostatic urethra
+B) Membranous urethra
+C) Bulbar urethra
+D) Bulbomembranous urethra
+E) Fossa navicularis
+Correct Answer: E) Fossa navicularis
+Explanation: The fossa navicularis is lined by stratified squamous epithelium, distinguishing it from the transitional epithelium lining the more proximal urethral segments listed as options. Another way to phrase the question: Which segment is lined by stratified squamous epithelium? Ans: E.
+###
+Ultrasound has many advantages which include all of the following EXCEPT:
+A) It is safe and does not use ionizing radiation
+B) It requires little or no pre-procedural preparation
+C) It allows discrimination between pseudotumors and true lesions
+D) It can be safely performed in pregnant women
+E) It is not affected by renal function
+Correct Answer: C) It allows discrimination between pseudotumors and true lesions
+Explanation: Ultrasound is limited in differentiating pseudotumors from true renal lesions; CT or MRI are superior for this characterization. Its safety, minimal preparation, and independence from renal function are genuine advantages.
+###
+Which of the following is associated with suprapubic pain?
+A) Renal colic
+B) Prostatic cancer
+C) Bladder disease
+D) Ureteric stone
+E) Renal cell carcinoma
+Correct Answer: C) Bladder disease
+Explanation: Bladder pathology such as cystitis or overdistension classically produces suprapubic discomfort, whereas renal colic and ureteric stones typically cause flank pain radiating to the groin.
+###
+Which of the following statements is FALSE regarding physical examination?
+A) The testes in men should be the same size
+B) A hydrocele transilluminates
+C) The normal prostate is the size of a walnut
+D) A hydrocele feels like a bag of worms
+E) It is best to examine a man's genitalia in a warm room
+Correct Answer: D) A hydrocele feels like a bag of worms
+Explanation: A "bag of worms" texture describes a varicocele, not a hydrocele; a hydrocele is a smooth, fluid-filled swelling that transilluminates. A warm room helps relax the cremasteric reflex for accurate examination.
+###
+All the following can cause a DECREASE in specific gravity of urine EXCEPT:
+A) Dehydration
+B) Increased fluid intake
+C) Diuretics
+D) Inability to concentrate urine
+E) Diabetes insipidus
+Correct Answer: A) Dehydration
+Explanation: Dehydration concentrates the urine, raising specific gravity, whereas increased fluid intake, diuretics, and impaired concentrating ability all dilute urine and lower specific gravity.
+###
+Which of the following are used in the calculation of plasma osmolarity?
+A) Urea and sodium
+B) Urea, glucose, and sodium
+C) Glucose, sodium, and potassium
+D) Sodium, chloride, and urea
+E) Potassium and glucose only
+Correct Answer: B) Urea, glucose, and sodium
+Explanation: Plasma osmolarity is estimated as 2×Na + Glucose/18 + BUN/2.8, incorporating sodium as the main osmotic contributor along with glucose and urea.
+###
+Which of the following is true about renal pain?
+A) Caused by acute distension of renal capsule from obstruction or inflammation
+B) Inflammation is steady in nature
+C) Can be confused with intraperitoneal diseases
+D) All of the above
+E) None of the above
+Correct Answer: D) All of the above
+Explanation: Renal pain arises from capsular distension, with inflammatory pain being steady while obstructive pain fluctuates; it can also mimic intraperitoneal pathology, though patients with renal pain classically prefer to move (rolling sign) unlike those with peritoneal pain.
+###
+Choose the WRONG statement about kidney anatomy:
+A) Right kidney is 1 cm higher than the left kidney
+B) Left kidney is higher than the right
+C) Right kidney extends from 1st to 3rd lumbar vertebrae
+D) Left kidney extends from 12th thoracic to 3rd lumbar vertebrae
+E) The right kidney is displaced inferiorly by the liver
+Correct Answer: A) Right kidney is 1 cm higher than the left kidney
+Explanation: The right kidney actually lies 1-2 cm lower than the left due to the liver's position above it, making the left kidney the higher of the two.
+###
+Choose the WRONG statement:
+A) Inflamed kidney causes colicky pain and obstruction causes steady pain
+B) Obstruction causes colicky pain and inflammation causes steady pain
+C) Renal colic fluctuates in intensity as the kidney attempts to relieve obstruction
+D) Steady inflammatory pain reflects capsular distension without peristaltic surges
+E) Obstructive pain fluctuates due to ureteral peristalsis against the blockage
+Correct Answer: A) Inflamed kidney causes colicky pain and obstruction causes steady pain
+Explanation: This reverses the actual pattern: inflammatory renal pain is steady, while obstructive pain fluctuates in intensity as the ureter undergoes hyperperistalsis to overcome the blockage.
+###
+Radiographically, the ureter is divided into how many parts?
+A) Two
+B) Three
+C) Four
+D) Five
+E) One continuous segment
+Correct Answer: B) Three
+Explanation: The ureter is anatomically and radiologically divided into upper, middle (over the sacrum), and lower segments, corresponding to abdominal, pelvic, and intramural portions.
+Coronary - 5 Mini-OSCE (Group B)
+###
+Which of the following drugs does NOT cause renal failure?
+A) ACE inhibitor
+B) Gentamicin
+C) Tamsulosin
+D) NSAIDs
+E) Aminoglycosides
+Correct Answer: C) Tamsulosin
+Explanation: Tamsulosin is an alpha-blocker used for bladder outlet obstruction and lacks nephrotoxic potential, unlike ACE inhibitors, aminoglycosides such as gentamicin, and NSAIDs, which can impair renal perfusion or cause direct tubular injury.
+###
+Which imaging modality is safest for a patient in renal failure?
+A) CT with contrast
+B) MRI with gadolinium
+C) Ultrasound
+D) IVU
+E) CT urography
+Correct Answer: C) Ultrasound
+Explanation: Ultrasound requires no contrast or radiation exposure and is unaffected by renal function, making it the safest imaging choice in renal impairment, unlike iodinated or gadolinium-based contrast studies which risk nephrotoxicity or nephrogenic systemic fibrosis.
+###
+Renal pain classically radiates to which of the following?
+A) Shoulder
+B) Flank to groin
+C) Neck
+D) Lower abdomen only
+E) Contralateral flank
+Correct Answer: B) Flank to groin
+Explanation: Renal and ureteric pain radiates from the flank toward the groin and may be referred to the testis due to shared T11-T12 innervation, distinguishing it from intraperitoneal pain, which classically radiates to the shoulder.
+###
+Which of the following is the correct sequence of the male urethra from proximal to distal?
+A) Membranous, prostatic, bulbar, penile
+B) Prostatic, membranous, penile, bulbar
+C) Prostatic, bulbar, membranous, penile
+D) Bulbar, prostatic, membranous, penile
+E) Prostatic, membranous, bulbar, penile
+Correct Answer: E) Prostatic, membranous, bulbar, penile
+Explanation: The male urethra begins at the bladder neck, passing through the prostatic segment, then the membranous urethra at the external sphincter, followed by the bulbar and pendulous penile urethra ending at the fossa navicularis.
+###
+A patient presents with flank pain. Which feature would favor a urological (renal) rather than an intraperitoneal cause?
+A) Pain is steady and patient lies motionless
+B) Pain radiates to the shoulder
+C) Patient prefers to move around and roll to find comfort
+D) Pain is aggravated by movement and relieved by lying still
+E) Pain is associated with peritoneal signs
+Correct Answer: C) Patient prefers to move around and roll to find comfort
+Explanation: Renal colic patients characteristically move restlessly (rolling sign) due to colicky pain, whereas intraperitoneal pathology causes steady pain with patients preferring to remain motionless.
+###
+Pneumaturia is best defined as which of the following?
+A) Painful urination due to inflammation
+B) Presence of gas in the urine
+C) Involuntary loss of urine during sleep
+D) Presence of blood in the urine
+E) Presence of protein in the urine
+Correct Answer: B) Presence of gas in the urine
+Explanation: Pneumaturia results from recent catheterization, an enteric fistula, or infection with gas-forming organisms, distinguishing it from hematuria (blood) or enuresis (nocturnal incontinence).
+###
+Which of the following is a FALSE statement about gonadal veins?
+A) The right gonadal vein terminates in the inferior vena cava below the level of the right renal vein
+B) The left gonadal vein terminates directly in the inferior vena cava
+C) The left gonadal vein has a longer course than the right before reaching its terminal vessel
+D) The right gonadal vein is more prone to reflux-related pathology than the left despite its shorter course
+E) Varicocele is more common on the left side than the right
+Correct Answer: B) The left gonadal vein terminates directly in the inferior vena cava
+Explanation: The left gonadal vein drains into the left renal vein rather than the IVC directly, giving it a longer, higher-pressure course that predisposes to left-sided varicocele; the right gonadal vein drains directly into the IVC.
+###
+A 28-year-old woman at 24 weeks of gestation presents with new-onset gross hematuria and mild flank discomfort, with no fever or dysuria. What is the best initial investigation?
+A) US
+B) CT scan
+C) IVP
+D) MRI with gadolinium
+E) Cystoscopy
+Correct Answer: B) US
+Explanation: Ultrasound avoids ionizing radiation and contrast, making it the safest first-line imaging choice in pregnancy for evaluating hematuria.
+###
+One of the following is true about the prostate:
+A) It secretes citric acid
+B) It secretes fructose
+C) It secretes albumin
+D) It secretes the majority of seminal fluid volume
+E) It secretes testosterone
+Correct Answer: A) It secretes citric acid
+Explanation: A is correct — the prostate secretes zinc, citric acid, and PSA. B is wrong because fructose is a seminal vesicle product. C is wrong; albumin is not a prostatic secretion. D is wrong because the seminal vesicles, not the prostate, contribute the majority of seminal fluid volume. E is wrong; testosterone is produced by the testis, not the prostate.
+###
+In a 30-year-old patient with microscopic hematuria confirmed on two consecutive urinalyses, which combination correctly represents the essential investigations and the causes of hematuria to consider?
+A) Essential investigations: cystoscopy and upper tract imaging; Causes: urinary tract stones, urothelial/renal malignancy, glomerular disease
+B) Essential investigations: urine culture and complete blood count; Causes: dehydration, excessive fluid intake, and diuretic use
+C) Essential investigations: serum PSA and testosterone level; Causes: hydrocele, varicocele, and epididymitis
+D) Essential investigations: 24-hour urine collection and renal biopsy in all cases; Causes: nocturnal polyuria, urgency, and frequency
+E) Essential investigations: uroflowmetry and post-void residual; Causes: bladder outlet obstruction, prostatic enlargement, and urethral stricture
+Correct Answer: A) Essential investigations: cystoscopy and upper tract imaging; Causes: urinary tract stones, urothelial/renal malignancy, glomerular disease
+Explanation: Hematuria in an adult is malignancy until proven otherwise, so cystoscopy assesses the bladder while upper tract imaging evaluates the kidneys and ureters, with stones, malignancy, and glomerular disease as the key causes to exclude. The distractors instead describe irritative symptom workup, scrotal pathology, or bladder outlet obstruction assessment, none of which target hematuria evaluation.
+###
+All of the following are appropriate questions to ask when taking a history of hematuria EXCEPT:
+A) Is the blood present at the start, throughout, or at the end of the urinary stream?
+B) Is the hematuria associated with pain, or is it painless?
+C) Are there any visible blood clots, and if so, what shape are they?
+D) Is there a history of smoking or occupational exposure to dyes or chemicals?
+E) Does the patient experience morning stiffness lasting more than 30 minutes?
+Correct Answer: E) Does the patient experience morning stiffness lasting more than 30 minutes?
+Explanation: Timing of blood in the stream, presence or absence of pain, clot characteristics, and smoking or occupational exposure history are all directly relevant to localizing and risk-stratifying hematuria, whereas morning stiffness is a rheumatological question unrelated to urological assessment.
+###
+All of the following are irritative LUTS symptoms EXCEPT:
+A) Frequency
+B) Urgency
+C) Nocturia
+D) Dysuria
+E) Hesitancy
+Correct Answer: E) Hesitancy
+Explanation: Hesitancy is an obstructive symptom reflecting delayed initiation of urination, whereas frequency, urgency, nocturia, and dysuria are all irritative symptoms related to bladder storage and mucosal irritation.
+###
+A 68-year-old man reports voiding 10 times during the day and waking up 3 times at night to urinate, each time passing only a small volume, with a strong sudden desire to void that is difficult to defer. His total 24-hour urine output is normal. Which category of symptoms best describes this presentation?
+A) Obstructive symptoms
+B) Irritative symptoms
+C) Continuous incontinence
+D) Overflow incontinence
+E) Nocturnal polyuria
+Correct Answer: B) Irritative symptoms
+Explanation: Frequency, nocturia with small voided volumes, and urgency despite a normal total daily urine output point to decreased functional bladder capacity or mucosal irritation, characteristic of irritative rather than obstructive symptoms.
+###
+A patient presents with hematuria that appears at the end of urination. Where is the most likely site of the pathology?
+A) Kidney
+B) Ureter
+C) Bladder neck or prostatic urethra
+D) Anterior urethra
+E) Glomerulus
+Correct Answer: C) Bladder neck or prostatic urethra
+Explanation:
+Terminal hematuria (blood at the end of voiding) localizes to the bladder neck or prostatic urethra, as opposed to initial hematuria (urethral) or total hematuria (bladder/upper tract).
+Coronary - 5 Mini-OSCE (Group B)
+###
+Which of the following is NOT a voiding symptom?
+A) Hesitancy
+B) Weak urinary stream
+C) Straining
+D) Nocturia
+E) Intermittency
+Correct Answer: D) Nocturia
+Explanation:
+Nocturia is a storage (irritative) symptom reflecting increased urine output or decreased bladder capacity, whereas hesitancy, weak stream, straining, and intermittency are all obstructive (voiding) symptoms.
+Coronary - 5 Mini-OSCE (Group B)

@@ -1,0 +1,169 @@
+Which statement about carcinoma of the prostate is correct?
+A) It is typically a squamous cell carcinoma
+B) It is graded histologically using the Gleason score
+C) It is not influenced by hormone manipulation
+D) It commonly invades the rectum directly
+E) It occurs predominantly in the central zone
+Correct Answer: B) It is graded histologically using the Gleason score
+Explanation: Prostate cancer is an adenocarcinoma graded by the Gleason score, arises predominantly in the peripheral zone, is hormone-dependent (responds to androgen deprivation therapy), and rarely invades the rectum due to Denonvilliers' fascia.
+###
+What grading system is used for prostate cancer?
+A) Gleason score
+B) Bloom-Richardson
+C) Breslow thickness
+D) Fuhrman grade
+E) Ann Arbor staging
+Correct Answer: A) Gleason score
+Explanation: The Gleason score assesses glandular architecture on low-power microscopy and correlates with prognosis; Bloom-Richardson is used for breast cancer, Breslow for melanoma, and Fuhrman for renal cell carcinoma.
+###
+PSA density is calculated as:
+A) Free PSA divided by total PSA
+B) Total PSA multiplied by prostate volume
+C) Free PSA divided by prostate volume
+D) Total PSA divided by total prostate volume
+E) Total PSA divided by patient age
+Correct Answer: D) Total PSA divided by total prostate volume
+Explanation: PSA density is total serum PSA divided by prostate volume (measured by TRUS); values above 0.15 ng/mL/g raise suspicion for malignancy.
+###
+Serum PSA and digital rectal examination are primarily used for:
+A) Treatment planning after diagnosis
+B) Early detection/screening for prostate cancer
+C) Assessing bladder outflow obstruction
+D) Diagnosing urinary tract infection
+Correct Answer: B) Early detection/screening for prostate cancer
+Explanation: PSA testing combined with DRE is used for early detection of prostate cancer in asymptomatic men, though PSA is organ-specific rather than cancer-specific.
+###
+Watchful waiting (as opposed to active surveillance) is most appropriate for men who:
+A) Have no major comorbidities
+B) Have PSA less than 10 ng/mL
+C) Have a life expectancy of 10 years or less with well-to-moderately differentiated cancer
+D) Have impalpable cancer not visible on imaging
+E) Are exactly 70 years old
+Correct Answer: C) Have a life expectancy of 10 years or less with well-to-moderately differentiated cancer
+Explanation: Watchful waiting is a palliative, symptom-directed strategy reserved for patients with limited life expectancy (≤10 years) and less aggressive disease, distinct from active surveillance which is used in younger, low-risk patients with curative intent.
+###
+The most common site of prostate cancer metastasis is:
+A) Lumbar spine/vertebrae
+B) Liver
+C) Lung
+Correct Answer: A) Lumbar spine/vertebrae
+Explanation: Prostate cancer classically metastasizes to the axial skeleton, particularly the lumbar spine, producing osteoblastic (sclerotic) lesions with associated back pain and elevated alkaline phosphatase.
+###
+Which statement about the Gleason grading system is FALSE?
+A) It is commonly used for prostate cancer
+B) It correlates with prognosis
+C) It does not correlate with prognosis
+D) A higher score indicates worse prognosis
+Correct Answer: C) It does not correlate with prognosis
+Explanation: This statement is false — the Gleason score strongly correlates with prognosis and guides management decisions in prostate cancer.
+###
+Serum PSA elevation may occur in association with which of the following?
+A) Prostate enlargement (BPH)
+B) All of the above
+C) Prostatic inflammation
+D) Prostate cancer
+E) Prostate manipulation
+Correct Answer: B) All of the above
+Explanation: PSA is organ-specific, not disease-specific, and can be elevated by BPH, prostatitis, cancer, and mechanical manipulation of the prostate (e.g., catheterization, biopsy, DRE).
+###
+Which is the most common cancer diagnosed in urology?
+A) Prostate cancer
+B) Bladder cancer
+C) Renal cell carcinoma
+D) Testicular cancer
+Correct Answer: A) Prostate cancer
+Explanation: Prostate cancer is the second most common cancer diagnosed in men overall and the most common urological malignancy.
+###
+A patient with prostate cancer has a Gleason score of 8 and PSA 25. Which of the following is NOT an appropriate management option?
+A) Radical prostatectomy
+B) Radiotherapy
+C) Active surveillance
+Correct Answer: C) Active surveillance
+Explanation: Active surveillance is reserved for low-risk disease; a Gleason score of 8 with PSA 25 indicates high-risk disease requiring definitive treatment such as surgery or radiotherapy with hormonal therapy.
+###
+A patient with Gleason 3+3 prostate cancer is best managed with:
+A) Radical prostatectomy
+B) Radiotherapy
+C) Active surveillance
+Correct Answer: C) Active surveillance
+Explanation: Gleason 3+3 (grade group 1) represents low-risk disease, for which active surveillance is generally preferred to avoid overtreatment, provided other risk factors (PSA, stage, patient preference) support this approach.
+###
+A patient has a suspicious prostatic mass on digital rectal exam with PSA of 9 ng/mL. The next step is:
+A) TRUS alone without biopsy
+B) Active surveillance
+C) Image-guided prostate biopsy
+D) Watchful waiting
+Correct Answer: C) Image-guided prostate biopsy
+Explanation: A suspicious DRE finding combined with elevated PSA warrants histological diagnosis via ultrasound-guided prostate biopsy rather than proceeding directly to surveillance or watchful waiting.
+###
+All of the following are indications for prostate biopsy EXCEPT:
+A) Hard, nodular mass on DRE
+B) Serum PSA of 20 ng/mL
+C) PSA free:total ratio of 30%
+D) PSA density of 0.28 ng/mL/cc
+Correct Answer: C) PSA free:total ratio of 30%
+Explanation: A high free:total PSA ratio (such as 30%) is reassuring and associated with a lower likelihood of cancer; a low ratio would instead raise suspicion and support biopsy.
+###
+The Gleason score is used specifically for grading:
+A) Prostate cancer
+B) BPH
+C) Kidney stones
+D) Bladder cancer staging
+Correct Answer: A) Prostate cancer
+Explanation: The Gleason score is a histological grading system exclusively for prostate adenocarcinoma, based on glandular differentiation patterns.
+###
+A patient with known advanced prostate cancer presents with new-onset back pain. The most appropriate immediate step is:
+A) Watchful waiting
+B) Radical prostatectomy
+C) Radiotherapy alone
+D) Urgent assessment for spinal metastasis/cord compression, then consideration of androgen-deprivation therapy
+Correct Answer: D) Urgent assessment for spinal metastasis/cord compression, then consideration of androgen-deprivation therapy
+Explanation: New back pain in a patient with known prostate cancer must first be evaluated for vertebral metastasis or spinal cord compression as an oncologic emergency; systemic androgen-deprivation therapy (GnRH/LHRH agonist) is appropriate for the underlying metastatic disease once red flags are excluded.
+###
+A patient with prostate cancer has Gleason grade 8 and PSA greater than 20 with no metastatic findings on staging. Which management option is NOT appropriate?
+A) Active surveillance
+B) Radical prostatectomy
+C) Radiotherapy and hormonal therapy
+Correct Answer: A) Active surveillance
+Explanation: Active surveillance is unsuitable for high-risk, non-metastatic disease (Gleason 8, PSA >20); definitive treatment with surgery or radiotherapy plus hormonal therapy is indicated.
+###
+After one year of therapy with a 5-alpha reductase inhibitor, PSA typically:
+A) Doubles
+B) Decreases by approximately 50%
+C) Remains unchanged
+D) Increases by 50%
+Correct Answer: B) Decreases by approximately 50%
+Explanation: 5-alpha reductase inhibitors reduce PSA levels by approximately 50% after 6–12 months of therapy; this must be accounted for when interpreting PSA values in patients on these drugs.
+###
+A male patient presents to the urology department with a PSA level of 8–9 ng/mL. Digital rectal examination (DRE) reveals a hard, suspicious nodule in the prostate. What is the best next step?
+A) Repeat PSA after 3 months and observe
+B) Perform prostate biopsy
+C) Start treatment for benign prostatic hyperplasia (BPH)
+D) Perform a multiparametric MRI (mpMRI) of the prostate
+E) Proceed directly to radical prostatectomy
+Correct Answer: D) Perform a multiparametric MRI (mpMRI) of the prostate
+Explanation:
+With an elevated PSA and a suspicious DRE finding, mpMRI is used to localize and risk-stratify lesions before biopsy, improving biopsy targeting; jumping directly to biopsy or definitive surgery skips this standard risk-stratification step.
+Coronary - 5 Mini-OSCE (Group B)
+###
+Which of the following is a common site of metastasis in prostate carcinoma?
+A) Bone
+B) Liver
+C) Lung
+D) Brain
+E) Kidney
+Correct Answer: A) Bone
+Explanation:
+Prostate cancer classically metastasizes to the axial skeleton (especially the lumbar spine), producing osteoblastic lesions, unlike most other visceral sites listed.
+Coronary - 5 Mini-OSCE (Group B)
+###
+All of the following statements regarding prostate cancer are true EXCEPT:
+A) Adenocarcinoma is the most common histologic type.
+B) Gleason score measures tumor size.
+C) Bone metastases are commonly osteoblastic.
+D) PSA is used in the assessment of prostate cancer.
+E) The peripheral zone is a common site of origin.
+Correct Answer: B) Gleason score measures tumor size.
+Explanation:
+The Gleason score reflects histologic grade (degree of glandular differentiation), not tumor size or extent — tumor size/spread is captured by the TNM staging system instead.
+Coronary - 5 Mini-OSCE (Group B)
