@@ -263,3 +263,24 @@ Correct Answer: D) Nocturia
 Explanation:
 Nocturia is a storage (irritative) symptom reflecting increased urine output or decreased bladder capacity, whereas hesitancy, weak stream, straining, and intermittency are all obstructive (voiding) symptoms.
 Coronary - 5 Mini-OSCE (Group B)
+###
+Which of the following are components of Oral Rehydration Solution (ORS)?
+A) Calcium, glucose, magnesium, and phosphate
+B) Glucose, calcium, chloride, and magnesium
+C) Sodium, glucose, potassium, and nitrate
+D) Sodium, insulin, potassium, and bicarbonate
+Correct Answer: C) Sodium, glucose, potassium, and nitrate
+Explanation:
+Standard ORS is based on sodium, glucose (to drive co-transport of sodium and water), potassium, and a base component, distinguishing it from the calcium/magnesium/phosphate-based distractors which are not part of the standard formulation.
+Coronary - 5 Mini-OSCE (Group B)
+###
+A BI-RADS 5 lesion on breast imaging represents:
+A) Benign finding
+B) Probably benign
+C) Suspicious abnormality
+D) Known biopsy-proven malignancy
+E) Highly suspicious for malignancy
+Correct Answer: E) Highly suspicious for malignancy
+Explanation:
+BI-RADS 5 indicates a lesion with a very high probability of malignancy (≥95%) warranting biopsy, whereas BI-RADS 6 (not listed) is reserved for known biopsy-proven malignancy.
+Coronary - 5 Mini-OSCE (Group B)
