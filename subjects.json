@@ -5161,6 +5161,70 @@
             "lectureName": "Evaluation of the urologic patient",
             "groupName": "Evaluation of the urologic patient",
             "sourceType": "lecture"
+          },
+          {
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__29__d03srf",
+            "number": "29",
+            "text": "Which of the following are components of Oral Rehydration Solution (ORS)?",
+            "options": [
+              "Calcium, glucose, magnesium, and phosphate",
+              "Glucose, calcium, chloride, and magnesium",
+              "Sodium, glucose, potassium, and nitrate",
+              "Sodium, insulin, potassium, and bicarbonate"
+            ],
+            "originalOptions": [
+              "Calcium, glucose, magnesium, and phosphate",
+              "Glucose, calcium, chloride, and magnesium",
+              "Sodium, glucose, potassium, and nitrate",
+              "Sodium, insulin, potassium, and bicarbonate"
+            ],
+            "correctAnswer": "C) Sodium, glucose, potassium, and nitrate",
+            "correctAnswerText": "Sodium, glucose, potassium, and nitrate",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Standard ORS is based on sodium, glucose (to drive co-transport of sodium and water), potassium, and a base component, distinguishing it from the calcium/magnesium/phosphate-based distractors which are not part of the standard formulation.",
+            "batchName": "Coronary - 5 Mini-OSCE (Group B)",
+            "pageNumber": "",
+            "subjectName": "Urology",
+            "subjectId": "urology",
+            "lectureName": "Evaluation of the urologic patient",
+            "groupName": "Evaluation of the urologic patient",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__30__t4gpmx",
+            "number": "30",
+            "text": "A BI-RADS 5 lesion on breast imaging represents:",
+            "options": [
+              "Benign finding",
+              "Probably benign",
+              "Suspicious abnormality",
+              "Known biopsy-proven malignancy",
+              "Highly suspicious for malignancy"
+            ],
+            "originalOptions": [
+              "Benign finding",
+              "Probably benign",
+              "Suspicious abnormality",
+              "Known biopsy-proven malignancy",
+              "Highly suspicious for malignancy"
+            ],
+            "correctAnswer": "E) Highly suspicious for malignancy",
+            "correctAnswerText": "Highly suspicious for malignancy",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "BI-RADS 5 indicates a lesion with a very high probability of malignancy (≥95%) warranting biopsy, whereas BI-RADS 6 (not listed) is reserved for known biopsy-proven malignancy.",
+            "batchName": "Coronary - 5 Mini-OSCE (Group B)",
+            "pageNumber": "",
+            "subjectName": "Urology",
+            "subjectId": "urology",
+            "lectureName": "Evaluation of the urologic patient",
+            "groupName": "Evaluation of the urologic patient",
+            "sourceType": "lecture"
           }
         ]
       },
@@ -13758,6 +13822,72 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__29__d03srf",
+            "number": "29",
+            "text": "Which of the following are components of Oral Rehydration Solution (ORS)?",
+            "options": [
+              "Calcium, glucose, magnesium, and phosphate",
+              "Glucose, calcium, chloride, and magnesium",
+              "Sodium, glucose, potassium, and nitrate",
+              "Sodium, insulin, potassium, and bicarbonate"
+            ],
+            "originalOptions": [
+              "Calcium, glucose, magnesium, and phosphate",
+              "Glucose, calcium, chloride, and magnesium",
+              "Sodium, glucose, potassium, and nitrate",
+              "Sodium, insulin, potassium, and bicarbonate"
+            ],
+            "correctAnswer": "C) Sodium, glucose, potassium, and nitrate",
+            "correctAnswerText": "Sodium, glucose, potassium, and nitrate",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Standard ORS is based on sodium, glucose (to drive co-transport of sodium and water), potassium, and a base component, distinguishing it from the calcium/magnesium/phosphate-based distractors which are not part of the standard formulation.",
+            "batchName": "Coronary - 5 Mini-OSCE (Group B)",
+            "pageNumber": "",
+            "subjectName": "Urology",
+            "subjectId": "urology",
+            "lectureName": "Evaluation of the urologic patient",
+            "groupName": "Evaluation of the urologic patient",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
+            "id": "urology__lecture__evaluation-of-the-urologic-patient__30__t4gpmx",
+            "number": "30",
+            "text": "A BI-RADS 5 lesion on breast imaging represents:",
+            "options": [
+              "Benign finding",
+              "Probably benign",
+              "Suspicious abnormality",
+              "Known biopsy-proven malignancy",
+              "Highly suspicious for malignancy"
+            ],
+            "originalOptions": [
+              "Benign finding",
+              "Probably benign",
+              "Suspicious abnormality",
+              "Known biopsy-proven malignancy",
+              "Highly suspicious for malignancy"
+            ],
+            "correctAnswer": "E) Highly suspicious for malignancy",
+            "correctAnswerText": "Highly suspicious for malignancy",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "BI-RADS 5 indicates a lesion with a very high probability of malignancy (≥95%) warranting biopsy, whereas BI-RADS 6 (not listed) is reserved for known biopsy-proven malignancy.",
+            "batchName": "Coronary - 5 Mini-OSCE (Group B)",
+            "pageNumber": "",
+            "subjectName": "Urology",
+            "subjectId": "urology",
+            "lectureName": "Evaluation of the urologic patient",
+            "groupName": "Evaluation of the urologic patient",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "urology__lecture__prostate-cancer__18__jcms8o",
             "number": "18",
             "text": "A male patient presents to the urology department with a PSA level of 8–9 ng/mL. Digital rectal examination (DRE) reveals a hard, suspicious nodule in the prostate. What is the best next step?",
@@ -19203,6 +19333,70 @@
         "isMultiple": false,
         "correctAnswerLetter": "D",
         "explanation": "Nocturia is a storage (irritative) symptom reflecting increased urine output or decreased bladder capacity, whereas hesitancy, weak stream, straining, and intermittency are all obstructive (voiding) symptoms.",
+        "batchName": "Coronary - 5 Mini-OSCE (Group B)",
+        "pageNumber": "",
+        "subjectName": "Urology",
+        "subjectId": "urology",
+        "lectureName": "Evaluation of the urologic patient",
+        "groupName": "Evaluation of the urologic patient",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__29__d03srf",
+        "number": "29",
+        "text": "Which of the following are components of Oral Rehydration Solution (ORS)?",
+        "options": [
+          "Calcium, glucose, magnesium, and phosphate",
+          "Glucose, calcium, chloride, and magnesium",
+          "Sodium, glucose, potassium, and nitrate",
+          "Sodium, insulin, potassium, and bicarbonate"
+        ],
+        "originalOptions": [
+          "Calcium, glucose, magnesium, and phosphate",
+          "Glucose, calcium, chloride, and magnesium",
+          "Sodium, glucose, potassium, and nitrate",
+          "Sodium, insulin, potassium, and bicarbonate"
+        ],
+        "correctAnswer": "C) Sodium, glucose, potassium, and nitrate",
+        "correctAnswerText": "Sodium, glucose, potassium, and nitrate",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "Standard ORS is based on sodium, glucose (to drive co-transport of sodium and water), potassium, and a base component, distinguishing it from the calcium/magnesium/phosphate-based distractors which are not part of the standard formulation.",
+        "batchName": "Coronary - 5 Mini-OSCE (Group B)",
+        "pageNumber": "",
+        "subjectName": "Urology",
+        "subjectId": "urology",
+        "lectureName": "Evaluation of the urologic patient",
+        "groupName": "Evaluation of the urologic patient",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "urology__lecture__evaluation-of-the-urologic-patient__30__t4gpmx",
+        "number": "30",
+        "text": "A BI-RADS 5 lesion on breast imaging represents:",
+        "options": [
+          "Benign finding",
+          "Probably benign",
+          "Suspicious abnormality",
+          "Known biopsy-proven malignancy",
+          "Highly suspicious for malignancy"
+        ],
+        "originalOptions": [
+          "Benign finding",
+          "Probably benign",
+          "Suspicious abnormality",
+          "Known biopsy-proven malignancy",
+          "Highly suspicious for malignancy"
+        ],
+        "correctAnswer": "E) Highly suspicious for malignancy",
+        "correctAnswerText": "Highly suspicious for malignancy",
+        "correctIndex": 4,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "E",
+        "explanation": "BI-RADS 5 indicates a lesion with a very high probability of malignancy (≥95%) warranting biopsy, whereas BI-RADS 6 (not listed) is reserved for known biopsy-proven malignancy.",
         "batchName": "Coronary - 5 Mini-OSCE (Group B)",
         "pageNumber": "",
         "subjectName": "Urology",
@@ -27402,7 +27596,7 @@
         "sourceType": "lecture"
       }
     ],
-    "totalQuestions": 419,
+    "totalQuestions": 421,
     "totalLectures": 16,
     "hasAiFolder": false
   }
