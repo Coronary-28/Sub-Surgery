@@ -470,8 +470,8 @@ Proteus is reported as the most common causative organism in xanthogranulomatous
 A patient is diagnosed with xanthogranulomatous pyelonephritis based on the CT findings shown below. What is the definitive treatment? [img: xanthogranulomatous.png]
 A) Antibiotics alone
 B) Percutaneous drainage alone
-C) Nephron-sparing partial nephrectomy
-D) Nephrectomy
+C) Nephrectomy
+D) Nephron-sparing partial nephrectomy
 Correct Answer: D) Nephrectomy
 Explanation:
 Because the affected kidney is almost always hydronephrotic, obstructed, and functionally destroyed, nephrectomy is the standard definitive treatment for xanthogranulomatous pyelonephritis.
