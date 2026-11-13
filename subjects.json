@@ -12666,17 +12666,17 @@
             "options": [
               "Antibiotics alone",
               "Percutaneous drainage alone",
-              "Nephron-sparing partial nephrectomy",
-              "Nephrectomy"
+              "Nephrectomy",
+              "Nephron-sparing partial nephrectomy"
             ],
             "originalOptions": [
               "Antibiotics alone",
               "Percutaneous drainage alone",
-              "Nephron-sparing partial nephrectomy",
-              "Nephrectomy"
+              "Nephrectomy",
+              "Nephron-sparing partial nephrectomy"
             ],
             "correctAnswer": "D) Nephrectomy",
-            "correctAnswerText": "Nephrectomy",
+            "correctAnswerText": "Nephron-sparing partial nephrectomy",
             "correctIndex": 3,
             "correctIndices": [],
             "isMultiple": false,
@@ -26764,17 +26764,17 @@
         "options": [
           "Antibiotics alone",
           "Percutaneous drainage alone",
-          "Nephron-sparing partial nephrectomy",
-          "Nephrectomy"
+          "Nephrectomy",
+          "Nephron-sparing partial nephrectomy"
         ],
         "originalOptions": [
           "Antibiotics alone",
           "Percutaneous drainage alone",
-          "Nephron-sparing partial nephrectomy",
-          "Nephrectomy"
+          "Nephrectomy",
+          "Nephron-sparing partial nephrectomy"
         ],
         "correctAnswer": "D) Nephrectomy",
-        "correctAnswerText": "Nephrectomy",
+        "correctAnswerText": "Nephron-sparing partial nephrectomy",
         "correctIndex": 3,
         "correctIndices": [],
         "isMultiple": false,
